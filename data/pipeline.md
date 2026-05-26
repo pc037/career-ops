@@ -1,0 +1,114 @@
+# Pipeline — Pending Evaluations
+
+## Pendientes
+- [ ] https://jobs.ashbyhq.com/everai/694c19b7-d94f-4f66-97a7-5c881b0811bf | EverAI | Senior AI Product Manager (Remote - Europe)
+- [ ] https://jobs.ashbyhq.com/procurify/36f109d4-4024-4bfe-986c-6997c02b9967 | Procurify | Senior Product Manager, AI
+- [ ] https://jobs.ashbyhq.com/writer/d590e2f0-e2fe-4a02-b0e1-14f20777af13 | Writer | AI product manager
+- [ ] https://jobs.ashbyhq.com/sekai/534298cc-7123-4062-b2d0-061c41ff319f | Sekai | AI Product Manager (Remote)
+- [ ] https://jobs.ashbyhq.com/hive.co/fe239cd6-2467-42a6-bb0a-f5fcec17de2d | hive.co | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/Ment/6af78f81-ca51-49bc-a530-974dca9928c6 | Ment | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/acai/e3a41f3d-5fca-473e-9273-52daa7985d2a | Acai Travel | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/oscilar/d32ee038-0f64-406e-a2c8-a83de9fe6b61 | Oscilar | Product Manager
+- [ ] https://jobs.ashbyhq.com/9fin/ffe01dfd-0d71-43ee-bf04-ae2876f62c22 | 9fin | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/trm-labs/f637d8d6-54bd-4f24-8699-016980ddc09a | TRM Labs | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/langchain/0a5dd30c-6da1-4095-bd96-b16f27eeb333 | LangChain | Solutions Architect (Remote)
+- [ ] https://jobs.ashbyhq.com/fiddler-ai/640c12b9-6a07-4be1-a542-d76e4240e2ff | Fiddler AI | Solutions Architect, Customer Success - US (Remote)
+- [ ] https://jobs.ashbyhq.com/fiddler-ai/8c7d204c-048f-4d85-9aa6-f945ee8fa845 | Fiddler AI | Solutions Architect, Customer Success - Canada (Remote)
+- [ ] https://jobs.ashbyhq.com/orb/a0adb5b6-88f5-4d4d-a3e8-ea387dcedd7e | Orb | Solutions Architect - Remote (USA)
+- [ ] https://jobs.ashbyhq.com/lavendo/f0374fa5-f8b8-4f42-b6fb-898721ef6a10 | Lavendo | Solutions Architect – AI Agents Deployment
+- [ ] https://jobs.ashbyhq.com/roboflow/fa06d985-6671-4cdd-afff-dc67344db1d6 | Roboflow | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/drata/4aa58eb9-77af-4ddc-b54b-abfb57b23b4e | Drata | Senior Enterprise Solutions Architect (Remote)
+- [ ] https://jobs.ashbyhq.com/auditboard/8b5e6b57-7eb0-46d7-9158-a935f1486712 | AuditBoard | IT Staff Engineer/Solutions Architect (Remote)
+- [ ] https://jobs.ashbyhq.com/horizon3ai/01b63db2-2c73-439e-9032-182583e62d5a | Horizon3 AI | Solutions Architect, Central
+- [ ] https://jobs.ashbyhq.com/adaptive-ml/360ea776-27f1-4869-900f-6ebb78267aa2 | Adaptive ML | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/intrinsic-safety/1f7eea06-129d-4cc8-8764-f3a36a5a7426 | Variance | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/owkin/306c60e3-9ecf-40a1-b82a-16976bcfef87 | Owkin | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/baseten/84c1801c-1a65-49fb-aaaa-beeafd530e7e | Baseten | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/hopper/24380cbc-bb55-4c1e-b2dd-4420ae9e3eea | Hopper | Forward Deployed Engineer, HTS Assist
+- [ ] https://jobs.ashbyhq.com/periodic-labs/dbac407f-a408-44a3-9e7a-895d42649edc | Periodic Labs | Forward Deployed Engineer - LLM Systems
+- [ ] https://jobs.ashbyhq.com/owkin/d2467bc5-6e95-4a4f-8164-061e0262ab19 | Owkin | Senior Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57 | TRM Labs | Staff Software Engineer, Agent Engineering
+- [ ] https://jobs.ashbyhq.com/tavily/ea19ba06-293e-4129-a7db-b4f7ae57a720 | Tavily | Forward Deployed Engineer, Partnerships
+- [ ] https://jobs.ashbyhq.com/reflectionai/9e0c3947-a4ca-4c09-b0e8-dfaf634f33d7 | Reflection AI | Forward Deployed Engineer - LLM Post-training
+- [ ] https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5 | Glacis | Founding Software Engineer - Agentic AI
+- [ ] https://jobs.ashbyhq.com/revenuecat/998a9cef-3ea5-45c2-885b-8a00c4eeb149 | RevenueCat | Agentic AI Advocate
+- [ ] https://jobs.ashbyhq.com/fastino-ai/d0fe2e39-6cf2-4972-8266-461bd447468a | fastino.ai | AI Engineer
+- [ ] https://jobs.ashbyhq.com/naptha/e936b1c5-2ecd-453e-a4bc-14c15c5e561a | Naptha AI | AI Agent Engineer
+- [ ] https://jobs.ashbyhq.com/eigen-labs/c02fa001-23c9-4d68-8c0a-e27a742d76a4 | Eigen Labs | Agentic AI Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows
+- [ ] https://jobs.ashbyhq.com/oscilar/4326a0be-8156-4485-bb2e-3513331c6866 | Oscilar | Full-Stack Engineer – AI Agent Platform
+- [ ] https://jobs.ashbyhq.com/Serval/97829eb5-8bd9-4a6d-a04c-f4dfa1779674 | Serval | Head of AI Engineering
+- [ ] https://jobs.ashbyhq.com/n8n/5d501d74-cb30-4c14-8ff9-508f647b34a9 | n8n | Senior AI Engineer (Europe remote)
+- [ ] https://jobs.ashbyhq.com/n8n/69607328-f9fa-4788-8a6e-8b2d7a102969 | n8n | Senior AI Engineer (Europe remote - TS/Vue/NodeJS)
+- [ ] https://jobs.ashbyhq.com/n8n/b1cac773-bbcd-4aad-bea8-1c858729c9ef | n8n | AI Workflow Automation Engineer
+- [ ] https://jobs.ashbyhq.com/synthflow/b0cb2768-ac18-42a3-94b2-5e627f24023c | Synthflow AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/avoca/0fc22fe4-6b8c-4c93-9b3f-fa3738054601 | Avoca | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/78b98232-e0f1-4635-bb78-0303c691d21e | Deepgram | Senior AI Community Engineer
+- [ ] https://jobs.ashbyhq.com/GigaML/0bd3cb15-811f-4a6b-ac12-781f24735a86 | Giga ML | Forward Deployed Agent Engineer
+- [ ] https://jobs.ashbyhq.com/retell-ai/38c5ade2-6122-4924-b95e-949061976bb6 | Retell AI | Founding Senior AI Automation & Customer Success Engineer
+- [ ] https://jobs.ashbyhq.com/fireworks.ai/da851441-e231-4205-9717-3aa860bed6fe | Fireworks AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/withclutch/888a232e-6680-45fc-8992-608f70b81c82 | Clutch | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer
+- [ ] https://jobs.ashbyhq.com/P-1%20AI/75c853db-4a8d-4f23-b28f-05a2231e70e6 | P-1 AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/superdial/6129fe25-3ad0-4ab9-8548-fe97ce370711 | SuperDial | Senior Voice AI Engineer
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7833978 | Smartsheet | Senior Product Manager - Applied AI
+- [ ] https://job-boards.greenhouse.io/affinity/jobs/7692719003 | Affinity | Senior Product Manager, CRM
+- [ ] https://job-boards.greenhouse.io/sayari/jobs/4140623009 | Sayari | Senior Product Manager, AI Platform
+- [ ] https://job-boards.greenhouse.io/collectivei/jobs/4672023008 | Collective[i] | Senior Product Manager
+- [ ] https://boards.greenhouse.io/toast/jobs/7673399 | Toast | Senior Product Manager, AI CSM
+- [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/7782217 | SecurityScorecard | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/seamlessai/jobs/5635624004 | Seamless.AI | Senior Product Manager – Product-Led Growth
+- [ ] https://job-boards.greenhouse.io/isccareers/jobs/4685310005 | ISC | Senior AI Product Manager
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8445410002 | Postscript | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5816900004 | Grafana Labs | Senior Product Manager - Knowledge Graph
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8468149002 | GitLab | Solutions Architect, AI + Security & Compliance, EMEA
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/6163178 | Trace3 | Solutions Architect | AI (Remote)
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8320989002 | Workato | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7798778 | Smartsheet | Senior Forward Deployed AI Engineer (Remote Eligible)
+- [ ] https://job-boards.greenhouse.io/guidepointsecurity/jobs/5691976004 | GuidePoint Security | Generative AI Solution Engineer
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5528192004 | DevRev | Forward Deployed Architect
+- [ ] https://job-boards.greenhouse.io/layerzerolabs/jobs/5765882004 | LayerZero Labs | Staff Solutions Architect
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5973733004 | Caylent | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7930145 | Smartsheet | Senior Forward Deployed AI Engineer (Remote Eligible - UK)
+- [ ] https://job-boards.greenhouse.io/opaquesystems/jobs/4235505009 | Opaque Systems | Forward Deployed Engineer (AI)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5806327004 | Grafana Labs | Staff AI Engineer (Canada)
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8452710002 | SmartAsset | Senior ML Engineer
+- [ ] https://job-boards.greenhouse.io/sayari/jobs/4222358009 | Sayari | Senior AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7633985003 | Sezzle | AI Engineer II (Remote)
+- [ ] https://job-boards.greenhouse.io/oura/jobs/4206045009 | Oura | Senior AI Scientist
+- [ ] https://job-boards.greenhouse.io/nebius/jobs/4381327101 | Nebius | Senior/Staff ML Engineer (LLMs and Agentic Systems)
+- [ ] https://job-boards.greenhouse.io/corestory/jobs/4984207007 | CoreStory | AI Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5689200004 | Grafana Labs | Senior AI Engineer - AI/ML (USA)
+- [ ] https://job-boards.greenhouse.io/vulncheck/jobs/4219227009 | VulnCheck | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/lendingtree/jobs/7550936 | LendingTree | Sr. AI Platform Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731772003 | Celonis | Senior Integration & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8546727002 | Life360 | Senior IT Automation Engineer II (AI Native)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8546743002 | Life360 | Senior IT Systems Engineer II (AI Native)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5831791004 | Natera | Senior Engineer, Agentic RPA Automation
+- [ ] https://job-boards.greenhouse.io/saasgroup/jobs/4774181101 | saas.group | Senior IT Systems & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5819663004 | Turing | IT Automation Engineer - India
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7415707 | Omada Health | Senior Systems Automation Engineer
+- [ ] https://job-boards.greenhouse.io/appfire/jobs/4667233005 | Appfire | Senior AI Automation Engineer
+- [ ] https://job-boards.greenhouse.io/zeals/jobs/5572548004 | Zeals | AI/ML Engineer (Conversational AI)
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4664024005 | AssemblyAI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/xai/jobs/4717376007 | xAI | AI Engineer (Voice) - Enterprise
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5199747008 | Cresta | Senior Machine Learning Engineer, Voice Experience
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5093344007 | Together AI | Senior Platform Engineer, Voice AI
+- [ ] https://job-boards.greenhouse.io/soundhoundinc/jobs/8065905002 | SoundHound AI | Software Engineer VoiceAI
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/4667551007 | Pallet | Voice AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4759347008 | Cresta | Senior Forward Deployed Engineer (AI Agent)
+- [ ] https://jobs.lever.co/agiloft/eee3e496-50f3-4495-a54e-852ee56c6bcb | Agiloft | Forward Deployed Engineer - AI Solutions
+- [ ] https://jobs.lever.co/thinkahead/ed0d01dc-3cf0-4693-b770-560609612056 | AHEAD | AI Practitioner/Forward Deployed Engineer
+- [ ] https://apply.workable.com/humanintelligence/j/F790BFAA40/ | Human Intelligence | AI Engineer (Solutions Architect + Applied AI)
+- [ ] https://apply.workable.com/arcsite/j/820E8B4B9E | ArcSite | Senior Product Manager (AI & Workflow Automation)
+- [ ] https://apply.workable.com/leadtech/j/A83B949324 | Leadtech | AI Product Manager (Remote)
+- [ ] https://apply.workable.com/valsoft-corp/j/9FD086A0EC | Valsoft Corporation | AI Product Manager (REMOTE)
+- [ ] https://apply.workable.com/avomind/j/0151A781C7/ | Avomind | Senior AI Product Engineer / AI Workflow Architect
+- [ ] https://apply.workable.com/united-field-services-inc/j/C61CD4A6D8 | United Field Services | Part-Time AI Product Manager
+- [ ] https://apply.workable.com/openfn/j/EC44FC42F5 | OpenFn | Principal Solutions Architect
+- [ ] https://apply.workable.com/cydcor/j/B696993773/ | Cydcor | AI Product Manager (Builder Track)
+- [ ] https://apply.workable.com/jobgether/j/BB40D8A40D | Jobgether | Product Manager, AI (Remote - US)
+- [ ] https://apply.workable.com/itrs/j/76527AF1B1 | ITRS | Product Manager AI
