@@ -112,3 +112,20 @@
 - [ ] https://apply.workable.com/cydcor/j/B696993773/ | Cydcor | AI Product Manager (Builder Track)
 - [ ] https://apply.workable.com/jobgether/j/BB40D8A40D | Jobgether | Product Manager, AI (Remote - US)
 - [ ] https://apply.workable.com/itrs/j/76527AF1B1 | ITRS | Product Manager AI
+- [ ] https://jobs.ashbyhq.com/uipath/66cbeab1-9003-446c-b968-d1851bd0aa3e | UiPath | Enterprise AI Solution Architect
+- [ ] https://jobs.ashbyhq.com/uipath/7241a90d-4756-4d06-9b14-429e8ee958d2 | UiPath | Solution Architect - Automation
+- [ ] https://jobs.ashbyhq.com/agent/e36e9f74-0c4e-47a0-b324-d44bd598307b | Agent | AI Engineer
+- [ ] https://jobs.ashbyhq.com/magicschool/f140d36e-a62a-4785-b654-487a7f5c21d4 | MagicSchool AI | Staff Software Engineer - AI Infrastructure
+- [ ] https://jobs.ashbyhq.com/assembledhq/ea904973-4574-4a4f-8350-a0272b20ca56 | Assembled | Software Engineer - Voice AI Agent
+- [ ] https://jobs.ashbyhq.com/take2/f04c965f-6f05-44a8-ac39-fd0bba82f7f4 | Take2 | Senior Software Engineer, Voice AI
+- [ ] https://jobs.ashbyhq.com/openai/46cd47bc-d4de-4826-aa2e-8b2e0da3c409 | OpenAI | Research Engineer / ML Engineer - Applied Voice
+- [ ] https://job-boards.greenhouse.io/babylist/jobs/5988512004 | Babylist | Senior Product Manager (AI Builder)
+- [ ] https://job-boards.greenhouse.io/rhinofederatedcomputing/jobs/4001057009 | Rhino Federated Computing | Forward Deployed Engineer (AI)
+- [ ] https://job-boards.greenhouse.io/offerup/jobs/7739995 | OfferUp | AI Engineer
+- [ ] https://job-boards.greenhouse.io/builtin/jobs/7855050 | Built In | Applied AI Engineer (Agentic Systems)
+- [ ] https://job-boards.greenhouse.io/kindo/jobs/5060204007 | Kindo | Principal AI Systems Engineer — Agentic Platforms
+- [ ] https://job-boards.greenhouse.io/trmlabs/jobs/5631209004 | TRM Labs | Senior Business Process Automation Engineer
+- [ ] https://job-boards.greenhouse.io/alphafmcroles/jobs/8521640002 | AlphaFMC | Forward Deployed Engineer (AI)
+- [ ] https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed
+- [ ] https://apply.workable.com/zyte/j/4CEC648C95/ | Zyte | Technical Product Manager / Owner - AI
+- [ ] https://apply.workable.com/jobgether/j/C61C485858 | Jobgether | AI Engineer
