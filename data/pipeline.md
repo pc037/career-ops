@@ -129,3 +129,47 @@
 - [ ] https://job-boards.greenhouse.io/edisonscientific/jobs/4984032007 | Edison Scientific | AI Engineer - Forward Deployed
 - [ ] https://apply.workable.com/zyte/j/4CEC648C95/ | Zyte | Technical Product Manager / Owner - AI
 - [ ] https://apply.workable.com/jobgether/j/C61C485858 | Jobgether | AI Engineer
+- [ ] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/sandboxaq/c9dfc248-d79f-4df1-b31c-e8bec50ab621 | SandboxAQ | Staff Solutions Architect, AI Sim
+- [ ] https://jobs.ashbyhq.com/modal/0d9c249b-f305-4b0e-b325-3242ac7274e7 | Modal | Forward Deployed Engineer - ML
+- [ ] https://jobs.ashbyhq.com/sola/9a9c39a9-6a15-4b76-b538-f7d219fdb92e | Sola | Software Engineer, Desktop Automation
+- [ ] https://jobs.ashbyhq.com/Roots-Automation/4ee15aa7-46ed-4aba-b1ec-30158b10753e | Roots Automation | Senior Software Engineer - Agentic AI
+- [ ] https://jobs.ashbyhq.com/ramp/63df0ffc-bdc6-40ba-906f-fe03378536b0 | Ramp | AI Operations Specialist | Agentic Workflows
+- [ ] https://job-boards.greenhouse.io/cartwheelcare/jobs/5044639007 | Cartwheel | Senior Product Manager, AI Products
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4875417101 | Unframe | AI Product Manager - West Coast (Remote)
+- [ ] https://job-boards.greenhouse.io/array/jobs/4713067004 | Array | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/connectwise/jobs/4682593005 | ConnectWise | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4222183007 | Together AI | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8447517002 | Komodo Health | Forward Deployed, Software Engineer III (AI)
+- [ ] https://job-boards.greenhouse.io/dialpad/jobs/8419110002 | Dialpad | Sr. AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/brightai/jobs/5616545004 | BrightAI Corporation | Senior AI Engineer – LLM, RAG
+- [ ] https://job-boards.greenhouse.io/axiomaticai/jobs/4720346101 | Axiomatic_AI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/orium/jobs/7746800 | Orium | Senior AI Systems Engineer (Contract)
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/5751888004 | EvolutionIQ | Senior AI/ML Engineer (LLMs)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4669417005 | Glean | Machine Learning Engineer, LLM Evals & Observability
+- [ ] https://job-boards.greenhouse.io/mxtechnologiesinc/jobs/4135641009 | MX Technologies | Staff AI Engineer
+- [ ] https://job-boards.greenhouse.io/splitero/jobs/5162723008 | Splitero | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/future/jobs/4683133005 | Future | Applied AI Engineer
+- [ ] https://apply.workable.com/zyte/j/35E0AE7392 | Zyte | Technical Product Manager / Owner - AI (Remote)
+- [ ] https://apply.workable.com/orbital-witness-limited/j/9BC550764F/ | Orbital | Lead AI Product Manager
+- [ ] https://apply.workable.com/nyc-alliance-company-llc/j/DB4D9D42DB/ | NYC Alliance Company LLC | AI Systems Product Manager
+- [ ] https://apply.workable.com/talworx/j/14A117B102 | Talent Worx | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5839189004 | Grafana Labs | Senior Software Engineer - AI and Automation
+- [ ] https://job-boards.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Known/93632b0a-6998-4632-bb90-d6669a616ff5 | Known | Voice AI Systems Engineer
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4782039008 | Cresta | Conversational AI Designer
+- [ ] https://jobs.ashbyhq.com/livekit/b889ef16-4d5d-4b71-b0a9-682026a0a1ee | LiveKit | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/maven-agi/f892ceb0-93bd-46e7-b50c-b5f6209b087a | Maven AGI | Principal Solutions Architect
+- [ ] https://jobs.ashbyhq.com/known/032dee42-0fd3-47fd-9ca7-90632a4c59f8 | Known | Conversational AI Engineer, System Prompt
+- [ ] https://jobs.ashbyhq.com/lavendo/e3bbc4ba-96bb-402a-909f-7fb1281d7c8e | Lavendo | Software Engineer in Voice AI Startup
+- [ ] https://jobs.ashbyhq.com/vapi/7adb10b2-1234-4e4c-b132-f990a91de048 | Vapi | Agent Engineer - NY
+- [ ] https://jobs.ashbyhq.com/Deepgram/7cf277bc-a192-4007-a77a-fafbf8276a5e | Deepgram | Research Staff, Voice AI Foundations
+- [ ] https://jobs.ashbyhq.com/Deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI
+- [ ] https://jobs.ashbyhq.com/retell-ai/a8ff0f18-5745-4870-8989-233acaf5e234 | Retell AI | Senior Software Engineer, Support Automations
+- [ ] https://job-boards.greenhouse.io/speechify/jobs/5547342004 | Speechify | Software Engineer, AI Studio
+- [ ] https://jobs.lever.co/copilotkit/d134b481-f042-45b1-b908-dd38ff72fdd0 | CopilotKit | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/mongodb/jobs/7392902 | MongoDB | Senior Software Engineer, Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4693817005 | AssemblyAI | Forward Deployed Engineer, Onboarding
+- [ ] https://job-boards.greenhouse.io/wonderschool/jobs/7626995003 | Wonderschool | Forward Deployed AI Engineering – Future Opportunities
+- [ ] https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/flatfile/dc24cd46-40fd-433b-b757-cea90b676436 | Flatfile | Forward Deployed Engineer - Flatfile Editions
