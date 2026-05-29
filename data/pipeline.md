@@ -173,3 +173,17 @@
 - [ ] https://job-boards.greenhouse.io/wonderschool/jobs/7626995003 | Wonderschool | Forward Deployed AI Engineering – Future Opportunities
 - [ ] https://jobs.ashbyhq.com/tenexlabs/804ccd47-203b-4b1b-a642-ff585285b3be | Tenex | Forward Deployed AI Engineer
 - [ ] https://jobs.ashbyhq.com/flatfile/dc24cd46-40fd-433b-b757-cea90b676436 | Flatfile | Forward Deployed Engineer - Flatfile Editions
+- [ ] https://jobs.ashbyhq.com/hive.co/3758c78b-dc3b-48a2-aff6-a517a258c09a | hive.co | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8 | Zapier | Sr. Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/rula/d477da0d-6d23-4166-8afd-6a6a334f4710 | Rula | Staff AI Engineer - Applied AI (Remote)
+- [ ] https://jobs.ashbyhq.com/hipeople-official/6c330d7b-7c6d-4993-8893-b58b5289d442 | HiPeople | Applied AI Engineer – Systems & Reliability (Remote/Berlin)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8517564002 | GitLab | AI Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer (US)
+- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/mistral/0b476d3a-5f0c-4dda-9a5e-bd5ed8515328 | Mistral AI | Applied AI, Forward Deployed MLE (Palo Alto)
+- [ ] https://jobs.lever.co/mistral/e2cf255f-49c8-4630-afe0-7f665f51f01f | Mistral AI | Applied AI, Technical Lead – Forward Deployed AI Engineer (EMEA)
+- [ ] https://jobs.lever.co/mistral/77f6fd1b-65cf-45d8-9b68-594c62732f62 | Mistral AI | Applied AI, Forward Deployed MLE (EMEA)
+- [ ] https://jobs.lever.co/regalvoice/8b25fb05-f3fe-4bb5-89a5-07089f1a45a6 | Regal | AI Forward Deployed Engineer
+- [ ] https://jobs.lever.co/mistral/ebfdc0da-13fd-4ae9-9861-bedb5ff493ea | Mistral AI | Applied AI, Technical Lead – Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/jobgether/4390a581-32c9-4af7-8bdc-37d90e98d6b3 | Jobgether | Forward Deployed AI Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/947b875c-c113-4a8b-af31-9bb22aeb0a30 | Jobgether | Remote AI Solutions Architect – Forward Deployed
