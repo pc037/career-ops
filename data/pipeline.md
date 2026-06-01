@@ -187,3 +187,24 @@
 - [ ] https://jobs.lever.co/mistral/ebfdc0da-13fd-4ae9-9861-bedb5ff493ea | Mistral AI | Applied AI, Technical Lead – Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/jobgether/4390a581-32c9-4af7-8bdc-37d90e98d6b3 | Jobgether | Forward Deployed AI Engineer (Remote)
 - [ ] https://jobs.lever.co/jobgether/947b875c-c113-4a8b-af31-9bb22aeb0a30 | Jobgether | Remote AI Solutions Architect – Forward Deployed
+- [ ] https://jobs.ashbyhq.com/jellyfish/c210d3d2-b3c7-4983-baac-7bd9fcb56ad4 | Jellyfish | Revenue Systems Architect (AI & Automation)
+- [ ] https://jobs.ashbyhq.com/lavendo/e5cf20c8-5beb-4ef8-82d7-d7c053454010 | Lavendo | Solutions Architect – AI Agents Deployment
+- [ ] https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a | OpenAI | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/d-Matrix/7a81d8e9-4d26-4b3b-aee2-b6e99e040f09 | d-Matrix | AI Systems Solutions Architect
+- [ ] https://jobs.ashbyhq.com/openai/6bacc51d-6580-4089-93ca-7df3bce4b635 | OpenAI | Solutions Architect, Generative AI Deployment
+- [ ] https://jobs.ashbyhq.com/horizon3ai/564e182e-86b4-493b-bd91-a7b6cce3abe1 | Horizon3 AI | Channel Solutions Architect
+- [ ] https://jobs.ashbyhq.com/sandboxaq/336b6f46-6e98-4622-bdc5-8a03564ed1da | SandboxAQ | Staff Solutions Architect, AI Sim
+- [ ] https://jobs.ashbyhq.com/lorikeet/0c72da73-cd31-4702-b9f1-c26b20932702 | Lorikeet | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/Armory/aecd29e4-af91-47c1-8b48-3661cb38c60c | Armory | Software Architect - AI Platform
+- [ ] https://jobs.ashbyhq.com/trm-labs/828b60b2-ac8f-407d-92a0-8b794c8cf391 | TRM Labs | AI Agent Engineer
+- [ ] https://job-boards.greenhouse.io/hopskipdrive/jobs/5596670004 | HopSkipDrive | Senior Product Manager - AI
+- [ ] https://job-boards.greenhouse.io/jobsatphamily/jobs/4750261008 | Phamily | Senior Product Manager (AI Health-Tech SaaS, Remote)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146028008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8556658002 | GitLab | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/6002762004 | Dataiku | Generative AI Engineer
+- [ ] https://job-boards.greenhouse.io/solutions/jobs/4678821006 | Cadence Solutions | Senior Software Engineer, Agentic AI
+- [ ] https://apply.workable.com/zyte/j/0781F51C74 | Zyte | AI Product Manager / Owner
+- [ ] https://apply.workable.com/marcura/j/9FA55B6DDD/ | Marcura | Generative AI Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548105002 | GitLab | AI Transformation Owner, Marketing
+- [ ] https://jobs.ashbyhq.com/webai/9cb245f4-2c27-4262-9067-ae3aae26a404 | webAI | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/shakudo/36157dae-4791-4d61-bac1-ab0f5e660591 | Shakudo | Forward Deployed Engineer
