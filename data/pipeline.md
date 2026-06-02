@@ -208,3 +208,8 @@
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548105002 | GitLab | AI Transformation Owner, Marketing
 - [ ] https://jobs.ashbyhq.com/webai/9cb245f4-2c27-4262-9067-ae3aae26a404 | webAI | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/shakudo/36157dae-4791-4d61-bac1-ab0f5e660591 | Shakudo | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/outliant/93cc9a86-d93f-464a-a3bb-a57c7ab38aba | Outliant | Solutions Architect II
+- [ ] https://jobs.ashbyhq.com/answersnow/7b972811-38cd-4f9a-b0a2-85506bd15b52 | AnswersNow | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/lorikeet/8fd5c0c5-dd89-471a-b4f5-d9101b208cdc | Lorikeet | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/myriad360/jobs/8402449002 | Myriad360 | AI and Automation Lead (Remote)
+- [ ] https://apply.workable.com/enroute/j/4040CDFA91 | Enroute | AI Solutions Architect - Python, APIs & LLM Integrations
