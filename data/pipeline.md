@@ -213,3 +213,40 @@
 - [ ] https://jobs.ashbyhq.com/lorikeet/8fd5c0c5-dd89-471a-b4f5-d9101b208cdc | Lorikeet | Forward Deployed AI Engineer
 - [ ] https://job-boards.greenhouse.io/myriad360/jobs/8402449002 | Myriad360 | AI and Automation Lead (Remote)
 - [ ] https://apply.workable.com/enroute/j/4040CDFA91 | Enroute | AI Solutions Architect - Python, APIs & LLM Integrations
+- [ ] https://jobs.ashbyhq.com/pareto-ai/9b5842fb-f936-47d0-9985-2941264123d8 | Pareto.AI | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/tessera-labs/0cb577c2-6cdd-4361-b1af-870ccfc9d792 | Tessera Labs | AI Agent Engineer
+- [ ] https://jobs.ashbyhq.com/arcade-ai/380c2162-63ea-4dfb-a6f0-495785c284dd | Arcade | Agent Engineer
+- [ ] https://job-boards.greenhouse.io/abbyy/jobs/4870924101 | ABBYY | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8565469002 | GitLab | AI Engineer
+- [ ] https://jobs.lever.co/jobgether/90ccf7be-d875-4fdf-8800-c38fc1351659 | Jobgether | Forward Deployed Solutions Architect - Remote
+- [ ] https://jobs.lever.co/SymmetrySystems/bb94814c-3e2b-43c3-aaff-92279a714ea7 | Symmetry Systems | Senior Forward Deployed Engineer (L5)
+- [ ] https://jobs.lever.co/jobgether/a2732436-d2fd-43bd-be07-9c11ad9eea6c | Jobgether | Remote AI Systems Architect - Forward Deployed
+- [ ] https://jobs.lever.co/jobgether/0243f70a-ed1c-40c8-a233-a9195e42fa02 | Jobgether | Remote Solutions Architect - AI
+- [ ] https://jobs.ashbyhq.com/trm-labs/6fc1d49f-6b8f-4844-9878-3cb1965f7714 | TRM Labs | Staff MLOps Engineer, LLMOps
+- [ ] https://jobs.ashbyhq.com/aim/f31467b8-9d88-41d0-bba4-55e03ca84592 | AIM | MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/realitydefender/7dd89805-b0fb-496f-982d-c881000ee2e3 | Reality Defender | MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/Grindr%20LLC/225c5231-e32d-4b2e-bde4-ef6f718806bf | Grindr | Senior Staff MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/bjakcareer/98ff80ee-ab22-4756-b4b3-522b4d6415f2 | Bjak | MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/sewer-ai/6f08a873-0f08-42d1-a636-73d218fea5e0 | SewerAI | ML Ops Engineer (AI)
+- [ ] https://jobs.ashbyhq.com/fundamental/41528009-deed-43fb-831e-0ca16e4c190a | Fundamental | MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/bobyard/dcfd64d7-c079-4fa2-b66e-0cd74e5c852e | Bobyard | MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/telusdigitalbr/jobs/8027456002 | TELUS Digital Brazil | Senior AI Engineer (MLOps)
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5744120004 | Natera | Senior AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/trmlabs/jobs/5750386004 | TRM Labs | Staff MLOps Engineer - LLMOps
+- [ ] https://job-boards.greenhouse.io/raft/jobs/5973747004 | Raft | Principal MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/generalassembly/jobs/7842854 | General Assembly | MLOps / AI Platform Engineer
+- [ ] https://job-boards.greenhouse.io/brightai/jobs/5712293004 | BrightAI Corporation | Staff MLOps Engineer - ML Platform
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7646728002 | GitLab | Intermediate Backend Engineer, ModelOps:MLOps
+- [ ] https://job-boards.greenhouse.io/prolific/jobs/4769093101 | Prolific | Senior MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/dv01/jobs/8416034002 | dv01 | MLOps Platform Engineer
+- [ ] https://apply.workable.com/cxg/j/5ED4EB3757 | CXG | AI Engineer (GenAI, LLMs & Computer Vision)
+- [ ] https://apply.workable.com/swatx/j/8EDA22DAA0 | SWATX | ML Engineer (LLM Focus)
+- [ ] https://apply.workable.com/innovationteam/j/317856D206 | InnovationTeam | Senior Generative AI Engineer
+- [ ] https://apply.workable.com/datagalaxy/j/4B0DD9A05F | DataGalaxy | Software Engineer (GenAI / MLOps)
+- [ ] https://apply.workable.com/tiger-analytics/j/3511695510 | Tiger Analytics | Generative AI Leader/Architect
+- [ ] https://apply.workable.com/quantumloopai/j/B7F8DA3F6C | QuantumLoopAI | AI/ML & Prompt Engineer LLM, RAG & Voice Agent
+- [ ] https://apply.workable.com/netguru/j/6C7195BB33 | Netguru | Engineering Manager - AI & GenAI
+- [ ] https://apply.workable.com/albi/j/E92B694CFE | Albi | Senior Machine Learning Engineer (LLMs)
+- [ ] https://apply.workable.com/qualcogroup/j/9F54C29617 | Qualco Group | AI/GenAI - ML Engineer
+- [ ] https://jobs.ashbyhq.com/qualified-health-pbc/376e24b1-764f-4a71-8bf9-a94356ec4ded | Qualified Health PBC | Healthcare AI Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/10xteam/2f0ea6ed-0a85-40af-9058-8638df6e3b6a | 10x Team | MLOps Engineer - AI Trainer - Freelance
