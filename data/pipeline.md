@@ -250,3 +250,24 @@
 - [ ] https://apply.workable.com/qualcogroup/j/9F54C29617 | Qualco Group | AI/GenAI - ML Engineer
 - [ ] https://jobs.ashbyhq.com/qualified-health-pbc/376e24b1-764f-4a71-8bf9-a94356ec4ded | Qualified Health PBC | Healthcare AI Solutions Engineer
 - [ ] https://jobs.ashbyhq.com/10xteam/2f0ea6ed-0a85-40af-9058-8638df6e3b6a | 10x Team | MLOps Engineer - AI Trainer - Freelance
+- [ ] https://jobs.ashbyhq.com/writer/38153798-ba94-4895-9794-a1575df203f2 | Writer | Platform Engineer, MLOps
+- [ ] https://jobs.ashbyhq.com/bjakcareer/338d2e24-378b-42d1-9761-e8e933f58561 | Bjak | MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/synthflow/7ef5e723-22b1-4d05-95a1-3ec81fbe0daf | Synthflow AI | DevOps Engineer (ML-Ops)
+- [ ] https://jobs.ashbyhq.com/corti/ec69b854-9d73-4207-82da-2708d9a10829 | Corti | MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/hopper/2bc0143c-3080-45cc-8351-b7983f713bf3 | Hopper | Senior Product Manager, Commerce - AI & Platform (USA East Coast)
+- [ ] https://jobs.ashbyhq.com/hopper/4b2553ae-85d8-41e3-a43b-4fd0ecfc82d3 | Hopper | Senior Product Manager, Commerce - AI & Platform (Spain)
+- [ ] https://jobs.ashbyhq.com/hopper/10e7bddf-60cb-4d04-90fb-fdd350af0314 | Hopper | Principal Product Manager - AI Travel (USA)
+- [ ] https://jobs.ashbyhq.com/hopper/b956da07-9928-45e9-a30a-c3c3bb1436b4 | Hopper | Senior Product Manager, Commerce - AI & Platform (Ireland)
+- [ ] https://jobs.ashbyhq.com/openai/60d1420a-8aa3-4d87-847e-e7b73d9d9a0c | OpenAI | Deployed Product Manager, Codex
+- [ ] https://jobs.ashbyhq.com/pano-ai/44d7f86f-d2d0-443c-bd7a-e150b01f3cbd | Pano AI | Senior / Staff Product Manager, Platform & Integrations
+- [ ] https://jobs.ashbyhq.com/jellyfish/e30a0930-4e64-4a23-9234-4948c6d32441 | Jellyfish | Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/trmlabs/jobs/5711370004 | TRM Labs | Senior or Staff MLOps Engineer – LLMOps
+- [ ] https://job-boards.greenhouse.io/sumologic/jobs/7584291 | Sumo Logic | Senior Machine Learning Engineer (MLOps/LLMOps)
+- [ ] https://job-boards.greenhouse.io/redcellpartners/jobs/4922547007 | Red Cell Partners | Principal MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/raft/jobs/6007073004 | Raft | Lead AI/ML Software Engineer
+- [ ] https://jobs.lever.co/bluelightconsulting/89c314c1-4e6e-4b41-87ba-61a9ea3bc5d6 | Bluelight Consulting | Agentic AI Solutions Architect (Remote - LATAM)
+- [ ] https://jobs.lever.co/imo-online/6fd7edae-2cf1-4d24-8e1c-99ac967ce5df | IMO Health | Staff AI Engineer
+- [ ] https://jobs.lever.co/mistral/a73cb128-b07e-437c-b82d-57b06661c52b | Mistral AI | Applied AI, Forward Deployed Machine Learning Engineer (Montreal)
+- [ ] https://jobs.lever.co/zartis/edbc1f05-04c5-461b-a0d1-d569e8d1dfc4 | Zartis | AI Engineer
+- [ ] https://apply.workable.com/workana-premium/j/F2D38604B7 | Workana | Product Owner / Product Manager - AI Product Project
+- [ ] https://apply.workable.com/volga-partners/j/981FC789E8 | Volga Partners | Product Manager (AI & Platform Products)
