@@ -271,3 +271,35 @@
 - [ ] https://jobs.lever.co/zartis/edbc1f05-04c5-461b-a0d1-d569e8d1dfc4 | Zartis | AI Engineer
 - [ ] https://apply.workable.com/workana-premium/j/F2D38604B7 | Workana | Product Owner / Product Manager - AI Product Project
 - [ ] https://apply.workable.com/volga-partners/j/981FC789E8 | Volga Partners | Product Manager (AI & Platform Products)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8568868002 | GitLab | Senior Product Manager, AI Platform Management
+- [ ] https://jobs.lever.co/jobgether/136da300-9ef7-4757-9968-32583a09bd96 | Jobgether | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/resilinc/46bc503f-3697-4d33-9d94-4de35ff35667 | Resilinc | Forward Deployed Engineer (Enterprise AI Solutions)
+- [ ] https://jobs.lever.co/mistral/042d7b29-279b-48e2-a44b-c7bdc3180dab | Mistral AI | Applied AI, Technical Lead – Forward Deployed AI Engineer (Montreal)
+- [ ] https://jobs.lever.co/jobgether/28281adc-5e0c-4721-beb1-a7dc2488dc40 | Jobgether | Remote AI Engineer – Forward Deployed
+- [ ] https://jobs.lever.co/lingarogroup/7d57cc12-70c0-40a9-97be-cc9d275371fd | Lingaro | ML/AI Engineer - GCP, Azure
+- [ ] https://jobs.lever.co/rackspace/542d9b97-fd6b-4bfd-9380-5888c8d7e26b | Rackspace | Senior MLOps Engineer - GCP
+- [ ] https://jobs.lever.co/lingarogroup/1379cc92-a5a8-40c9-892f-9a251dcdedad | Lingaro | ML/AI Engineer
+- [ ] https://jobs.lever.co/rackspace/ba0d3e0a-6542-47d4-9f64-33dde3712a17 | Rackspace | Machine Learning Operations (MLOps) Architect
+- [ ] https://jobs.lever.co/remofirst/57ccc891-fd85-4cce-b64d-4911d0e2c098 | RemoFirst | AI Engineer
+- [ ] https://jobs.lever.co/rackspace/b1c450f3-7d10-49f4-a21f-e19c993c72e3 | Rackspace | MLOps Architect - GCP
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/materiom/jobs/5150829007 | Materiom | AI Engineer
+- [ ] https://job-boards.greenhouse.io/babelstreet/jobs/7531339 | Babel Street | Generative & Agentic AI Engineer
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5722574004 | DevRev | Software Engineer - Applied AI
+- [ ] https://job-boards.greenhouse.io/hibu/jobs/4696330005 | Hibu | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/carrotfertility/jobs/6011067004 | Carrot Fertility | Applied AI Engineer, Enterprise
+- [ ] https://jobs.ashbyhq.com/hopper/90fd53f6-f536-40e2-836b-7296d7e27c3a | Hopper | Senior Product Manager, Commerce - AI & Platform (Remote - East Coast / Canada)
+- [ ] https://jobs.ashbyhq.com/appliedlabs/39f5c309-1ec5-49f2-897a-e9508005bc87 | Applied Labs | AI Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/hopper/935e0c08-4c14-44ca-82a6-9345f2145979 | Hopper | Senior Product Manager, Commerce - AI & Platform (Remote - UK)
+- [ ] https://jobs.ashbyhq.com/Sierra/effd7cd2-8a28-4bae-a3b8-40720ba09717 | Sierra | Product Manager, Agent Development
+- [ ] https://jobs.ashbyhq.com/hopper/9a3d0809-326b-4ca5-ae60-bae9a835234c | Hopper | Principal Product Manager - AI Travel (Remote - USA)
+- [ ] https://jobs.ashbyhq.com/rula/40915141-68c6-4a00-9581-95b158da6d91 | Rula | Sr. Product Manager - AI
+- [ ] https://jobs.ashbyhq.com/sarjai/f4b7fa9c-6a14-49ba-97a2-c509e11f294c | Sarj.ai | AI Research Engineer
+- [ ] https://jobs.ashbyhq.com/openai/ac1de598-3891-4d1b-bbb6-4c3997a8bef8 | OpenAI | AI Deployment Engineer, Startups
+- [ ] https://jobs.ashbyhq.com/cohere/df93ec57-d51e-4466-93be-4878c5fda4da | Cohere | Software Engineer - Applied ML (UK Public Sector)
+- [ ] https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba | OpenAI | AI Deployment Engineer
+- [ ] https://jobs.ashbyhq.com/qualified-health-pbc/88dc8b6a-8aaf-4f0a-8c1a-a0249d647dd4 | Qualified Health PBC | Epic Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/0437c678-bd5a-429d-b34b-bfd3b70d1793 | Hippocratic AI | Agent Deployment Engineer (Residency Program)
+- [ ] https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company of NY | Applied AI Engineer - Agent
+- [ ] https://jobs.ashbyhq.com/cryptio/e2cffa0e-9446-4dc3-9e90-4b50c954a367 | Cryptio | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d | Cognition | AI Enablement Engineer
