@@ -303,3 +303,7 @@
 - [ ] https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a | General Intelligence Company of NY | Applied AI Engineer - Agent
 - [ ] https://jobs.ashbyhq.com/cryptio/e2cffa0e-9446-4dc3-9e90-4b50c954a367 | Cryptio | Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/cognition/811c3f5a-b26d-4162-b49b-93890a91794d | Cognition | AI Enablement Engineer
+- [ ] https://jobs.ashbyhq.com/clera/351ba91b-8da5-48de-9f0f-6fd6dbd392bd | Clera | Forward Deployed Engineer (Founding Customer Engineer)
+- [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7951507 | Bandwidth | AI Engineer (Research & Development)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6909477003 | Remote.com | Senior Product Manager, Remote Build
+- [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4880987101 | JetBrains | Lead Forward Deployed Engineer (AI-Native Software Development)
