@@ -307,3 +307,27 @@
 - [ ] https://job-boards.greenhouse.io/bandwidth/jobs/7951507 | Bandwidth | AI Engineer (Research & Development)
 - [ ] https://job-boards.greenhouse.io/remotecom/jobs/6909477003 | Remote.com | Senior Product Manager, Remote Build
 - [ ] https://job-boards.greenhouse.io/jetbrains/jobs/4880987101 | JetBrains | Lead Forward Deployed Engineer (AI-Native Software Development)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074695008 | Anthropic | Forward Deployed Engineer, Custom Agents
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5068157008 | Cresta | Forward Deployed Product Manager - AI Agent (EMEA)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7619114003 | Nearform | Forward Deployed Engineer (Perm, USA, Remote + Travel)
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7644791003 | Nearform | Forward Deployed Engineer (Perm, Ireland, Remote + Travel)
+- [ ] https://job-boards.greenhouse.io/nice/jobs/4837037101 | NICE | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5072543007 | Pallet | Forward Deployed Software Engineer (AI Agents)
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5594226004 | Turing | Principal Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/loop/jobs/5986356004 | Loop | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5991157004 | Natera | Director, Forward Deployed AI Engineering
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6012381004 | Natera | Senior AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5195577008 | Impiricus | AI Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/83267854-2ea8-4322-8ba3-88c2dcb086a5 | Decagon | Solutions Architect - Salesforce
+- [ ] https://jobs.ashbyhq.com/kepler-ai/00a20d87-4fe6-4c05-bfe6-9add47e84c6e | Kepler | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/rilla/ec768352-6ddb-4d4b-8704-0c04c37fff13 | Rilla | Forward Deployed Engineer, Integrations
+- [ ] https://jobs.ashbyhq.com/sarvam/ac2b835e-375c-48d8-a174-8c2935f408b2 | Sarvam | Forward Deployed Software Engineer
+- [ ] https://jobs.ashbyhq.com/grindr%20llc/225c5231-e32d-4b2e-bde4-ef6f718806bf | Grindr | Senior Staff MLOps Engineer
+- [ ] https://apply.workable.com/terabase-energy/j/EC2806A1AB | Terabase Energy | Senior Generative AI Engineer
+- [ ] https://apply.workable.com/tp-link-usa-corp/j/9E78368B99 | TP-Link | Senior Product Manager, Tapo App Experience & AI
+- [ ] https://jobs.lever.co/qonto/3105e676-979a-4333-8f97-84df3d0b55ee | Qonto | Lead Low Code Engineer - Remote friendly
+- [ ] https://jobs.lever.co/loopreturns/501e3bad-2653-4402-bebd-0f4f96afa314 | Loop Returns | Senior Automation Engineer
+- [ ] https://jobs.lever.co/jobgether/918aa457-3706-4896-a94e-a32dd010272f | Jobgether | Senior Automation Engineer - REMOTE
+- [ ] https://jobs.lever.co/smart-working-solutions/63711bd1-85fb-4813-b759-d5e23ce37889 | Smart Working Solutions | Integration and Automation Engineer (Remote, Full-Time)
+- [ ] https://jobs.lever.co/toptal/a297b4fa-7c83-43d8-bc19-5abaf3a57fc8 | Toptal | Senior QA Automation Engineer
+- [ ] https://jobs.lever.co/inflowfed/9584f3d9-e4a8-414b-b826-7ee124e03ff3 | INflow Federal | DevOps Automation Engineer
