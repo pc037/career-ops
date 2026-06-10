@@ -331,3 +331,10 @@
 - [ ] https://jobs.lever.co/smart-working-solutions/63711bd1-85fb-4813-b759-d5e23ce37889 | Smart Working Solutions | Integration and Automation Engineer (Remote, Full-Time)
 - [ ] https://jobs.lever.co/toptal/a297b4fa-7c83-43d8-bc19-5abaf3a57fc8 | Toptal | Senior QA Automation Engineer
 - [ ] https://jobs.lever.co/inflowfed/9584f3d9-e4a8-414b-b826-7ee124e03ff3 | INflow Federal | DevOps Automation Engineer
+- [ ] https://jobs.lever.co/mistral/c7b7fdfe-a071-4d62-bc15-7bcdff8067e7 | Mistral AI | Applied AI, Forward Deployed ML Engineer, Critical & Sovereign Institutions, EMEA
+- [ ] https://jobs.ashbyhq.com/phare-r1-r37/90802880-4c90-4917-b064-fc9eb86f1434 | R1 RCM | Software Engineer - MLOps
+- [ ] https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090 | Ramp | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/fortifyiq/jobs/4647579005 | FortifyIQ | Data & AI Engineer
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8516229002 | Workato | Staff Automation Engineer
+- [ ] https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed
+- [ ] https://jobs.ashbyhq.com/blacksmith%20agency/5dfccfc8-a527-44b9-b3ec-eaee25fc3f0f | Blacksmith Agency | AI Engineer
