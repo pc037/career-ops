@@ -338,3 +338,18 @@
 - [ ] https://job-boards.greenhouse.io/workato/jobs/8516229002 | Workato | Staff Automation Engineer
 - [ ] https://jobs.ashbyhq.com/ramp/deca582c-a1d0-4705-9975-60aed81ba89f | Ramp | Software Engineer, AI Forward Deployed
 - [ ] https://jobs.ashbyhq.com/blacksmith%20agency/5dfccfc8-a527-44b9-b3ec-eaee25fc3f0f | Blacksmith Agency | AI Engineer
+- [ ] https://jobs.ashbyhq.com/go-nimbly/f5ef4572-c020-4a81-817f-ea10396d0d57 | Go Nimbly | RevOps Solutions Architect (Remote; US or LATAM)
+- [ ] https://jobs.ashbyhq.com/truelogic/bba50df3-0ef0-4a36-9662-d0069ea723bf | Truelogic | Staff Solutions Architect (Canada/Remote) - Fintech & Vertical SaaS
+- [ ] https://jobs.ashbyhq.com/agility.io/38e53ba8-0aac-4c0f-9636-f38baa0b86b7 | Agility IO | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/dash0/c71c1a08-d9ea-4229-b7c9-a3ac9eabc95c | Dash0 | Platform Engineer (Sydney, Australia)
+- [ ] https://jobs.ashbyhq.com/oneapp/a85bb5aa-9683-4d67-84e5-5d3e4bacda59 | OnePay | Platform Engineer (AI and Automation)
+- [ ] https://jobs.ashbyhq.com/protectai/5b3ab0c0-8be5-4df1-9b05-88909d051276 | Protect AI | Solutions Architect: AI/ML
+- [ ] https://jobs.ashbyhq.com/zapier/cac70300-4e62-4299-bc34-aab69e7498f4 | Zapier | AI Automation Expert
+- [ ] https://jobs.ashbyhq.com/camunda/987fb6e0-1e22-45e5-b152-57acbcb59cb2 | Camunda | AI Process Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Varick-Agents/30e16a2a-6374-475d-9154-2e186c481319 | Varick Agents | AI Engineer
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7619129003 | Nearform | Forward Deployed Engineer (Perm, UK, Remote + Travel)
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7873872 | Smartsheet | Senior Forward Deployed AI Engineer (Remote Eligible in UK)
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4059100009 | Fireworks AI | Solutions Architect
+- [ ] https://apply.workable.com/jobgether/j/C5EE81DCE3 | Jobgether | AI Solution Architect (Remote - Anywhere)
+- [ ] https://apply.workable.com/sapsol-technologies-inc-7/j/DC272E46DD | Sapsol Technologies | Data & AI Manager
+- [ ] https://jobs.ashbyhq.com/junipersquare/dca589c1-d467-4a92-ab9b-76028aeacf45 | Juniper Square | Senior Forward Deployed Engineer (AI)
