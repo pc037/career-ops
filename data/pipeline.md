@@ -353,3 +353,13 @@
 - [ ] https://apply.workable.com/jobgether/j/C5EE81DCE3 | Jobgether | AI Solution Architect (Remote - Anywhere)
 - [ ] https://apply.workable.com/sapsol-technologies-inc-7/j/DC272E46DD | Sapsol Technologies | Data & AI Manager
 - [ ] https://jobs.ashbyhq.com/junipersquare/dca589c1-d467-4a92-ab9b-76028aeacf45 | Juniper Square | Senior Forward Deployed Engineer (AI)
+- [ ] https://jobs.ashbyhq.com/langchain/f71210f9-12e1-4726-88b9-ebafa194d5b2 | LangChain | Solutions Architect (NYC)
+- [ ] https://jobs.ashbyhq.com/handshake/747bd14b-b957-4fca-b5bd-12d571f6886e | Handshake | Senior Software Engineer, Agentic Infrastructure
+- [ ] https://jobs.ashbyhq.com/convex-dev/dae7eefa-e97a-466f-9413-38ceeac8435b | Convex | Software Engineer, AI
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4636227005 | Scale AI | Senior Forward Deployed Data Scientist/Engineer
+- [ ] https://jobs.lever.co/sonarsource/a6ea5073-a690-4720-ba3b-9194806151c8 | Sonar | Forward Deployed Engineer, ML
+- [ ] https://jobs.ashbyhq.com/speak/ccb7142b-0828-4294-ba1c-454e87b7239b | Speak | Applied ML Engineer, LLM
+- [ ] https://apply.workable.com/volga-partners/j/D5FC274074 | Volga Partners | AI Engineer (LLM Backend)
+- [ ] https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | AI Engineer
+- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I (Remote)
+- [ ] https://job-boards.greenhouse.io/stackblitz/jobs/4111216009 | Bolt.new | Staff Applied AI Engineer
