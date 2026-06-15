@@ -363,3 +363,13 @@
 - [ ] https://apply.workable.com/languagewire/j/685F344246/ | LanguageWire | AI Engineer
 - [ ] https://job-boards.greenhouse.io/sezzle/jobs/7633951003 | Sezzle | AI Engineer I (Remote)
 - [ ] https://job-boards.greenhouse.io/stackblitz/jobs/4111216009 | Bolt.new | Staff Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/lavendo/590152fb-8300-4ee6-a299-f2bf5515e41d | Lavendo | Solutions Architect, AI Infrastructure (US – Remote)
+- [ ] https://jobs.ashbyhq.com/openrouter/1b26f0a2-4aab-4bef-8c21-0f8de9a059e3 | OpenRouter | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/reflectionai/1d029ec2-a842-4dff-b784-1328422c03e8 | Reflection AI | Forward Deployed Engineer, Lead - LLM Post-training
+- [ ] https://jobs.ashbyhq.com/firecrawl/bda40f47-a69b-44d4-ac1a-3f86f20d802d | Firecrawl | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/negotiate-ai/ef78d44d-f3b5-412a-964d-1ca13ff11ee7 | NegotiateAI | Founding Agentic AI Product Engineer
+- [ ] https://job-boards.greenhouse.io/upwork/jobs/6565846003 | Upwork | Lead AI/ML Engineer - AI Agents
+- [ ] https://job-boards.greenhouse.io/xai/jobs/4701523007 | xAI | Forward Deployed AI Engineer - Enterprise
+- [ ] https://job-boards.greenhouse.io/later/jobs/8562535002 | Later | Senior AI Automation Engineer
+- [ ] https://apply.workable.com/boardofinnovation/j/531B141B6C | Board of Innovation | AI Engineer
+- [ ] https://apply.workable.com/twgai/j/182DC002CC | TWG Global AI | Senior AI Product Manager (Investment Banking & Capital Markets)
