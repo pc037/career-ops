@@ -373,3 +373,34 @@
 - [ ] https://job-boards.greenhouse.io/later/jobs/8562535002 | Later | Senior AI Automation Engineer
 - [ ] https://apply.workable.com/boardofinnovation/j/531B141B6C | Board of Innovation | AI Engineer
 - [ ] https://apply.workable.com/twgai/j/182DC002CC | TWG Global AI | Senior AI Product Manager (Investment Banking & Capital Markets)
+- [ ] https://jobs.ashbyhq.com/meridianlink/a85d295b-93a2-4bb1-924f-00925527e5f0 | MeridianLink | Senior Product Manager - AI Products (FinTech)
+- [ ] https://jobs.ashbyhq.com/weave/3e2e05c4-e1bc-4345-b422-b4a9dd2314e9 | Weave | Senior Product Manager, AI/ML
+- [ ] https://jobs.ashbyhq.com/owner/62507a10-45f1-4b85-a483-cdf7ef4ebed0 | Owner.com | Senior Product Manager, AI CMO
+- [ ] https://jobs.ashbyhq.com/higharc/da3e4a14-a3cb-4060-8a61-6ee23294d222 | Higharc | Senior Product Manager, AI Experiences
+- [ ] https://jobs.ashbyhq.com/10xteam/f16425b1-895d-4103-9006-90a2ef8a27fa | 10x Team | Architect - AI Trainer - Freelance
+- [ ] https://jobs.ashbyhq.com/10xteam/3ceba0bb-d126-4b8a-bb5f-19c565746fed | 10x Team | Senior Data Architect - AI Trainer - Freelance
+- [ ] https://jobs.ashbyhq.com/tgc/598bb222-e84d-4ef3-9ce9-b17d9fadaf91 | The Generalist Company | Senior Python Engineer: AI Agents & Forecasting
+- [ ] https://jobs.ashbyhq.com/adaptyv/3377f1b8-10b8-45c3-b03c-1c065b4f8608 | Adaptyv Bio | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/mercura/c3311550-1d26-46fb-8439-9a74805ad943 | Mercura | Forward Deployed Engineer (FDE)
+- [ ] https://jobs.ashbyhq.com/n8n/d195a389-6af5-4b95-82e5-2258953c7297 | n8n | Sr AI Engineer (Remote - Europe, TS/Vue/NodeJS)
+- [ ] https://jobs.ashbyhq.com/compscience/8bdbe19c-09e9-4aba-ab67-c9d65cda6078 | CompScience | Senior MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839 | Brain Co. | Early Career AI/ML Engineer
+- [ ] https://jobs.ashbyhq.com/openai/51a5d931-872e-4fa5-a898-36dfb663e3c1 | OpenAI | AI Deployment Engineering Manager, Digital Natives
+- [ ] https://jobs.ashbyhq.com/blank-metal/5f3dc3d6-cb05-46ba-9b4f-601e5e940907 | Blank Metal | AI Product Leader
+- [ ] https://jobs.ashbyhq.com/openai/0db33200-b533-4c4c-84f6-f51fea91819b | OpenAI | Manager, AI Deployment Engineering (Korea)
+- [ ] https://jobs.ashbyhq.com/openai/b904267b-6320-4469-93ce-e74da6586e6a | OpenAI | AI Deployment Engineer, Large Enterprise
+- [ ] https://jobs.ashbyhq.com/fractional-ai/d93607e0-3e38-4a6f-a05e-f293d3f3bdf4 | Fractional AI | Forward Deployed Product Manager (SF/NY)
+- [ ] https://jobs.ashbyhq.com/charta-health/4b7b2598-8926-4fd1-be9a-3596aa3ede46 | Charta Health | Forward Deployed AI Product Manager
+- [ ] https://jobs.ashbyhq.com/tribe-ai/b9c9e488-9776-42fa-9a27-6e4bfa60bca6 | Tribe AI | Forward Deployed Product Manager Lead
+- [ ] https://jobs.ashbyhq.com/govsignals/935e94f7-1e15-4b90-8005-1522fc9baadc | GovSignals | Product Engineer (Forward Deployed)
+- [ ] https://jobs.ashbyhq.com/workweave/60226f73-954c-421c-b609-c377255b062e | Weave | Forward Deployed Engineering Manager
+- [ ] https://jobs.ashbyhq.com/siena/bece1b22-9932-4621-ba86-4c5352344cf2 | Siena AI | Forward Deployed Product Manager, Agents
+- [ ] https://jobs.ashbyhq.com/conveo/4b39102c-253f-4e6c-ae1d-9b6013323e43 | Conveo.ai | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/retell-ai/19a0b250-5c4a-46b2-972d-9c8f50b743c5 | Retell AI | Founding GTM Engineer
+- [ ] https://jobs.ashbyhq.com/retell-ai/5652ab47-6c89-4889-a507-7a3a943c3669 | Retell AI | Senior Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/vapi/72ec9643-39c2-47ae-b04e-cba4e02b0966 | Vapi | Agent Strategist - NYC
+- [ ] https://job-boards.greenhouse.io/ionq/jobs/5818448004 | IonQ | Staff Automation Engineer
+- [ ] https://job-boards.greenhouse.io/processstreet/jobs/8519430002 | Process Street | Senior Software Engineer (AI SaaS)
+- [ ] https://job-boards.greenhouse.io/redwoodsoftware/jobs/4056497009 | Redwood Software | GTM Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5823552004 | Hightouch | AI Operations, GTM
+- [ ] https://jobs.lever.co/jobgether/a6ee3822-a07e-4533-9b02-061deb27db4b | Jobgether | Remote AI Architect Specialist
