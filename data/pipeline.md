@@ -406,3 +406,13 @@
 - [ ] https://job-boards.greenhouse.io/redwoodsoftware/jobs/4056497009 | Redwood Software | GTM Engineer
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5823552004 | Hightouch | AI Operations, GTM
 - [ ] https://jobs.lever.co/jobgether/a6ee3822-a07e-4533-9b02-061deb27db4b | Jobgether | Remote AI Architect Specialist
+- [ ] https://jobs.ashbyhq.com/Scale%20Army%20Careers/011cdf78-402f-4b8e-add9-3b10ebeaa4e3 | Scale Army Careers | AI Automation Specialist
+- [ ] https://boards.greenhouse.io/coinbase/jobs/8001275 | Coinbase | Senior Product Manager, CX Automation
+- [ ] https://job-boards.greenhouse.io/shipbobinc/jobs/4638574005 | ShipBob | Applied AI Engineer, Agentic Systems
+- [ ] https://job-boards.greenhouse.io/gametimeunited/jobs/5236131008 | Gametime United | Senior AI & ML Engineer
+- [ ] https://job-boards.greenhouse.io/sezzle/jobs/7633988003 | Sezzle | AI Engineer II (Remote)
+- [ ] https://apply.workable.com/ottimate/j/51353CA6F8/ | Ottimate | Director of AI Engineering
+- [ ] https://job-boards.greenhouse.io/guidepointsecurity/jobs/6017633004 | GuidePoint Security | Senior Security Automation Engineer (SOAR)
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/af39c865-a9ab-403e-8746-79dec87d6ad0 | Hippocratic AI | Senior Staff AI Engineer
+- [ ] https://jobs.ashbyhq.com/clarasight/573af661-9302-4381-8ddd-9db58674ebe3 | Clarasight | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West
