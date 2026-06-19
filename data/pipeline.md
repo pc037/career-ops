@@ -416,3 +416,8 @@
 - [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/af39c865-a9ab-403e-8746-79dec87d6ad0 | Hippocratic AI | Senior Staff AI Engineer
 - [ ] https://jobs.ashbyhq.com/clarasight/573af661-9302-4381-8ddd-9db58674ebe3 | Clarasight | Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West
+- [ ] https://jobs.ashbyhq.com/cohere/67c4c05a-f7ab-48dc-a779-af835e2d36f1 | Cohere | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5671156004 | DevRev | Forward Deployed Architect - Applied AI
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4707265005 | AssemblyAI | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf | Encord | Forward Deployed Engineer
+- [ ] https://ai-jobs.net/job/38329-forward-deployed-machine-learning-engineer-london/ | Raft | Forward Deployed Machine Learning Engineer - London
