@@ -421,3 +421,15 @@
 - [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4707265005 | AssemblyAI | Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/encord/2eedc8eb-00c2-4cbe-862e-5e22960f0dbf | Encord | Forward Deployed Engineer
 - [ ] https://ai-jobs.net/job/38329-forward-deployed-machine-learning-engineer-london/ | Raft | Forward Deployed Machine Learning Engineer - London
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6092955004 | Grafana Labs | Senior AI Engineer (US, Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6092954004 | Grafana Labs | Senior AI Engineer (Canada, Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5830873004 | Grafana Labs | Staff AI Engineer (US, Remote)
+- [ ] https://job-boards.greenhouse.io/spacex/jobs/8559015002 | SpaceX | AI Software Engineer (Vehicle Engineering)
+- [ ] https://jobs.ashbyhq.com/poetic/ca54fd9a-55eb-45ae-ba48-f666747a24e8 | Poetic | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/miteksystems-2/82e2dc07-abd5-4785-a275-2b8f398461bb | Mitek Systems | Sr. AI Engineer
+- [ ] https://jobs.lever.co/kyivstar/81ebd9a0-32a8-4e28-b513-77c7ef156347 | Kyivstar | MLOps Engineer (LLM Infrastructure)
+- [ ] https://jobs.lever.co/thinkahead/e9349a95-65b6-43e8-9c45-12bb8dd6483b | AHEAD | AI Principal Technical Consultant AI Services
+- [ ] https://job-boards.greenhouse.io/metropolitancommercialbank/jobs/4677385006 | Metropolitan Commercial Bank | AI Engineer
+- [ ] https://job-boards.greenhouse.io/springhealth66/jobs/4586190005 | Spring Health | Engineering Manager - AI & ML Infrastructure
+- [ ] https://jobs.ashbyhq.com/camunda/b771e145-a5cf-4867-ad13-b54830e3b744 | Camunda | Senior Product Manager - Core Platform (Remote)
+- [ ] https://job-boards.greenhouse.io/mavenclinic/jobs/8599609002 | Maven Clinic | Senior Product Manager, Consumer
