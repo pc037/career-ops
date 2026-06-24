@@ -433,3 +433,14 @@
 - [ ] https://job-boards.greenhouse.io/springhealth66/jobs/4586190005 | Spring Health | Engineering Manager - AI & ML Infrastructure
 - [ ] https://jobs.ashbyhq.com/camunda/b771e145-a5cf-4867-ad13-b54830e3b744 | Camunda | Senior Product Manager - Core Platform (Remote)
 - [ ] https://job-boards.greenhouse.io/mavenclinic/jobs/8599609002 | Maven Clinic | Senior Product Manager, Consumer
+- [ ] https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54 | Modal | Forward Deployed Engineer - Systems
+- [ ] https://jobs.ashbyhq.com/traversal/bbeab2c4-3510-47c4-b992-260b853d9bdd | Traversal | Forward Deployed Engineer
+- [ ] https://apply.workable.com/elvtrcom/j/6DB04720AA/ | ELVTR | AI Product Manager
+- [ ] https://apply.workable.com/vecten/j/869397D5EE/ | Vecten | AI-Native Engineer (Full-Stack / Agentic AI Engineer)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5012991008 | Anthropic | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5183983008 | Anthropic | Manager of Forward Deployed Engineering, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079562008 | Anthropic | Forward Deployed Engineer, Federal Civilian
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5099753008 | Anthropic | Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
