@@ -444,3 +444,27 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5099753008 | Anthropic | Manager, Forward Deployed Engineering
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5248983008 | Anthropic | Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230755008 | Anthropic | Manager of Applied AI Architecture, Startups
+- [ ] https://jobs.ashbyhq.com/retell-ai/ce993d9b-5635-43ba-aef1-d9dfa2025ca2 | Retell AI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/mento/6674b2f2-5c0e-4376-89aa-b2306fa42b0c | Mento | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/frontcareers/ef22a4eb-df20-4ba5-acd4-1c4bbd341935 | Front | Senior Product Manager - AI
+- [ ] https://jobs.ashbyhq.com/orb/3dfabceb-5b4f-457d-9691-233e6b01ac29 | Orb | Solutions Architect - San Francisco HQ
+- [ ] https://jobs.ashbyhq.com/dash0/88dc8222-497c-4d58-ad5b-e862a6602c51 | Dash0 | Commercial Solutions Architect
+- [ ] https://job-boards.greenhouse.io/weedmaps77/jobs/8539708002 | Weedmaps | Staff Product Manager (Remote)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4749758007 | Temporal Technologies | Senior Staff Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | Runpod | Forward Deployed Engineer APAC
+- [ ] https://job-boards.greenhouse.io/ombud/jobs/8599080002 | Ombud | Senior Full Stack AI Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4661899005 | Glean | AI Outcomes Manager, West
+- [ ] https://job-boards.greenhouse.io/idme/jobs/7766372003 | ID.me | Staff Software Engineer - AI Agent Evaluations
+- [ ] https://job-boards.greenhouse.io/acquia/jobs/8014352 | Acquia | Staff AI Engineer (Acquia DAM)
+- [ ] https://job-boards.greenhouse.io/federato/jobs/5206958008 | Federato | Forward Deployed Machine Learning Engineer
+- [ ] https://jobs.lever.co/mistral/45b0fae3-61ea-4cb0-8cd1-c1bc2a43a84a | Mistral AI | Applied AI Technical Lead, Forward Deployed AI Engineer - Munich
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7753480 | Reddit | Senior Software Engineer, GenAI Platform
+- [ ] https://job-boards.greenhouse.io/nttdatausa/jobs/8435495002 | NTT DATA | GenAI Engineer
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5126523008 | Robots and Pencils | AI Engineer
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5718942004 | Natera | Principal AI/ML Platform Engineer
+- [ ] https://job-boards.greenhouse.io/cloudwerxinc/jobs/5051132007 | CloudWerx | Senior AI/ML Engineer
+- [ ] https://apply.workable.com/panorama-education/j/CB92B7B66C/ | Panorama Education | Solutions Architect
+- [ ] https://jobs.lever.co/jobgether/5fab7a7b-742f-4f84-91f1-5b1e4d2d1bb2 | Jobgether | Senior Engineer, Applied AI
+- [ ] https://jobs.lever.co/kodiak/d1ee1237-35f5-4f0a-aa02-e908f79db61d | Kodiak | Applied AI Engineer – Generative AI
+- [ ] https://job-boards.greenhouse.io/codepath/jobs/5101859007 | CodePath | Lead Instructor, Applied AI Engineering - Summer 2026
+- [ ] https://jobs.lever.co/swordhealth/5c3a20cd-bee9-4f42-98d5-0ef0816ac0ce | Sword Health | Lead ML Engineer (Europe-based/Remote)
