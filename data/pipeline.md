@@ -468,3 +468,29 @@
 - [ ] https://jobs.lever.co/kodiak/d1ee1237-35f5-4f0a-aa02-e908f79db61d | Kodiak | Applied AI Engineer – Generative AI
 - [ ] https://job-boards.greenhouse.io/codepath/jobs/5101859007 | CodePath | Lead Instructor, Applied AI Engineering - Summer 2026
 - [ ] https://jobs.lever.co/swordhealth/5c3a20cd-bee9-4f42-98d5-0ef0816ac0ce | Sword Health | Lead ML Engineer (Europe-based/Remote)
+- [ ] https://jobs.ashbyhq.com/collinear-ai/1c6139b2-e698-419b-ab18-823f12787754 | Collinear AI | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/simpplr/jobs/6017242004 | Simpplr | Senior Product Manager, AI Products
+- [ ] https://job-boards.greenhouse.io/3cloud/jobs/8533435002 | 3Cloud | Principal Architect - AI Product Engineering
+- [ ] https://jobs.ashbyhq.com/n8n/788662b7-6b2b-4b07-b466-bf131fd95d08 | n8n | Senior Solutions Engineer East Coast Remote
+- [ ] https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725 | n8n | Senior Solutions Engineer Remote Europe
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5140763007 | Together AI | Staff Machine Learning Engineer, Voice AI
+- [ ] https://jobs.ashbyhq.com/Deepgram/f904ff60-f5d1-45c7-8fa2-8456c47b4204 | Deepgram | Pre-Sales Solutions Engineer
+- [ ] https://www.fwddeploy.com/jobs/sr-manager-ai-forward-deployed-engineering-fde-emea-a0934f25 | Databricks | Sr. Manager, AI FDE EMEA
+- [ ] https://himalayas.app/companies/databricks/jobs/ai-engineer-fde-forward-deployed-engineer-9285177889 | Databricks | AI Engineer - FDE
+- [ ] https://himalayas.app/companies/stackai/jobs/forward-deployed-engineer-spanish-speaking | StackAI | Forward Deployed Engineer (Spanish-Speaking)
+- [ ] https://himalayas.app/companies/arcesium/jobs/software-engineer-forward-deployed | Arcesium | Software Engineer - Forward Deployed
+- [ ] https://himalayas.app/companies/f5/jobs/solution-architect-ai | F5 | Solution Architect (AI)
+- [ ] https://himalayas.app/companies/onestream/jobs/ai-forward-deployed-engineer | OneStream | AI Forward Deployed Engineer
+- [ ] https://himalayas.app/companies/coverforce/jobs/founding-ai-engineer | CoverForce | Founding AI Engineer
+- [ ] https://himalayas.app/companies/parloa/jobs/forward-deployed-engineer-devops | Parloa | Forward Deployed Engineer, DevOps
+- [ ] https://himalayas.app/companies/unstructured-technologies/jobs/ai-engineer-public-sector-6247737860 | Unstructured Technologies | AI Engineer - Public Sector
+- [ ] https://www.welcometothejungle.com/en/companies/selector-ai/jobs/solutions-engineer_santa-clara-ca_sjxojtca | Selector AI | Solutions Engineer
+- [ ] https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/applied-ai-forward-deployed-machine-learning-engineer-morocco_casablanca | Mistral AI | Applied AI FDE MLE Morocco
+- [ ] https://www.welcometothejungle.com/en/companies/graphcore/jobs/staff-ai-performance-engineer_madrid_j33wxln2 | Graphcore | Staff AI Performance Engineer (Madrid)
+- [ ] https://weworkremotely.com/remote-jobs/rimini-street-forward-deployed-engineer-agentic-ai | Rimini Street | Forward Deployed Engineer (Agentic AI)
+- [ ] https://www.workatastartup.com/jobs/94139 | Paragon | Founding Forward Deployed Engineer (FDE)
+- [ ] https://www.workatastartup.com/jobs/94474 | Infer | Forward Deployed Engineer
+- [ ] https://www.workatastartup.com/jobs/86442 | Karumi | AI/ML Applied Engineer
+- [ ] https://www.workatastartup.com/jobs/92061 | Hub.xyz | Founding Full Stack AI Engineer (London)
+- [ ] https://es.jooble.org/jdp/-8269328271727426466 | Tamarind Intelligence | Remote Database QA & AI Data Steward
+- [ ] https://es.jooble.org/jdp/2346640906275142857 | Fractalia | Data Scientist & AI Engineer (Remoto España)
