@@ -494,3 +494,13 @@
 - [ ] https://www.workatastartup.com/jobs/92061 | Hub.xyz | Founding Full Stack AI Engineer (London)
 - [ ] https://es.jooble.org/jdp/-8269328271727426466 | Tamarind Intelligence | Remote Database QA & AI Data Steward
 - [ ] https://es.jooble.org/jdp/2346640906275142857 | Fractalia | Data Scientist & AI Engineer (Remoto España)
+- [ ] https://jobs.ashbyhq.com/Deepgram/be9609b4-b48d-4421-90e5-69049ad0d6ce | Deepgram | Solutions Architect (San Francisco, CA)
+- [ ] https://jobs.ashbyhq.com/leandata/f99f182d-bc0e-403a-bb41-2cf4b080a410 | LeanData | GTM Engineer (Data & AI)
+- [ ] https://jobs.ashbyhq.com/menlo/e3429e5d-26c3-45d7-8898-9c5870930656 | Menlo | Product Manager, Platform
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004 | Grafana Labs | Staff AI Engineer (US Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6100673004 | Grafana Labs | Staff AI Engineer (Canada Remote)
+- [ ] https://job-boards.greenhouse.io/dataiku/jobs/5978968004 | Dataiku | Generative AI Engineer
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/8542136002 | Flagship Pioneering | Senior Engineer, AI and Automation
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5131941007 | Together AI | Forward Deployed Engineer (Inference & Post-Training)
+- [ ] https://apply.workable.com/covergo/j/A8C4575EF5 | CoverGo | Solutions Architect (Insurance)
