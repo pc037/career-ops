@@ -504,3 +504,17 @@
 - [ ] https://job-boards.greenhouse.io/flagshippioneeringinc/jobs/8542136002 | Flagship Pioneering | Senior Engineer, AI and Automation
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5131941007 | Together AI | Forward Deployed Engineer (Inference & Post-Training)
 - [ ] https://apply.workable.com/covergo/j/A8C4575EF5 | CoverGo | Solutions Architect (Insurance)
+- [ ] https://jobs.ashbyhq.com/synthesia/c2d3d3a8-f7b8-45f5-ad89-dba6ac14625c | Synthesia | ML Platform Engineer
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8596193002 | AlphaSense | Senior Product Manager - AI Workflows
+- [ ] https://jobs.ashbyhq.com/10xteam/ca7fe560-d8a9-46e9-aa12-0329d1b54ede | 10x Team | AI Architect - AI Trainer - Freelance
+- [ ] https://jobs.ashbyhq.com/withclutch/bf4d6089-61a0-4e5d-910d-a4f3b96c00e4 | Clutch | Senior MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/alta-ares/a3d8b25e-5cbd-4f82-a4cc-d691040475f4 | Alta Ares | MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/parspec/9d5fb76b-924b-4172-b512-93cdd70070c3 | Parspec | AI Ops Engineer
+- [ ] https://jobs.lever.co/aledade/21787819-6373-4736-8766-d49cc84fd3af | Aledade | Senior Technical Product Manager - AI Platform
+- [ ] https://jobs.lever.co/aledade/76677033-2329-4b4d-94c6-0486ea6b010c | Aledade | Technical Product Manager - AI Platform
+- [ ] https://jobs.lever.co/aledade/946d319e-f8c4-4d11-835d-59db22227213 | Aledade | Senior Technical Product Manager (AI Data Platform)
+- [ ] https://jobs.lever.co/provectus/5499978e-1687-4cc6-a8c4-cc86d13bc9b0 | Provectus | Senior Technical Solution Owner / Product Manager (AI & Data Platforms)
+- [ ] https://jobs.lever.co/fiddlerlabs/3c77194b-4beb-4212-a09b-7616ff173a7c | Fiddler AI | Senior Product Manager - Generative AI & ML
+- [ ] https://jobs.lever.co/redoxengine/fac461a3-db8a-4580-a8ba-36be4f977aec | Redox | Senior Product Manager II - AI Platform & Agentic Experience
+- [ ] https://jobs.lever.co/imo-online/7076909a-2ce8-4c69-957f-ca36a3abf683 | IMO Health | Staff AI / MLOps Engineer - Clinical AI
+- [ ] https://jobs.lever.co/scaleway/d8af9e1e-6250-48e8-97db-5e4e79d7cf20 | Scaleway | Pre-Sales Solutions Architect - AI & GPU Infrastructure
