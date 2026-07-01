@@ -518,3 +518,30 @@
 - [ ] https://jobs.lever.co/redoxengine/fac461a3-db8a-4580-a8ba-36be4f977aec | Redox | Senior Product Manager II - AI Platform & Agentic Experience
 - [ ] https://jobs.lever.co/imo-online/7076909a-2ce8-4c69-957f-ca36a3abf683 | IMO Health | Staff AI / MLOps Engineer - Clinical AI
 - [ ] https://jobs.lever.co/scaleway/d8af9e1e-6250-48e8-97db-5e4e79d7cf20 | Scaleway | Pre-Sales Solutions Architect - AI & GPU Infrastructure
+- [ ] https://jobs.ashbyhq.com/primeintellect/d523340c-9914-4b86-828a-147c9ada94d3 | Prime Intellect | Solutions Architect - AI Infrastructure
+- [ ] https://jobs.ashbyhq.com/rescale/2f43e26a-a331-4648-8523-d83c258bd8a2 | Rescale | Senior Solutions Architect - Data & AI
+- [ ] https://jobs.ashbyhq.com/rula/f2424794-c819-4f53-a8af-83322e617acb | Rula | Sr. Staff AI Engineer
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7788227003 | DoiT | Senior Cloud Architect, Delivery (GenAI)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5107283008 | Cresta | Forward Deployed Engineer (AI Agent)
+- [ ] https://jobs.lever.co/resilinc/3027ee22-5c12-4dfc-9cbd-bb353ada3cb9 | Resilinc | Senior Forward Deployed Engineer (Enterprise AI Solutions) – India
+- [ ] https://jobs.lever.co/bluelightconsulting/81dfa424-263e-4825-9eb1-d22cb516a77f | Bluelight Consulting | Agentic AI Solutions Architect (Remote - LATAM)
+- [ ] https://jobs.lever.co/mistral/cb2986cc-4768-40b9-9d67-e53d78b247dc | Mistral AI | Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi
+- [ ] https://jobs.ashbyhq.com/trm-labs/32c97568-5212-48f5-9eb2-caab1c8dec2a | TRM Labs | Senior MLOps Engineer, LLMOps
+- [ ] https://jobs.ashbyhq.com/pragmatike/f30e8f4c-96bb-46f1-9ee0-53bad61f0e4b | Pragmatike | ML Ops Engineer (EMEA Remote)
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7707531003 | DoiT | Applied AI Engineer (Remote - Poland)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4683689005 | Scale AI | Staff Applied AI Engineer, Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/agencywithin/jobs/5056863007 | WITHIN | AI Engineer
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/70992590-8c71-41c2-8c47-d43f8f1578f7 | Hippocratic AI | Product Manager, AI Agents
+- [ ] https://jobs.ashbyhq.com/jerry.ai/94bd4118-3d07-4182-863b-e37a367f8a27 | Jerry.ai | Senior Product Manager, AI Agents and Platform
+- [ ] https://jobs.ashbyhq.com/cohere/1d1b300d-254b-48c4-958f-99c6b907f295 | Cohere | Product Manager, Agent Harness & Modelling
+- [ ] https://jobs.ashbyhq.com/magicschool/fd3d740a-78a9-4395-b481-5503e4c43dd3 | MagicSchool AI | GenAI Engineer
+- [ ] https://jobs.ashbyhq.com/9fin/f19f80c7-fadb-4e77-9087-6ab15a8de8bf | 9fin | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/vendelux/e68b278e-9133-4811-a472-5bf0d700eec3 | Vendelux | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/openai/28f1454f-a790-47e4-bf10-ca1834fe500b | OpenAI | Partner AI Deployment Engineer - AWS
+- [ ] https://jobs.lever.co/lingarogroup/a2aaf267-efdc-4ea2-8660-b06cb0b0f9b3 | Lingaro | ML/AI Engineer - Azure
+- [ ] https://jobs.lever.co/unlimit/288f3ebc-974b-4740-b92b-5f012ee4bdfa | Unlimit | AI Engineer
+- [ ] https://jobs.lever.co/3pillarglobal/32333956-11bf-4a77-a3d5-fc24d36f60e5 | 3Pillar | Technical Lead - AI/ML Engineer
+- [ ] https://apply.workable.com/deeplight/j/86F4823B1B/ | Deeplight | AI Engineer
+- [ ] https://apply.workable.com/volga-partners/j/35FCA61135 | Volga Partners | AI Engineer (AI/LLM Backend)
+- [ ] https://apply.workable.com/in8inity/j/A53ADBEE00/ | IN8INITY | AI Automation & MLOps Engineer
+- [ ] https://apply.workable.com/c-serv/j/BDAE99E108 | C-Serv | AI/ML Engineer
