@@ -545,3 +545,18 @@
 - [ ] https://apply.workable.com/volga-partners/j/35FCA61135 | Volga Partners | AI Engineer (AI/LLM Backend)
 - [ ] https://apply.workable.com/in8inity/j/A53ADBEE00/ | IN8INITY | AI Automation & MLOps Engineer
 - [ ] https://apply.workable.com/c-serv/j/BDAE99E108 | C-Serv | AI/ML Engineer
+- [ ] https://jobs.ashbyhq.com/nerdwallet/fdf3464e-f4a6-436e-9665-3972acf6b319 | NerdWallet | Senior Product Manager (AI Growth)
+- [ ] https://jobs.ashbyhq.com/harmonic-security-inc/87fb4ade-26b7-4550-b331-9789df39d9b3 | Harmonic Security | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/spauldingridge/jobs/6103268004 | Spaulding Ridge | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/hellopatient/1342d2e4-7fe0-44ce-82b3-bb809878517e | Hello Patient | AI Agent Product Manager
+- [ ] https://job-boards.greenhouse.io/wizardcommerce/jobs/5733929004 | Wizard | Senior Product Manager — Agentic AI Experiences
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5019997007 | Temporal Technologies | Senior Product Manager, Agentic Coding
+- [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/7961068 | SecurityScorecard | Senior/Principal Product Manager, AI
+- [ ] https://jobs.lever.co/agiloft/e85a0460-4a4c-48b4-a42e-0ff4f124d890 | Agiloft | Forward Deployed Engineer - AI Solutions
+- [ ] https://jobs.ashbyhq.com/pleo/7d2f446b-bfba-4859-bf30-ce64301b4f9b | Pleo | Senior Applied AI Engineer
+- [ ] https://jobs.lever.co/novara/4756bca8-fe07-411f-8904-ec8660090912 | Novara | Senior Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/parallellearning/jobs/4592291005 | Parallel | Senior Applied AI Engineer
+- [ ] https://jobs.lever.co/insiderone/49f7e3c9-2a0e-4f45-99bd-1af880b7615b | Insider One | AI Transformation Engineer
+- [ ] https://jobs.lever.co/conversica/16fcb557-07fc-4cfe-a0f3-0fb777ad680f | Conversica | Senior AI Software Engineer
+- [ ] https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005 | FortifyIQ | Data & AI Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7773716003 | Celonis | Senior Process Intelligence & Digital Transformation Consultant - AI
