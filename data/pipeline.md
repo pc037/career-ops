@@ -560,3 +560,32 @@
 - [ ] https://jobs.lever.co/conversica/16fcb557-07fc-4cfe-a0f3-0fb777ad680f | Conversica | Senior AI Software Engineer
 - [ ] https://job-boards.greenhouse.io/fortifyiq/jobs/4661408005 | FortifyIQ | Data & AI Engineer (Remote)
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7773716003 | Celonis | Senior Process Intelligence & Digital Transformation Consultant - AI
+- [ ] https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893 | n8n | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/AHL-SaafAI/cf683b2f-f1db-4ca0-9bac-57eb64827c0a | AHL - Saaf AI | Forward-Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/bjakcareer/54c7c274-7c82-4f6f-b992-ff0a9b1b7f4c | Bjak | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/ezcaterinc/jobs/5175483007 | ezCater | Senior PM, Data Platform
+- [ ] https://job-boards.greenhouse.io/implicit/jobs/8039713 | Implicit | AI Engineer (US-Based / Part-Time)
+- [ ] https://job-boards.greenhouse.io/sayari/jobs/4147128009 | Sayari | Staff Software Engineer, Applied AI
+- [ ] https://apply.workable.com/nexleaf-analytics/j/7CC65F0165 | Nexleaf Analytics | Senior Software Engineer, AI & Backend
+- [ ] https://apply.workable.com/northramp/j/FEF3385A60 | Northramp LLC | AI Engineer (Mid)
+- [ ] https://job-boards.greenhouse.io/later/jobs/8604889002 | Later | AI Automation Engineer Co-op
+- [ ] https://jobs.ashbyhq.com/silver/48e6f9de-0c2a-4f52-b362-b978e57bddb2 | Silver.dev | Forward Deployed Engineer (Wonderful)
+- [ ] https://jobs.ashbyhq.com/stuut-ai/cd84db2e-d3b2-4e24-8e27-764b9a87db44 | Stuut | Member of Technical Staff — Audio and Voice AI
+- [ ] https://jobs.ashbyhq.com/palo-it/ef50d64f-5525-4386-a48f-3361a04cbb3e | PALO IT | Lead Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/75c0032c-7200-48bf-9d6d-355880dd93d9 | Cohere | Forward Deployed Engineer, Agentic Platform
+- [ ] https://jobs.ashbyhq.com/generalrobotics/eb20207f-f021-4b78-9454-bd1b7355ae83 | General Robotics | Forward Deployed Engineer (AI)
+- [ ] https://jobs.ashbyhq.com/perplexity/aa511ea8-96e3-42ba-b28f-5e222170bcee | Perplexity | Forward Deployed Engineer - Applied AI
+- [ ] https://job-boards.greenhouse.io/isidor/jobs/4048584009 | Isidor | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/eagle/ddd07f46-a42a-4709-8e19-091d5145a9e7 | Eagle | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7619420 | Twilio | Principal PM - AI/LLM
+- [ ] https://jobs.ashbyhq.com/kestra/e90677e6-784b-41e0-aa65-299da93994b5 | Kestra Technologies | Product Engineer, AI
+- [ ] https://jobs.ashbyhq.com/neko-health/88fbc409-43ed-4e36-94b8-f915197a7915 | Neko Health | Principal PM - AI/LLM
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4738837008 | Cresta | Forward Deployed PM, AI Agent
+- [ ] https://job-boards.greenhouse.io/neo4j/jobs/4674814006 | Neo4j | VP Product Management - Agentic AI
+- [ ] https://job-boards.greenhouse.io/pairteam/jobs/8224083002 | Pair Team | Principal PM, AI
+- [ ] https://job-boards.greenhouse.io/agoda/jobs/7767925 | Agoda | Technical PM, LLM/ML Domain
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694764005 | Glean | PM, AI Quality
+- [ ] https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e | Machinify | Senior Automation Engineer QA
+- [ ] https://jobs.ashbyhq.com/truelogic/c0f69633-ddb0-4283-a06a-8f5c239d5788 | Truelogic | Senior Full-Stack Engineer (TypeScript/AI Automation)
+- [ ] https://job-boards.greenhouse.io/roboyo/jobs/4849187101 | Roboyo | Senior Automation Engineer
+- [ ] https://job-boards.greenhouse.io/entersekt/jobs/5844534004 | Entersekt | Senior QA Engineer: Automation & Integration Testing
