@@ -589,3 +589,16 @@
 - [ ] https://jobs.ashbyhq.com/truelogic/c0f69633-ddb0-4283-a06a-8f5c239d5788 | Truelogic | Senior Full-Stack Engineer (TypeScript/AI Automation)
 - [ ] https://job-boards.greenhouse.io/roboyo/jobs/4849187101 | Roboyo | Senior Automation Engineer
 - [ ] https://job-boards.greenhouse.io/entersekt/jobs/5844534004 | Entersekt | Senior QA Engineer: Automation & Integration Testing
+- [ ] https://jobs.ashbyhq.com/Infinite%20Lambda/4ca40e67-f04a-48d7-92c6-06e8179e4dde | Infinite Lambda | Data/AI Solutions Architect
+- [ ] https://jobs.ashbyhq.com/openhands/80bfc775-3197-407d-8742-ccb5ddae8709 | OpenHands | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/sim/c04eccb8-cbd8-4dc7-8299-b1f4c8aa1225 | Sim | Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/n8n/f814f5ce-b615-413d-bbe0-b5786b3872e9 | n8n | AI Engineering Manager
+- [ ] https://jobs.ashbyhq.com/Deepgram/a58e4a11-7f98-4686-98e8-2612b52d7bbd | Deepgram | Forward Deployed Engineer (Deepgram for Restaurants)
+- [ ] https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer, Voice Agent
+- [ ] https://jobs.ashbyhq.com/truelogic/929a4164-5d7b-4f4f-bbc3-8dd2a5d10396 | Truelogic | Forward Deployed Engineer (AI & Creative Transformation)
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8039605 | Twilio | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6016529004 | Arize AI | AI Sales Engineer, Digital Native
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5969990004 | Caylent | Forward Deployed AI Lead
+- [ ] https://job-boards.greenhouse.io/machinifyinc/jobs/4146862009 | Machinify | AI Engineer, Agentic Systems
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5839190004 | Grafana Labs | Staff AI Engineer, Canada (Remote)
+- [ ] https://apply.workable.com/tecsys/j/D5FAC0E712/ | Tecsys | Product Manager, Data Platform & AI
