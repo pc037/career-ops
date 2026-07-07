@@ -602,3 +602,40 @@
 - [ ] https://job-boards.greenhouse.io/machinifyinc/jobs/4146862009 | Machinify | AI Engineer, Agentic Systems
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5839190004 | Grafana Labs | Staff AI Engineer, Canada (Remote)
 - [ ] https://apply.workable.com/tecsys/j/D5FAC0E712/ | Tecsys | Product Manager, Data Platform & AI
+- [ ] https://jobs.ashbyhq.com/inkeep/f277f68d-c397-4919-beeb-67ee1e19dc91 | Inkeep | Forward Deployed Engineer, AI Agents
+- [ ] https://jobs.ashbyhq.com/palo-it/31227c1b-8dd1-4eb1-9f23-64fb464ebddb | PALO IT | Lead Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/fourkites/jobs/7667786 | FourKites | Senior Customer Engineer
+- [ ] https://job-boards.greenhouse.io/atek/jobs/5165059008 | A-TEK | Federal AI Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/1e2d0a50-1865-46be-9cc6-52c10ab8b6a5 | Jobgether | AI Engineer (Remote, International)
+- [ ] https://jobs.ashbyhq.com/applied/e7264a76-6f29-4f6c-b449-edc2225d7905 | Applied Intuition | Senior MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/hims-and-hers/57cd17f4-c58b-4a4c-a423-b7ad2e0b7aed | Hims & Hers | Staff Machine Learning Systems Engineer (MLOps)
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8007455 | Twilio | Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/caylent/jobs/5985806004 | Caylent | AI/ML Engineering Manager
+- [ ] https://jobs.ashbyhq.com/litmus/0572265b-a96f-4c0f-9c3b-52465350e75e | Litmus | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/artian/6c61f5d5-0702-416d-ad47-c6203ece2fd1 | Artian AI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/olly-olly/c6b3452a-7795-4bcc-8fb0-b8ce47c09412 | Olly Olly | Product Manager
+- [ ] https://jobs.ashbyhq.com/searchable/32ef91cc-b845-490d-955d-7584d2923256 | Searchable | Head of Product / Lead Product Manager
+- [ ] https://jobs.ashbyhq.com/encord/b8cfae81-6e9f-4f3e-a03a-2d03e7d115f3 | Encord | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/january/837101a2-6bc5-44e8-8f93-110638dcaca3 | January | Senior/Staff Product Manager, AI Agents
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4280748009 | Fireworks AI | AI Field Engineer - AI Natives
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4284317009 | Fireworks AI | AI Field Engineer - Enterprise
+- [ ] https://jobs.ashbyhq.com/openai/fbefd5d2-affe-47e1-9e87-d2b5de317b40 | OpenAI | Solutions Architect, Generative AI Deployment
+- [ ] https://jobs.ashbyhq.com/lorikeet/a00d35af-2d47-4ed6-8d99-2cb1fb86e44f | Lorikeet | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/northslope-technologies/17e19439-5dda-4f90-af28-2df8b6583cbc | Northslope | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/cerebrassystems/jobs/7593896003 | Cerebras | AI Models, Product Manager
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5990194004 | PagerDuty | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5821400004 | Snorkel AI | Senior Product Manager - Data & Quality
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7922403 | Reddit | Senior Product Manager, ML Signals
+- [ ] https://job-boards.greenhouse.io/surveymonkey/jobs/7867340 | SurveyMonkey | Senior Product Manager - AI and ML Platform
+- [ ] https://job-boards.greenhouse.io/triparc/jobs/5148703007 | TripArc | Technical Product Owner (AI & Agentic Systems)
+- [ ] https://job-boards.greenhouse.io/workera/jobs/4554003005 | Workera AI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/openai/87989505-81e5-4513-bba0-5f00bb064216 | OpenAI | Partner AI Deployment Engineer - AWS
+- [ ] https://jobs.lever.co/mistral/1d8de5a6-9794-4919-9c43-b2494e6cfa0f | Mistral AI | Infrastructure Solution Architect - EMEA
+- [ ] https://jobs.lever.co/bluelightconsulting/b2d0bf5c-303f-4ad7-bb5c-79040ddf94e6 | Bluelight Consulting | Agentic AI Solutions Architect - Remote, LATAM
+- [ ] https://jobs.lever.co/shieldai/7886f437-2d5e-4616-8dcb-3dc488f1f585 | Shield AI | Product Manager, AI/ML & Foundation Models
+- [ ] https://jobs.ashbyhq.com/multiverse/58389a21-a599-43b6-9869-9885a16e2072 | Multiverse | Senior AI Engineer - AI Transformation
+- [ ] https://jobs.ashbyhq.com/the-global-talent-co/141a52e8-050a-4761-8d5d-746f1a592efb | The Global Talent Co. | GTM Engineer / AI Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | GTM AI Automations Engineer
+- [ ] https://jobs.ashbyhq.com/vanta/f4b00bb0-4005-4ad8-a81f-e6d46d24b3f0 | Vanta | GTM Engineer, AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Head of Applied AI Architecture, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/lyratechgroup/jobs/5195593008 | Lyra Technology Group | Forward Deployment AI Engineer
