@@ -639,3 +639,14 @@
 - [ ] https://jobs.ashbyhq.com/vanta/f4b00bb0-4005-4ad8-a81f-e6d46d24b3f0 | Vanta | GTM Engineer, AI
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5192104008 | Anthropic | Head of Applied AI Architecture, Beneficial Deployments
 - [ ] https://job-boards.greenhouse.io/lyratechgroup/jobs/5195593008 | Lyra Technology Group | Forward Deployment AI Engineer
+- [ ] https://jobs.ashbyhq.com/sosafe/ddf136c9-0367-43a6-8682-72df0feb1691 | SoSafe | Staff IT Engineer for Automation & AI transformation (Remote)
+- [ ] https://jobs.ashbyhq.com/deepgram/2fc57802-1d2d-4796-aaea-e00586dc6792 | Deepgram | Senior Forward-Deployed Engineer, Federal
+- [ ] https://jobs.ashbyhq.com/strala-ai/efa58c03-377d-4f72-92e0-f94b1e19a4d2 | Strala Group | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/exa/8932d319-b456-4ee0-9efd-16d82be8de80 | Exa | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7774935003 | Remote.com | Senior Forward Deployed Engineer (Remote Build)
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/4978414007 | Pallet | Forward Deployed Engineer (AI Team)
+- [ ] https://job-boards.greenhouse.io/cobaltio/jobs/8603198002 | Cobalt | Senior GTM Systems & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/bluevineus/jobs/7728256003 | Bluevine | Senior AI Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5123131007 | eClinical Solutions | Principal AI Engineer
+- [ ] https://jobs.lever.co/outreach/c050b2d3-1c6b-4eea-86d1-ef505bd2b4cb | Outreach | Forward Deployed Engineer – AI Revenue Agents
+- [ ] https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e | Mistral AI | Applied AI, Senior/Staff Forward Deployed ML Engineer - Munich
