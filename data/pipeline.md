@@ -650,3 +650,22 @@
 - [ ] https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5123131007 | eClinical Solutions | Principal AI Engineer
 - [ ] https://jobs.lever.co/outreach/c050b2d3-1c6b-4eea-86d1-ef505bd2b4cb | Outreach | Forward Deployed Engineer – AI Revenue Agents
 - [ ] https://jobs.lever.co/mistral/b2498ec4-51e7-46b7-b258-d9bc40b6e39e | Mistral AI | Applied AI, Senior/Staff Forward Deployed ML Engineer - Munich
+- [ ] https://jobs.ashbyhq.com/prosper-ai/7ad5dfff-0dd8-4e05-99ea-716cac730b30 | Prosper AI | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/liquid-ai/59fd7c6b-bc62-4855-bbd5-dd0233e6c672 | Liquid AI | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/outmarket/0a51cbbb-709e-4c4d-b40f-1f4c06487a73 | Outmarket AI | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4890168101 | Unframe | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8039658 | Samsara | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/greenlightconsulting/jobs/5302157008 | Greenlight Consulting | Forward Deployed Engineer (AI Practice)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8603824002 | GitLab | Engineering Manager, AI Engineering: Chat
+- [ ] https://jobs.lever.co/jobgether/97c6db56-ec68-4b42-b861-e225d1d70a54 | Jobgether | Senior Forward Deployed Engineer (Remote Build)
+- [ ] https://jobs.lever.co/jobgether/993d2ebf-031b-437c-89ab-eba03fa1714d | Jobgether | Senior Forward Deployed Engineer (FDE)
+- [ ] https://jobs.lever.co/jobgether/bd475ef4-d738-4244-9e5b-8ea1803a33de | Jobgether | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/aledade/39ea4348-1d97-4bf7-9905-b524c255dae2 | Aledade | Senior Software Engineer I (Forward Deployed AI)
+- [ ] https://jobs.lever.co/provectus/c352f349-8e21-42f3-a0f2-00a925a93a70 | Provectus | Generative AI Tech Lead
+- [ ] https://jobs.lever.co/provectus/06ae0c7d-f502-4105-ad4c-c4418ced816c | Provectus | Machine Learning Technical Leader (GenAI, AWS)
+- [ ] https://jobs.lever.co/provectus/aadc2a25-76c5-47d5-84cb-8fa5129d0443 | Provectus | AI/ML TechLead (LLMs, AWS)
+- [ ] https://jobs.lever.co/provectus/04d934c2-84a5-4075-adbe-09efb15675ce | Provectus | AI/ML Team Lead – Generative AI (LLMs, AWS)
+- [ ] https://jobs.lever.co/provectus/9b9ee923-281e-4b86-891d-539a5ffc2d0c | Provectus | AI/ML TechLead (LLMs, AWS)
+- [ ] https://jobs.lever.co/scaleway/46376816-cd7e-4a46-a67c-81da90d4a07f | Scaleway | AI Engineer - Sales
+- [ ] https://apply.workable.com/tecsys/j/D5FAC0E712 | Tecsys | Product Manager (Data Platform & AI Platform)
+- [ ] https://apply.workable.com/creatunity-llc/j/52234400EA | Creatunity | Lead Full-Stack Engineer (AI-Assisted Development)
