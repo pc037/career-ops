@@ -669,3 +669,11 @@
 - [ ] https://jobs.lever.co/scaleway/46376816-cd7e-4a46-a67c-81da90d4a07f | Scaleway | AI Engineer - Sales
 - [ ] https://apply.workable.com/tecsys/j/D5FAC0E712 | Tecsys | Product Manager (Data Platform & AI Platform)
 - [ ] https://apply.workable.com/creatunity-llc/j/52234400EA | Creatunity | Lead Full-Stack Engineer (AI-Assisted Development)
+- [ ] https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb | LiveKit | Senior Software Engineer, Agents
+- [ ] https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5174327007 | eClinical Solutions | AI Engineer
+- [ ] https://job-boards.greenhouse.io/fairmarkit/jobs/6111188004 | Fairmarkit | Agentic AI Engineer (Boston, Hybrid)
+- [ ] https://jobs.lever.co/jobgether/54bcf02c-d987-43e6-8d54-6670ed40d3f6 | Jobgether | Remote Lead AI Engineer
+- [ ] https://job-boards.greenhouse.io/surveymonkey/jobs/7858583 | SurveyMonkey | Senior Director, AI Engineering
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4305347009 | LTS | Senior Forward Deployed Engineer (FDE)
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283 | OpenAI | Forward Deployed Engineer - London
