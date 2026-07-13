@@ -677,3 +677,29 @@
 - [ ] https://job-boards.greenhouse.io/lts/jobs/4305347009 | LTS | Senior Forward Deployed Engineer (FDE)
 - [ ] https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283 | OpenAI | Forward Deployed Engineer - London
+- [ ] https://jobs.ashbyhq.com/airapps/d49fbb66-50c0-4f1c-ac88-f63880f79469 | Air Apps | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/orb/79d1800f-cef0-4ca8-a9a8-94f1b16552a7 | Orb | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8035756 | Samsara | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/dropzoneai/jobs/4286635009 | Dropzone AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/7874013 | Smartsheet | Sr. FDE Germany
+- [ ] https://job-boards.greenhouse.io/appfire/jobs/4711980005 | Appfire | Senior AI Automation Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8548545002 | GitLab | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/Maven-agi/16caafa0-4e69-450b-8fa1-6582e1b8ef8a | Maven AGI | Senior Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/sarvam/81ee59c9-c296-4ff0-9012-4e0f51b4a7f7 | Sarvam | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/AIFund/d4223787-d070-439b-9a30-bad1a9856ef4 | AI Fund | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/thinkahead/cb488cff-1a44-4946-8850-2b1abdf8047e | ThinkAhead | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/field-ai/6fc39622-b8e9-4aab-804a-b5fc61549dc0 | Field AI | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/keyloop/f8ed28ab-c107-4f0b-b299-dacb74f14a9e | Keyloop | Senior AI Engineer
+- [ ] https://jobs.lever.co/turgon-ai/3219f081-500a-4a63-b60a-db8c4f540c0b | Turgon AI | Senior AI Engineer
+- [ ] https://jobs.lever.co/plume/2975acf4-0d01-45eb-8e67-b5f3445488a6 | Plume | Senior Data Engineer (Data + Applied AI)
+- [ ] https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290 | Cognition | Applied AI Transformation Manager - MENA
+- [ ] https://jobs.ashbyhq.com/percepta/bbfe8035-2364-419b-bb36-500aaa542fb2 | Percepta | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/mostest/68e436d6-b632-434e-93ab-9314a642dce5 | Mostest | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/openai/16df5b48-917d-41d8-b0c6-dbfdf11400f7 | OpenAI | AI Deployment Engineer, Startups
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209711008 | Anthropic | Manager, Applied AI Engineering
+- [ ] https://job-boards.greenhouse.io/quanata/jobs/5732610004 | Quanata | Senior Data Engineer, MLOps
+- [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005 | New York Times | ML Ops Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608 | Decagon | Senior Agent Product Manager
+- [ ] https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6 | Cognition | Applied AI Transformation Manager - MENA
