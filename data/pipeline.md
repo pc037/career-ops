@@ -703,3 +703,23 @@
 - [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4655096005 | New York Times | ML Ops Engineer
 - [ ] https://jobs.ashbyhq.com/decagon/dcf9b561-f2fb-422b-88a9-33ce76e96608 | Decagon | Senior Agent Product Manager
 - [ ] https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6 | Cognition | Applied AI Transformation Manager - MENA
+- [ ] https://jobs.ashbyhq.com/quadrivia/ef77b530-b481-4a32-a6d6-b0469a5419f2 | Quadrivia | AI Automation Engineer (Remote - ES/UK)
+- [ ] https://jobs.ashbyhq.com/level-ai/5a2bb8d8-85d2-4c21-8586-982e55b59895 | Level AI | Senior Backend Engineer - AI Agents
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4923957101 | Unframe | AI Product Manager - West Coast
+- [ ] https://job-boards.greenhouse.io/factored/jobs/5326168008 | Factored | Forward Deployed ML/AI Engineer
+- [ ] https://job-boards.greenhouse.io/roboyo/jobs/4866207101 | Roboyo | Senior Automation Engineer - UiPath
+- [ ] https://jobs.ashbyhq.com/solve.ai/1179e1af-6930-4271-b4b5-75294c13f806 | SolveAI | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/mistral/aff9f13c-e79f-4d66-98b1-f62dd1c552cd | Mistral AI | Applied AI, Forward Deployed ML Engineer - Munich
+- [ ] https://jobs.ashbyhq.com/roboflow/444ee288-cb72-4751-b16d-67c27749e901 | Roboflow | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4305368009 | LTS | Lead Forward Deployed Engineer (FDE)
+- [ ] https://job-boards.greenhouse.io/coherehealth/jobs/7790936003 | Cohere Health | VP, AI Engineering & Agent Platforms
+- [ ] https://jobs.ashbyhq.com/Jerry.ai/1fcfba50-252a-4294-8fa2-af91b091081d | Jerry.ai | Senior Product Manager, Agentic AI
+- [ ] https://jobs.ashbyhq.com/assorthealth/79c72fb7-e53e-4827-a647-dba65fbcf19e | Assort Health | Senior Product Manager, AI Agents
+- [ ] https://jobs.ashbyhq.com/seon/bc02bac1-55a9-4963-b13e-e5961fbd84bd | Seon | Principal Product Manager, AML Screening & Agentic AI
+- [ ] https://jobs.lever.co/jobgether/09cc4dd0-457a-4726-a40c-5082d5fae94b | Jobgether | Senior Applied AI Engineer
+- [ ] https://jobs.lever.co/jobgether/268450f0-6939-4cee-b2f4-e7c8d07856bb | Jobgether | Senior ML Operations (MLOps) Engineer
+- [ ] https://jobs.lever.co/field-ai/67b9519e-b0a1-45f1-b85f-9dcff39c9851 | FieldAI | Senior Software Engineer, MLOps
+- [ ] https://jobs.lever.co/egen/d8b8eb1d-e278-4cac-b87d-32520b7e10a8 | Egen | Principal AI Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | Forward Deployed AI Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4751504101 | Parloa | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8522265002 | GitLab | Forward Deployed Engineer - UK
