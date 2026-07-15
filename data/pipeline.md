@@ -723,3 +723,7 @@
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | Forward Deployed AI Engineer, EMEA
 - [ ] https://job-boards.greenhouse.io/parloa/jobs/4751504101 | Parloa | Senior Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8522265002 | GitLab | Forward Deployed Engineer - UK
+- [ ] https://jobs.ashbyhq.com/n8n/bdff4d5b-9cc0-4b1f-9ca1-7008e5972488 | n8n | Senior Frontend Platform Engineer
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7795871003 | Nearform | Forward Deployed Engineer (Perm, Italy, Remote + Travel)
+- [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/6103567004 | Sourcegraph | Agent Engineer [IC4]
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8051243 | Talkdesk | AI Deployment Strategist, Solutions Engineer
