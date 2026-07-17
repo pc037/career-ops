@@ -731,3 +731,4 @@
 - [ ] https://jobs.ashbyhq.com/happyrobot.ai/31bb7dd1-6c24-489e-80b9-93c6a797fe32 | Happyrobot | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/thinkahead/fd10575a-792d-4074-a131-c380d963cfac | AHEAD | Forward Deployed Engineer - AI SOC
 - [ ] https://jobs.lever.co/turgon-ai/961c4a18-b3e4-4550-b6bf-8b79308a17ef | Turgon AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/gen-digital/8faa9536-ac50-4b72-9bbb-4caf547f8460 | Gen Digital Inc. | Senior Principal AI Product Manager
