@@ -732,3 +732,25 @@
 - [ ] https://jobs.lever.co/thinkahead/fd10575a-792d-4074-a131-c380d963cfac | AHEAD | Forward Deployed Engineer - AI SOC
 - [ ] https://jobs.lever.co/turgon-ai/961c4a18-b3e4-4550-b6bf-8b79308a17ef | Turgon AI | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/gen-digital/8faa9536-ac50-4b72-9bbb-4caf547f8460 | Gen Digital Inc. | Senior Principal AI Product Manager
+- [ ] https://jobs.ashbyhq.com/ruby-labs/9c27d4a7-b059-47c1-bb52-3916c123fdab | Ruby Labs | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/saris-ai/813d2494-73b7-4c78-a46a-8413bbfbcf4d | Saris | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/uipath/a46e6524-01e7-4ca9-8080-03b69b8ec8f7 | UiPath | Principal AI Architect - Lifescience
+- [ ] https://jobs.ashbyhq.com/uipath/77e4db91-6d9e-49f9-b6a3-ab158b7aa4f2 | UiPath | Principal AI Architect - Healthcare
+- [ ] https://jobs.ashbyhq.com/emberos/fb99568d-f5ee-47f0-b799-ff45ad09a696 | Emberos | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/mtesting.ai/4758abfb-12fb-401e-8c3b-896361d7036d | Mistral AI | Applied AI Technical Lead Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/misfitsandmachines/bfb05e2a-24ed-4a0b-997f-72c4453180f6 | Misfits & Machines | AI Architect (Applied AI Engineer)
+- [ ] https://jobs.ashbyhq.com/futureworks/d8c95179-6d78-4986-9fe6-278c0ac6da4e | Future Works | Lead AI/Agent Architect
+- [ ] https://job-boards.greenhouse.io/tensorops/jobs/4930699101 | TensorOps | Mid/Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/webAI/c55123d9-d821-42d0-983f-cd5bf4ee003d | webAI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/taktile/0ce59314-4ce7-45c2-95d1-4c096b783537 | Taktile | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/tenexlabs/0723625d-12a2-4b88-a214-84c2b476f750 | Tenex | Forward Deployed Engineer, Full-Stack
+- [ ] https://jobs.ashbyhq.com/mtesting.ai/37108a18-4eaa-4554-af3c-39e3556191cb | Mistral AI | Applied AI Forward Deployed ML Engineer - EMEA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605215005 | Glean | ML Engineer, AI Assistant & Autonomous AI Agents
+- [ ] https://job-boards.greenhouse.io/taxbit/jobs/6111141004 | Taxbit | Agentic AI Engineer
+- [ ] https://job-boards.greenhouse.io/lilasciences/jobs/4302917009 | Lila Sciences | Senior/Staff ML Engineer, Applied AI
+- [ ] https://boards.greenhouse.io/arizeai/jobs/4498583004 | Arize AI | Product Manager, Generative AI
+- [ ] https://job-boards.greenhouse.io/placementsio/jobs/5025267007 | Placements.io | Senior AI Product Manager
+- [ ] https://boards.greenhouse.io/futurhealth/jobs/4459977008 | Futurhealth | Senior Product Manager, AI
+- [ ] https://jobs.ashbyhq.com/real/6b9cb515-0634-41d3-aebb-ef17e5dd2971 | Real | Automation Engineer
+- [ ] https://job-boards.greenhouse.io/boldbusiness/jobs/4077854009 | Bold Business | Automation Engineer
+- [ ] https://job-boards.greenhouse.io/nice/jobs/4821690101 | NICE | CX AI Solution Engineer
