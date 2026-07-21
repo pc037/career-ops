@@ -754,3 +754,9 @@
 - [ ] https://jobs.ashbyhq.com/real/6b9cb515-0634-41d3-aebb-ef17e5dd2971 | Real | Automation Engineer
 - [ ] https://job-boards.greenhouse.io/boldbusiness/jobs/4077854009 | Bold Business | Automation Engineer
 - [ ] https://job-boards.greenhouse.io/nice/jobs/4821690101 | NICE | CX AI Solution Engineer
+- [ ] https://jobs.ashbyhq.com/alphalifesci/8135f25e-d2cb-401f-a90f-7dcc5acd0bf8 | Alpha Life Sciences | AI Product Manager (EU)
+- [ ] https://jobs.ashbyhq.com/camunda/cfafe271-e3e9-4a00-8c0b-39ea10890d8a | Camunda | Senior Solution Architect - EMEA North
+- [ ] https://jobs.ashbyhq.com/edra/9a436e46-f62d-4b22-9a99-47829f564a02 | Edra | Forward Deployed AI Engineer (New York)
+- [ ] https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356 | Munich Electrification | AI Platform Engineer
+- [ ] https://jobs.lever.co/jobgether/5f61b16e-3b57-4894-a683-6917098fa108 | Jobgether | ML Solution Architect (Early Talent)
+- [ ] https://apply.workable.com/d2b-1/j/3420DD26AE | D2B | Senior AI Solutions Architect
