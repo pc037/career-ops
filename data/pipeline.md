@@ -760,3 +760,18 @@
 - [ ] https://jobs.ashbyhq.com/munich-electrification/ba1a138b-d85a-45ea-b560-e0e7ffcce356 | Munich Electrification | AI Platform Engineer
 - [ ] https://jobs.lever.co/jobgether/5f61b16e-3b57-4894-a683-6917098fa108 | Jobgether | ML Solution Architect (Early Talent)
 - [ ] https://apply.workable.com/d2b-1/j/3420DD26AE | D2B | Senior AI Solutions Architect
+- [ ] https://jobs.ashbyhq.com/tremendous/5f077153-5512-4390-a6b9-b9857e63ee49 | Tremendous | Senior Product Manager - AI Enablement
+- [ ] https://jobs.ashbyhq.com/teamworks/a137182f-abe7-4a76-8dac-5dc13b9aaf69 | Teamworks | Senior Product Manager, AI
+- [ ] https://jobs.ashbyhq.com/delinea/d6580c6f-979d-4144-b4c4-6b81d36ad1c9 | Delinea | Senior Product Manager - AI Gateway
+- [ ] https://jobs.ashbyhq.com/delinea/b565f518-fcd8-4742-9712-07ad2f118e08 | Delinea | Senior Product Manager - AI
+- [ ] https://jobs.ashbyhq.com/applied/71635e1b-ee39-4eed-9b98-f0f758c001fd | Applied Intuition | Solutions Architect - Modeling & Simulation (Defense)
+- [ ] https://jobs.ashbyhq.com/docker/80307391-cd6e-4a1c-8cf7-8f53351e82e3 | Docker | Staff Solutions Architect (Australia)
+- [ ] https://jobs.ashbyhq.com/astronomer/4e0ee166-f2d6-4da2-8d5e-334187f82bf1 | Astronomer | Senior Solutions Architect - Airflow (East Coast)
+- [ ] https://jobs.ashbyhq.com/baseten/1532aa00-5a93-4967-bb24-6561495d9605 | Baseten | Manager, Solutions Architect
+- [ ] https://jobs.ashbyhq.com/openrouter/407f71b5-4b1f-4666-91bd-394f3c26f19d | OpenRouter | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/doppel/bae7bcc9-afff-4f50-91e4-2c8d3580cd23 | Doppel | Forward Deployed Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/surge-ai/fbb9a489-aa75-4c24-b8fd-dbaf3a17930f | Surge AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/horizon3ai/e36e9f43-c831-43ac-85b3-782b28bef222 | Horizon3 AI | Senior Software Engineer, Agentic Systems
+- [ ] https://jobs.ashbyhq.com/jerry.ai/93aadeb7-d590-4c80-999a-e995c147720f | Jerry.ai | Product Owner, Agentic AI
+- [ ] https://job-boards.greenhouse.io/campminder/jobs/8070673 | CampMinder | Senior Product Manager, AI Platform
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6001270004 | Natera | Senior Software Engineer, Voice AI
