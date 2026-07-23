@@ -775,3 +775,18 @@
 - [ ] https://jobs.ashbyhq.com/jerry.ai/93aadeb7-d590-4c80-999a-e995c147720f | Jerry.ai | Product Owner, Agentic AI
 - [ ] https://job-boards.greenhouse.io/campminder/jobs/8070673 | CampMinder | Senior Product Manager, AI Platform
 - [ ] https://job-boards.greenhouse.io/natera/jobs/6001270004 | Natera | Senior Software Engineer, Voice AI
+- [ ] https://jobs.ashbyhq.com/CasperStudios/f3d02b31-a5b1-4c85-bf78-36976d1881f4 | Casper Studios | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/anomalo/a8ee748c-f579-4b83-8ecf-f02446d11288 | Anomalo | Data Solutions Architect
+- [ ] https://jobs.ashbyhq.com/vytalize%20health/6ecd6562-db2f-470b-b836-b69a4f6a30b2 | Vytalize Health | AI Engineer
+- [ ] https://jobs.ashbyhq.com/openhands/57564a95-13b6-47b1-b601-dd2353484e47 | OpenHands | Enterprise Agent Engineer
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5343342008 | Robots and Pencils | VP of Solutions Architect - AI
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8060160 | Twilio | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/scoutmotors/jobs/5144166007 | Scout Motors | Lead, AI Engineering
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4715911005 | AssemblyAI | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/baringa/jobs/4922242101 | Baringa | Senior Manager, Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4928578101 | Parloa | Senior Agent Architect (UK)
+- [ ] https://jobs.ashbyhq.com/Jerry.ai/b8857bb2-9861-4188-88c9-800fe4495409 | Jerry.ai | Senior Manager, AI Agents and Automation
+- [ ] https://jobs.ashbyhq.com/Checkbox%20Technology/53b772aa-a94f-47fe-bfc1-5d1da0d68092 | Checkbox Technology | Product Manager, Agentic AI
+- [ ] https://jobs.ashbyhq.com/jerry.ai/22690ec4-fff0-484b-ab89-fa66ca761232 | Jerry.ai | Manager, AI Agents and Automation
+- [ ] https://jobs.ashbyhq.com/Jerry.ai/3d1e2f6e-1b99-4f20-800c-4c1b144196ee | Jerry.ai | Senior Product Manager, Agentic AI
+- [ ] https://jobs.ashbyhq.com/jerry.ai/ff8a087a-0244-4b8d-bb14-399b2c16922a | Jerry.ai | Product Owner, AI Agents and Automation
