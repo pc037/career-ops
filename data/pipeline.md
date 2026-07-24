@@ -790,3 +790,12 @@
 - [ ] https://jobs.ashbyhq.com/jerry.ai/22690ec4-fff0-484b-ab89-fa66ca761232 | Jerry.ai | Manager, AI Agents and Automation
 - [ ] https://jobs.ashbyhq.com/Jerry.ai/3d1e2f6e-1b99-4f20-800c-4c1b144196ee | Jerry.ai | Senior Product Manager, Agentic AI
 - [ ] https://jobs.ashbyhq.com/jerry.ai/ff8a087a-0244-4b8d-bb14-399b2c16922a | Jerry.ai | Product Owner, AI Agents and Automation
+- [ ] https://jobs.ashbyhq.com/livekit/529000fe-c437-41d3-94a3-8548e61c31b8 | LiveKit | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Clera/e44419e0-4e67-41f1-8579-51894dc4afa2 | Clera | Senior Applied AI Engineer (Agentic Systems)
+- [ ] https://jobs.ashbyhq.com/n8n/5afbde12-defb-457d-a21e-584347141436 | n8n | IT Systems & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/yurtsai/jobs/5182958007 | Legion Intelligence | Agentic AI Engineer
+- [ ] https://job-boards.greenhouse.io/rackner/jobs/4717776005 | Rackner | AI/ML Engineer - Generative AI
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7747671003 | Remote | CX AI & Automation Lead
+- [ ] https://job-boards.greenhouse.io/dialpad/jobs/8597852002 | Dialpad | AI Engineer, Voice Designer
+- [ ] https://job-boards.greenhouse.io/eulerity/jobs/4698580006 | Eulerity | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/aircallioinc/jobs/4308436009 | Aircall | Forward Deployed Engineer - AI Solutions Engineering
