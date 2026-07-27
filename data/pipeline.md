@@ -799,3 +799,14 @@
 - [ ] https://job-boards.greenhouse.io/dialpad/jobs/8597852002 | Dialpad | AI Engineer, Voice Designer
 - [ ] https://job-boards.greenhouse.io/eulerity/jobs/4698580006 | Eulerity | Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/aircallioinc/jobs/4308436009 | Aircall | Forward Deployed Engineer - AI Solutions Engineering
+- [ ] https://jobs.ashbyhq.com/camunda/42b8007d-8299-4793-9581-2b3868ba0754 | Camunda | AI Forward Deployed Engineer EMEA
+- [ ] https://jobs.ashbyhq.com/camunda/08543cc4-7971-4ce4-8e7b-d42073faba89 | Camunda | AI Process Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/hatch/302d3f5d-2d99-4962-8ce3-4480cd4330d5 | Hatch | AI Engineer - AI Agents
+- [ ] https://jobs.ashbyhq.com/lumaai/6133d955-1d26-4f3a-abf8-f9383ccbe19a | Luma AI | Forward Deployed Engineer - EU
+- [ ] https://jobs.ashbyhq.com/hatch/ed801333-2dc9-4bba-9bff-0ec38a2b05b1 | Hatch | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Hubs.is/ca9ab51f-7cde-4b24-85d9-6e24de7f0c9b | Hubs.is | Agentic Platform Architect
+- [ ] https://job-boards.greenhouse.io/axiad/jobs/6122140004 | Axiad | AI-First SRE/DevOps Engineer
+- [ ] https://job-boards.greenhouse.io/getwellnetwork/jobs/5365365008 | Get Well Network | AI Engineer
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6122325004 | ClickHouse | GTM Engineer AI & Automation
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7772274 | Reddit | Senior Staff ML Engineer GenAI Platform
+- [ ] https://jobs.lever.co/provectus/9d4bc274-7c63-417a-a814-e2f637a6eee9 | Provectus | Senior Forward Deployed AI Engineer
