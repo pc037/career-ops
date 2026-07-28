@@ -810,3 +810,15 @@
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6122325004 | ClickHouse | GTM Engineer AI & Automation
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/7772274 | Reddit | Senior Staff ML Engineer GenAI Platform
 - [ ] https://jobs.lever.co/provectus/9d4bc274-7c63-417a-a814-e2f637a6eee9 | Provectus | Senior Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/doppel/004ba25c-d5ff-4775-8fbc-692b77818d11 | Doppel | Solutions Architect, Detections
+- [ ] https://jobs.ashbyhq.com/truelogic/5feaefad-67cd-4616-afb1-13605e79ffa4 | Truelogic | Senior Data Scientist (GenAI focus)
+- [ ] https://job-boards.greenhouse.io/aircallioinc/jobs/4315316009 | Aircall.io | FDE - AI Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/clerk-ai/jobs/5000924008 | Clerk AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI
+- [ ] https://job-boards.greenhouse.io/evolver/jobs/4229947009 | Evolver | Senior GenAI Engineer
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5142526007 | Zscaler | Principal GenAI Data Engineer
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5101014007 | Conga | Sr SWE (AI Platform)
+- [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4692556005 | Nimble Gravity | AI Engineer
+- [ ] https://jobs.lever.co/provectus/c565e6d3-6607-42ac-b03c-245ab712a72e | Provectus | Senior Product Owner/FDE Executive
+- [ ] https://jobs.lever.co/jobgether/f019d82a-3db0-478f-995e-7e69b7b24055 | Jobgether | Senior AI Engineer
+- [ ] https://apply.workable.com/weekday-1/j/E225CD1AF4 | Weekday AI | Applied AI Engineer II
