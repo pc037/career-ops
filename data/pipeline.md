@@ -799,3 +799,54 @@
 - [ ] https://job-boards.greenhouse.io/dialpad/jobs/8597852002 | Dialpad | AI Engineer, Voice Designer
 - [ ] https://job-boards.greenhouse.io/eulerity/jobs/4698580006 | Eulerity | Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/aircallioinc/jobs/4308436009 | Aircall | Forward Deployed Engineer - AI Solutions Engineering
+- [ ] https://jobs.ashbyhq.com/camunda/42b8007d-8299-4793-9581-2b3868ba0754 | Camunda | AI Forward Deployed Engineer EMEA
+- [ ] https://jobs.ashbyhq.com/camunda/08543cc4-7971-4ce4-8e7b-d42073faba89 | Camunda | AI Process Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/hatch/302d3f5d-2d99-4962-8ce3-4480cd4330d5 | Hatch | AI Engineer - AI Agents
+- [ ] https://jobs.ashbyhq.com/lumaai/6133d955-1d26-4f3a-abf8-f9383ccbe19a | Luma AI | Forward Deployed Engineer - EU
+- [ ] https://jobs.ashbyhq.com/hatch/ed801333-2dc9-4bba-9bff-0ec38a2b05b1 | Hatch | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Hubs.is/ca9ab51f-7cde-4b24-85d9-6e24de7f0c9b | Hubs.is | Agentic Platform Architect
+- [ ] https://job-boards.greenhouse.io/axiad/jobs/6122140004 | Axiad | AI-First SRE/DevOps Engineer
+- [ ] https://job-boards.greenhouse.io/getwellnetwork/jobs/5365365008 | Get Well Network | AI Engineer
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6122325004 | ClickHouse | GTM Engineer AI & Automation
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7772274 | Reddit | Senior Staff ML Engineer GenAI Platform
+- [ ] https://jobs.lever.co/provectus/9d4bc274-7c63-417a-a814-e2f637a6eee9 | Provectus | Senior Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/doppel/004ba25c-d5ff-4775-8fbc-692b77818d11 | Doppel | Solutions Architect, Detections
+- [ ] https://jobs.ashbyhq.com/truelogic/5feaefad-67cd-4616-afb1-13605e79ffa4 | Truelogic | Senior Data Scientist (GenAI focus)
+- [ ] https://job-boards.greenhouse.io/aircallioinc/jobs/4315316009 | Aircall.io | FDE - AI Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/clerk-ai/jobs/5000924008 | Clerk AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4593571005 | Scale AI | Forward Deployed Engineer, GenAI
+- [ ] https://job-boards.greenhouse.io/evolver/jobs/4229947009 | Evolver | Senior GenAI Engineer
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5142526007 | Zscaler | Principal GenAI Data Engineer
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5101014007 | Conga | Sr SWE (AI Platform)
+- [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4692556005 | Nimble Gravity | AI Engineer
+- [ ] https://jobs.lever.co/provectus/c565e6d3-6607-42ac-b03c-245ab712a72e | Provectus | Senior Product Owner/FDE Executive
+- [ ] https://jobs.lever.co/jobgether/f019d82a-3db0-478f-995e-7e69b7b24055 | Jobgether | Senior AI Engineer
+- [ ] https://apply.workable.com/weekday-1/j/E225CD1AF4 | Weekday AI | Applied AI Engineer II
+- [ ] https://jobs.ashbyhq.com/sardine/aabf9a4b-18ef-4932-ac20-4ed07eacd6ca | Sardine | Solutions Architect, Integrations (US/CA)
+- [ ] https://jobs.ashbyhq.com/realmalliance/0a111fba-b589-423b-809d-7b8afe848afc | Realm | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/sarvam/e7f783e8-6378-4158-97d5-48a397a91698 | Sarvam | ML Ops Engineer, Chanakya
+- [ ] https://jobs.ashbyhq.com/a-place-for-mom/6c4f037d-c49b-466e-8cc8-acfa2280d453 | A Place for Mom | Sr. Machine Learning Engineer - ML/AI Team
+- [ ] https://jobs.ashbyhq.com/dash0/90a6dcd0-6901-4753-b908-a57a01c5a823 | Dash0 | Product Manager - Agentic AI
+- [ ] https://jobs.ashbyhq.com/pleo/e93cc07b-7898-4ab3-a5a3-acb507dbf67d | Pleo | Senior Engineering Manager, Data & AI Products
+- [ ] https://jobs.ashbyhq.com/protegrity/9c077661-11fb-4c2d-ad27-efc0c4eb98b8 | Protegrity | Gen AI Product Manager
+- [ ] https://jobs.ashbyhq.com/openai/73e59b84-2e87-4637-8c4a-d271784afb30 | OpenAI | GTM Growth Product Manager, Agentic Systems
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7814948003 | Remote | Senior Product Manager, Fraud and Compliance
+- [ ] https://job-boards.greenhouse.io/remotereferralboardinternaluseonly/jobs/7788661003 | Remote | Senior Forward Deployed Engineer (Remote Build)
+- [ ] https://job-boards.greenhouse.io/lynxanalytics/jobs/8647264002 | Lynx Analytics | AI Engineer (US)
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7805651003 | DoiT | Applied AI Engineer - Croatia (Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6117339004 | Grafana Labs | Staff AI Engineer - UK Remote
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7805652003 | DoiT | Applied AI Engineer - Romania (Remote)
+- [ ] https://job-boards.greenhouse.io/lokainc/jobs/4067015007 | Loka | Senior Machine Learning Engineer
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5369032008 | Cresta | Solutions Engineer, AI Agent
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5823633004 | DevRev | Forward Deployed Engineer (Customer)
+- [ ] https://job-boards.greenhouse.io/backblaze/jobs/5213833008 | Backblaze | Sr. AI Security Engineer
+- [ ] https://apply.workable.com/careers-at-sleek/j/C0B209B865 | Sleek | Compliance Product Manager / Senior Product Manager
+- [ ] https://apply.workable.com/alabama-solutions/j/A7E419FA3D | Alabama Solutions | Senior AI Engineer
+- [ ] https://apply.workable.com/surglobal/j/609CA67F07 | Sur | Product Manager
+- [ ] https://jobs.lever.co/jobgether/a11cae97-93ef-4eb6-a80f-8ffc561807e3 | Jobgether | Senior Forward Deployed Engineer (Remote Build)
+- [ ] https://jobs.lever.co/jobgether/d2bd8459-cf37-4cab-919f-69bb5e76e356 | Jobgether | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/thetrevorproject/3b77d89d-5f61-4342-8120-3f4bde2639e6 | The Trevor Project | Contact Center Solutions Architect
+- [ ] https://jobs.lever.co/aircall/4965256f-b814-46a5-b6f6-e83bec714120 | Aircall | Forward Deployed Engineer - AI Solutions Engineering
+- [ ] https://jobs.lever.co/jobgether/0152e667-94be-487e-8d0b-8790ff90f64f | Jobgether | MLOps Engineer
+- [ ] https://jobs.lever.co/idt/9179d3e9-344c-4e63-afbd-727f849fac54 | IDT | Senior MLOps Engineer
+- [ ] https://jobs.lever.co/jobgether/96966af1-7734-4b19-9804-00ee6f0550d4 | Jobgether | AI Solution Engineer
