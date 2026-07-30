@@ -850,3 +850,7 @@
 - [ ] https://jobs.lever.co/jobgether/0152e667-94be-487e-8d0b-8790ff90f64f | Jobgether | MLOps Engineer
 - [ ] https://jobs.lever.co/idt/9179d3e9-344c-4e63-afbd-727f849fac54 | IDT | Senior MLOps Engineer
 - [ ] https://jobs.lever.co/jobgether/96966af1-7734-4b19-9804-00ee6f0550d4 | Jobgether | AI Solution Engineer
+- [ ] https://jobs.ashbyhq.com/intentlab/2813cf83-924f-4501-a5b5-f3ec737006ea | Intent Lab Inc | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/striiminc/jobs/5105702007 | Striim | Forward Deployed Engineer (FDE)
+- [ ] https://job-boards.greenhouse.io/amplitude/jobs/8532156002 | Amplitude | Senior Customer Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/quiqinc/jobs/4663388005 | Quiq | Senior Solutions Engineer, Enterprise AI & CX
