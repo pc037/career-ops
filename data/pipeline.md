@@ -854,3 +854,21 @@
 - [ ] https://job-boards.greenhouse.io/striiminc/jobs/5105702007 | Striim | Forward Deployed Engineer (FDE)
 - [ ] https://job-boards.greenhouse.io/amplitude/jobs/8532156002 | Amplitude | Senior Customer Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/quiqinc/jobs/4663388005 | Quiq | Senior Solutions Engineer, Enterprise AI & CX
+- [ ] https://jobs.ashbyhq.com/allspice/ac287d24-5e1c-4072-aaf6-1a81cb94f0c7 | AllSpice | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/docker/0c6104ae-7a8a-4701-aa63-24f57389025c | Docker | Staff Solutions Architect (EMEA)
+- [ ] https://jobs.ashbyhq.com/runpod/25e7d414-e338-42dc-a206-ca4727f3f98f | Runpod | Forward Deployed Engineer APAC
+- [ ] https://jobs.ashbyhq.com/redpanda-data/578668b4-4e0d-4896-9b5b-924bf1b9a035 | Redpanda Data | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/elliemd/jobs/4121588009 | EllieMD | Senior Product Manager (EST, Remote)
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6122160004 | Hightouch | Forward Deployed Analytics Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8487768002 | Databricks | Solutions Architect - Strategic AI Natives
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4717716005 | Glean | Resident Solutions Architect
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7788229003 | DoiT | Senior Cloud Architect, Delivery (GenAI) - Portugal
+- [ ] https://job-boards.greenhouse.io/fireworksai/jobs/4329153009 | Fireworks AI | AI Field Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8633227002 | Databricks | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4508312005 | Glean | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8569390002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://job-boards.greenhouse.io/lifted/jobs/7796519003 | Lifted | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4340405009 | LTS | Senior Front-End Agentic AI Engineer
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/5850044004 | Mercury | Senior Software Engineer - AI Engineering
+- [ ] https://job-boards.greenhouse.io/nice/jobs/4837047101 | NICE | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/44b148d9-aec4-4931-905c-42fa71b4f639 | Jobgether | AI Forward Deployed Engineer, EMEA
