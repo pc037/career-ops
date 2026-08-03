@@ -872,3 +872,24 @@
 - [ ] https://job-boards.greenhouse.io/mercury/jobs/5850044004 | Mercury | Senior Software Engineer - AI Engineering
 - [ ] https://job-boards.greenhouse.io/nice/jobs/4837047101 | NICE | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/jobgether/44b148d9-aec4-4931-905c-42fa71b4f639 | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.ashbyhq.com/cuesta-partners/df69d5f1-deb8-49de-aa44-71ba317c7190 | Cuesta Partners | (Data & AI/ML) Solutions Architect Latam
+- [ ] https://jobs.ashbyhq.com/eloquentai/550ca2ac-4420-48fb-a37f-e765053d7e7f | Eloquent AI | AI Engineer, AIOps & Infrastructure
+- [ ] https://jobs.ashbyhq.com/lorikeet/e75ed170-a9c1-41f4-9731-1b86ad7c1777 | Lorikeet | Forward Deployed Product Manager
+- [ ] https://jobs.ashbyhq.com/mistral.ai/4758abfb-12fb-401e-8c3b-896361d7036d | Mistral AI | Applied AI Technical Lead Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/fractional-ai/f5351d10-7fef-4daf-8ca4-e62c81381300 | Fractional AI | Forward Deployed Product Manager (NC)
+- [ ] https://jobs.ashbyhq.com/fractional-ai/ccd11e11-7167-4e58-833b-1a7c64652c47 | Fractional AI | Associate Forward Deployed Product Manager (SF)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8084298 | Talkdesk | Forward Deployed AI Product Manager HLS
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5373987008 | Honeycomb.io | Senior Software Engineer II - Agentic Intelligence
+- [ ] https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/4659903007 | Prophecy | AI Engineer
+- [ ] https://job-boards.greenhouse.io/inspiren/jobs/5195497007 | Inspiren | Senior Business Systems Engineer, AI & Automation
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8082644 | Talkdesk | Senior Forward Deployed Engineer FSI
+- [ ] https://job-boards.greenhouse.io/lightningai/jobs/7742081003 | Lightning AI | Forward Deployed Engineer
+- [ ] https://apply.workable.com/proactive-technology-management/j/63FB51F32E/ | Proactive Technology Management | Forward Deployed Engineer - AI Consultant
+- [ ] https://apply.workable.com/aion/j/3FFC6D1D2D/ | AION | Forward Deployed ML Engineer Agents
+- [ ] https://apply.workable.com/v2-ai/j/C62134F1C9 | V2 Digital | Forward Deployed Engineer - AI Principal
+- [ ] https://apply.workable.com/talentpluto/j/9B2E90AA92/ | talentpluto | Forward Deployed Engineer
+- [ ] https://apply.workable.com/cloudfactory/j/0EB373C1D6/ | CloudFactory | Forward Deployed Engineer (AI Deployment)
+- [ ] https://apply.workable.com/plainconcepts/j/F71CF00426 | Plain Concepts | AI Architect / Senior AI Engineer
+- [ ] https://apply.workable.com/pereview-software/j/2E60A27CFD/ | Pereview Software | AI Engineer
+- [ ] https://apply.workable.com/innovaccer-analytics/j/6B9F1CC4CD | Innovaccer Analytics | Forward Deployed Engineer
+- [ ] https://apply.workable.com/crewai/j/96051E9EDE/ | CrewAI | Forward Deployed Engineer
