@@ -893,3 +893,8 @@
 - [ ] https://apply.workable.com/pereview-software/j/2E60A27CFD/ | Pereview Software | AI Engineer
 - [ ] https://apply.workable.com/innovaccer-analytics/j/6B9F1CC4CD | Innovaccer Analytics | Forward Deployed Engineer
 - [ ] https://apply.workable.com/crewai/j/96051E9EDE/ | CrewAI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/andromeda/a365f059-8753-4d1c-ae48-2a2570a41e28 | Andromeda Cluster | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6119757004 | Arize AI | Open Source AI Engineer (TypeScript)
+- [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6123729004 | ICON | AI Software Engineer - Government Technology
+- [ ] https://jobs.ashbyhq.com/P-1%20AI/3032d125-a3f5-439f-a541-e6a38127f949 | P-1 AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/blooming-health/570689a5-a433-4a93-abea-bd02fd02edb2 | Blooming Health | Senior AI Engineer - Conversational AI & Agentic Systems
