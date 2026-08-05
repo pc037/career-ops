@@ -898,3 +898,12 @@
 - [ ] https://job-boards.greenhouse.io/iconcareers/jobs/6123729004 | ICON | AI Software Engineer - Government Technology
 - [ ] https://jobs.ashbyhq.com/P-1%20AI/3032d125-a3f5-439f-a541-e6a38127f949 | P-1 AI | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/blooming-health/570689a5-a433-4a93-abea-bd02fd02edb2 | Blooming Health | Senior AI Engineer - Conversational AI & Agentic Systems
+- [ ] https://boards.greenhouse.io/workera/jobs/4017965005 | Workera | Senior Product Manager (US-Remote)
+- [ ] https://boards.greenhouse.io/samsara/jobs/8035756 | Samsara | Senior Product Manager - Remote
+- [ ] https://boards.greenhouse.io/hackerrank/jobs/6156058 | HackerRank | Senior Product Manager - AI/ML (Remote)
+- [ ] https://boards.greenhouse.io/relationalai/jobs/4835414004 | RelationalAI | Senior Product Manager, Platform
+- [ ] https://boards.greenhouse.io/recordedfuture/jobs/7533151002 | Recorded Future | Senior Product Manager, AI
+- [ ] https://boards.greenhouse.io/billiontoone/jobs/4299665005 | BillionToOne | Senior Product Manager, AI
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7296104 | Twilio | Staff PM - AI/ML Platform - Enterprise AI
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4336795009 | LTS | Lead AI Architect/Strategist
+- [ ] https://job-boards.greenhouse.io/descript/jobs/6576153003 | Descript | Product Manager, AI Research
