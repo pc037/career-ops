@@ -907,3 +907,8 @@
 - [ ] https://job-boards.greenhouse.io/twilio/jobs/7296104 | Twilio | Staff PM - AI/ML Platform - Enterprise AI
 - [ ] https://job-boards.greenhouse.io/lts/jobs/4336795009 | LTS | Lead AI Architect/Strategist
 - [ ] https://job-boards.greenhouse.io/descript/jobs/6576153003 | Descript | Product Manager, AI Research
+- [ ] https://boards.greenhouse.io/grafanalabs/jobs/5248675004 | Grafana Labs | Senior Product Manager, Grafana AI/ML (Spain)
+- [ ] https://job-boards.greenhouse.io/axon/jobs/7791969003 | Axon | Solutions Architect, Software Deployments
+- [ ] https://apply.workable.com/amartha/j/F9B0EA0D32 | Amartha | Senior AI Product Manager - Customer Operations & Automation
+- [ ] https://jobs.ashbyhq.com/fundamental/f66822a3-fd9f-438b-8532-e996e3932e3c | Fundamental | MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/braze/jobs/8082030 | Braze | Senior Lead Systems Engineer, AI & Automation
