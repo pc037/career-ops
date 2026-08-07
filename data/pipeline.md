@@ -912,3 +912,12 @@
 - [ ] https://apply.workable.com/amartha/j/F9B0EA0D32 | Amartha | Senior AI Product Manager - Customer Operations & Automation
 - [ ] https://jobs.ashbyhq.com/fundamental/f66822a3-fd9f-438b-8532-e996e3932e3c | Fundamental | MLOps Engineer
 - [ ] https://job-boards.greenhouse.io/braze/jobs/8082030 | Braze | Senior Lead Systems Engineer, AI & Automation
+- [ ] https://apply.workable.com/workana-premium/j/F80AE4FD35 | Workana | AI Engineer - Generative AI & AWS
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8522408002 | GitLab | Forward Deployed Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/lio/8e037444-9a05-4470-b1a1-eeeee26c8815 | Lio | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/lago/5ce59e80-c4f9-40e9-88c5-a68bb566f089 | Lago | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8439047002 | Databricks | Forward Deployed Engineer - Emerging Enterprise
+- [ ] https://job-boards.greenhouse.io/quillbot/jobs/8045409 | Quillbot | Applied AI Engineer II
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5721276004 | Snorkel AI | Applied AI Engineer - Federal
+- [ ] https://job-boards.greenhouse.io/leolabsinc/jobs/4221481009 | LeoLabs | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/apptronik/jobs/6008787004 | Apptronik | Staff MLOps Engineer
