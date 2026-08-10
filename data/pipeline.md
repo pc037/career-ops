@@ -921,3 +921,11 @@
 - [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5721276004 | Snorkel AI | Applied AI Engineer - Federal
 - [ ] https://job-boards.greenhouse.io/leolabsinc/jobs/4221481009 | LeoLabs | Senior AI Engineer
 - [ ] https://job-boards.greenhouse.io/apptronik/jobs/6008787004 | Apptronik | Staff MLOps Engineer
+- [ ] https://jobs.ashbyhq.com/shiftkey/2d49484b-f266-4250-a24c-013d8e274559 | ShiftKey | Staff AI Engineer - AI Infrastructure & Agentic Platform
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5277521008 | Robots and Pencils | Solutions Architect - AI
+- [ ] https://job-boards.greenhouse.io/aspenviewtech/jobs/4355206009 | Aspenview Technology Partners | Agentic AI Engineer - RAG Architecture - LLM Systems
+- [ ] https://jobs.lever.co/jobgether/9512e428-c7b4-4505-a2b8-873a8e187c74 | Jobgether | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/wonderschool/jobs/6622628003 | Wonderschool | Forward Deployed Engineer - Applied AI
+- [ ] https://jobs.ashbyhq.com/kestra/51b67438-6b1a-494a-acea-b3f25bc62070 | Kestra Technologies | Product Manager, AI
+- [ ] https://jobs.ashbyhq.com/elliptic/b2894201-7298-4277-bbae-6b0cf14c6c55 | Elliptic | Senior AI Product Engineer
+- [ ] https://jobs.lever.co/ciandt/c764f4cf-316a-46b9-9a59-fd771da53163 | CI&T | AI Solutions Architect
