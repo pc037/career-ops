@@ -929,3 +929,9 @@
 - [ ] https://jobs.ashbyhq.com/kestra/51b67438-6b1a-494a-acea-b3f25bc62070 | Kestra Technologies | Product Manager, AI
 - [ ] https://jobs.ashbyhq.com/elliptic/b2894201-7298-4277-bbae-6b0cf14c6c55 | Elliptic | Senior AI Product Engineer
 - [ ] https://jobs.lever.co/ciandt/c764f4cf-316a-46b9-9a59-fd771da53163 | CI&T | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/6130290004 | PerfectServe | Forward Deployment Engineer, AI - US Remote
+- [ ] https://job-boards.greenhouse.io/aircallioinc/jobs/4315316009 | Aircall | Forward Deployed Engineer - AI Solutions Engineering
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4597399005 | Scale AI | Forward Deployed AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673051005 | Scale AI | Forward Deployed Product Manager, Enterprise
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8084298 | Talkdesk | Forward Deployed AI Product Manager, HLS
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4340374009 | LTS | Senior Agentic AI Software Engineer
