@@ -935,3 +935,14 @@
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673051005 | Scale AI | Forward Deployed Product Manager, Enterprise
 - [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8084298 | Talkdesk | Forward Deployed AI Product Manager, HLS
 - [ ] https://job-boards.greenhouse.io/lts/jobs/4340374009 | LTS | Senior Agentic AI Software Engineer
+- [ ] https://jobs.ashbyhq.com/space44/2c97ec85-aac5-4829-ade7-a0e908a09a37 | SPACE44 | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/netdocuments/jobs/5383595008 | NetDocuments | Senior Product Manager - AI
+- [ ] https://job-boards.greenhouse.io/nearform/jobs/7834813003 | Nearform | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/guidepointsecurity/jobs/6014563004 | GuidePoint Security | Associate Applied AI Engineer
+- [ ] https://jobs.lever.co/jobgether/f68e9a6a-6bdb-48eb-8f30-618bcf89abdf | Jobgether | Lead AI Engineer
+- [ ] https://jobs.ashbyhq.com/eliza/984a10cb-a042-4913-9c1e-8d39b36329ed | Eliza | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/sunriseunitedstatesinc/jobs/5189217008 | Sunrise Group | Senior AI Product Manager
+- [ ] https://job-boards.greenhouse.io/mozilla/jobs/6212739 | Mozilla | Principal Product Manager, Generative AI
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5980854004 | Natera | Senior Product Manager, Chat AI & Automation
+- [ ] https://jobs.ashbyhq.com/applied/295f0fc6-9bdf-4d20-87ff-d3a23983a226 | Applied Intuition | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/titan-ai/9a2e4f06-a63f-4f31-b0b7-e8049bc070e9 | Titan AI | Forward Deployed Engineer – Applied AI Focus
