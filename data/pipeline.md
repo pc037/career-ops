@@ -946,3 +946,11 @@
 - [ ] https://job-boards.greenhouse.io/natera/jobs/5980854004 | Natera | Senior Product Manager, Chat AI & Automation
 - [ ] https://jobs.ashbyhq.com/applied/295f0fc6-9bdf-4d20-87ff-d3a23983a226 | Applied Intuition | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/titan-ai/9a2e4f06-a63f-4f31-b0b7-e8049bc070e9 | Titan AI | Forward Deployed Engineer – Applied AI Focus
+- [ ] https://jobs.ashbyhq.com/eliza/4c9304c1-7966-4be8-8adb-df2dbe997679 | Eliza | Associate AI Product Manager
+- [ ] https://jobs.ashbyhq.com/everai/b3bc5e60-949e-45d6-8ae2-a01320ce557d | EverAI | Tech Lead, LLM & Generative AI (Remote - Germany)
+- [ ] https://jobs.ashbyhq.com/everai/c7c482e1-5866-4f69-84b8-e3f4778a5d84 | EverAI | Tech Lead, LLM & Generative AI (Remote - Europe)
+- [ ] https://jobs.ashbyhq.com/everai/20ba3059-e2d1-4eb6-ba0c-15b7a27ac973 | EverAI | Tech Lead, LLM & Generative AI (Remote - Norway)
+- [ ] https://job-boards.greenhouse.io/infuse/jobs/4694102005 | INFUSE | Senior Product Manager - Internal Processes (Contract, Remote)
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4340498009 | LTS | Senior Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8083711 | Talkdesk | Principal Forward Deployed Engineer, HLS
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8110413 | Flexport | Forward Deployed Engineer - Supply Chain Solutions
