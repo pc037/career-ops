@@ -954,3 +954,10 @@
 - [ ] https://job-boards.greenhouse.io/lts/jobs/4340498009 | LTS | Senior Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8083711 | Talkdesk | Principal Forward Deployed Engineer, HLS
 - [ ] https://job-boards.greenhouse.io/flexport/jobs/8110413 | Flexport | Forward Deployed Engineer - Supply Chain Solutions
+- [ ] https://jobs.ashbyhq.com/hippocratic%20ai/dc5d7d07-fba0-4ddc-a832-345deb09cc78 | Hippocratic AI | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/clariticloudinc/jobs/7864713003 | Clariti Cloud | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/aa9432df-90a6-4eb2-9408-b649aeb35799 | Hippocratic AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/mistral.ai/52fc0112-06d1-49cb-9863-05df53db6642 | Mistral AI | Lead Applied AI Engineer, Fullstack
+- [ ] https://jobs.ashbyhq.com/odewithanthropic/d93607e0-3e38-4a6f-a05e-f293d3f3bdf4 | Ode with Anthropic | Forward Deployed Product Manager (SF/NY)
+- [ ] https://job-boards.greenhouse.io/afresh/jobs/6108299004 | Afresh | Staff Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/soraunion/jobs/5181909008 | Sora Union | Forward Deployed Engineer
