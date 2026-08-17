@@ -961,3 +961,21 @@
 - [ ] https://jobs.ashbyhq.com/odewithanthropic/d93607e0-3e38-4a6f-a05e-f293d3f3bdf4 | Ode with Anthropic | Forward Deployed Product Manager (SF/NY)
 - [ ] https://job-boards.greenhouse.io/afresh/jobs/6108299004 | Afresh | Staff Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/soraunion/jobs/5181909008 | Sora Union | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/striiminc/jobs/5208247007 | Striim | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6100724004 | Grafana Labs | Senior AI Engineer - AI/ML (USA Remote)
+- [ ] https://apply.workable.com/spd-technology/j/60F73DEBC3 | SPD Technology | Senior ML & AI Engineer
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7996774 | Twilio | Machine Learning Engineer (MLOps/LLMOps)
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4110962009 | CodeRoad | Machine Learning Operations Engineer (MLOps)
+- [ ] https://jobs.ashbyhq.com/reflectionai/40a6a128-76f2-47d9-99f8-8e1547c3371b | Reflection AI | Product Manager - Agentic AI Platform
+- [ ] https://jobs.ashbyhq.com/interface-ai/7a8fba25-fe2f-4b23-a224-ac48e943725d | interface.ai | Principal Product Manager - AI Platform
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8080890 | Smartsheet | Principal Product Manager - AI Creation & Growth
+- [ ] https://jobs.ashbyhq.com/praecipio/ac0c2324-4f27-48b1-9bc2-4f724c6f822c | Praecipio Consulting | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/aiand/b2401480-d371-466a-bcf4-2f3cda58a186 | ai& | Member of Technical Staff - Applied & Agentic AI
+- [ ] https://jobs.ashbyhq.com/harvey/d00dc18e-862b-4391-a3f1-5cd49c07f8e7 | Harvey | Senior Software Engineer - AI Platform
+- [ ] https://job-boards.greenhouse.io/indiciumai/jobs/4944657101 | Indicium AI | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/netlight/3565f7e9-e5ff-4c3b-abc4-5318ba2ad32b | Netlight | Senior AI/ML Consultant
+- [ ] https://jobs.lever.co/egen/1b870652-5768-45e9-b55b-4420e6402314 | Egen | Senior AI Engineer
+- [ ] https://jobs.lever.co/imo-online/99f3d9be-201b-41b1-82a4-931cb60f2656 | IMO Health | Staff AI Engineer
+- [ ] https://apply.workable.com/jobgether/j/0C895CA0C5 | Jobgether | Forward Deployed AI Engineer (Remote - US)
+- [ ] https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | Forward Deployed AI Engineer
+- [ ] https://apply.workable.com/revodata-nl/j/BA31EFE7E3/ | RevoData | AI Engineer
