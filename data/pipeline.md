@@ -979,3 +979,6 @@
 - [ ] https://apply.workable.com/jobgether/j/0C895CA0C5 | Jobgether | Forward Deployed AI Engineer (Remote - US)
 - [ ] https://apply.workable.com/iceye/j/B75F49639E/ | ICEYE | Forward Deployed AI Engineer
 - [ ] https://apply.workable.com/revodata-nl/j/BA31EFE7E3/ | RevoData | AI Engineer
+- [ ] https://job-boards.greenhouse.io/infuse/jobs/4717438005 | INFUSE | Engineering Team Lead - AI Innovation (Remote, Contract)
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5187551007 | Encora | Senior Automation, AI & Enterprise Applications Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391016008 | Anthropic | Forward Deployed Engineer
