@@ -982,3 +982,7 @@
 - [ ] https://job-boards.greenhouse.io/infuse/jobs/4717438005 | INFUSE | Engineering Team Lead - AI Innovation (Remote, Contract)
 - [ ] https://job-boards.greenhouse.io/encora10/jobs/5187551007 | Encora | Senior Automation, AI & Enterprise Applications Engineer
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391016008 | Anthropic | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/level-ai/a71f73a6-5964-4420-a789-107dd6b3d66a | Level AI | Forward Deployed Engineer - Agents
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8140456 | Smartsheet | Senior Product Manager II - Applied AI (Remote Eligible)
+- [ ] https://job-boards.greenhouse.io/dwelly/jobs/4954106101 | Dwelly | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/codepath/jobs/5175813007 | CodePath | Senior AI Operations Lead
