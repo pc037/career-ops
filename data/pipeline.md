@@ -986,3 +986,10 @@
 - [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8140456 | Smartsheet | Senior Product Manager II - Applied AI (Remote Eligible)
 - [ ] https://job-boards.greenhouse.io/dwelly/jobs/4954106101 | Dwelly | Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/codepath/jobs/5175813007 | CodePath | Senior AI Operations Lead
+- [ ] https://jobs.ashbyhq.com/uipath/59c96924-d9ea-4625-92c4-ca0cf752c4ca | UiPath | Associate Sales Representative (Agentic AI Automation)
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7831380003 | Remote | Senior Product Manager, APIs
+- [ ] https://job-boards.greenhouse.io/cyware/jobs/4175262003 | Cyware | Solutions Architect (REMOTE)
+- [ ] https://job-boards.greenhouse.io/upgrade/jobs/4724383005 | Upgrade | Senior QA Automation Engineer (Platform)
+- [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/8137884 | SecurityScorecard | GTM Engineer
+- [ ] https://jobs.ashbyhq.com/truelogic/c276da0d-3aa7-4f1f-a1a4-7894b1a2728a | Truelogic | Forward Deployed Engineer (AI & Creative Transformation) - Marketing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391021008 | Anthropic | Forward Deployed Engineer
