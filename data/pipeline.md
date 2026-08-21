@@ -993,3 +993,8 @@
 - [ ] https://job-boards.greenhouse.io/securityscorecard/jobs/8137884 | SecurityScorecard | GTM Engineer
 - [ ] https://jobs.ashbyhq.com/truelogic/c276da0d-3aa7-4f1f-a1a4-7894b1a2728a | Truelogic | Forward Deployed Engineer (AI & Creative Transformation) - Marketing
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391021008 | Anthropic | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/ahl-saafai/cf683b2f-f1db-4ca0-9bac-57eb64827c0a | AHL - Saaf AI | Forward-Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/techtorch/878eaa7b-6ec8-42f4-974e-fde68db3582d | Techtorch | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/redapt/jobs/5396488008 | Redapt | Forward Deployed Engineer, Agentic AI
+- [ ] https://jobs.lever.co/jobgether/00bacba9-0dad-4b5b-9f63-c2926ed86611 | Jobgether | Forward Deployed Engineer – Agentic AI
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8716179002 | GitLab | AI Transformation Owner, Product & Design
