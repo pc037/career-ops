@@ -998,3 +998,8 @@
 - [ ] https://job-boards.greenhouse.io/redapt/jobs/5396488008 | Redapt | Forward Deployed Engineer, Agentic AI
 - [ ] https://jobs.lever.co/jobgether/00bacba9-0dad-4b5b-9f63-c2926ed86611 | Jobgether | Forward Deployed Engineer – Agentic AI
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8716179002 | GitLab | AI Transformation Owner, Product & Design
+- [ ] https://jobs.ashbyhq.com/prosper-ai/2dbe76ca-9c09-4879-9533-e1847bd31782 | Prosper AI | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/talkiatry/92639031-ee44-4f82-adb5-04ee67b618c9 | Talkiatry | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/apas/9fd6b53e-b4b6-411e-ad59-aac671afe578 | APAS.AI | Agentic AI Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/e3c33ed8-c80f-4af6-a904-7da6c413b074 | Deepgram | Solutions Architect - MENA
+- [ ] https://job-boards.greenhouse.io/couchbaseinc/jobs/4701384006 | Couchbase | Sr Product Manager (AI Infrastructure)
