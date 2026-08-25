@@ -1003,3 +1003,12 @@
 - [ ] https://jobs.ashbyhq.com/apas/9fd6b53e-b4b6-411e-ad59-aac671afe578 | APAS.AI | Agentic AI Engineer
 - [ ] https://jobs.ashbyhq.com/deepgram/e3c33ed8-c80f-4af6-a904-7da6c413b074 | Deepgram | Solutions Architect - MENA
 - [ ] https://job-boards.greenhouse.io/couchbaseinc/jobs/4701384006 | Couchbase | Sr Product Manager (AI Infrastructure)
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7702644 | Twilio | Machine Learning Engineer
+- [ ] https://jobs.ashbyhq.com/Clera/7dc9d2ee-77bc-4c7a-b9c6-0542c22c9a16 | Clera | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/firecrawl/e1543e63-bc33-48df-a823-24c3241748ee | Firecrawl | Forward Deployed Engineer (Integrations)
+- [ ] https://jobs.ashbyhq.com/coder/afb0b507-24ba-4f39-ac51-739e23ce8938 | Coder | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/globalizationpartners/jobs/7749444003 | G-P | Principal Product Manager – Agentic AI Platform
+- [ ] https://job-boards.greenhouse.io/apartmentiq/jobs/7705215 | ApartmentIQ | Staff Product Manager - Agentic AI
+- [ ] https://job-boards.greenhouse.io/exactera/jobs/7779805003 | Exactera | Principal Product Manager - Agentic Platform
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5834919004 | Hightouch | Lead Product Manager, Agentic Personalization
+- [ ] https://jobs.ashbyhq.com/creatoriq/abd556d0-b2ff-4dd0-9d18-fe277d5cbe74 | CreatorIQ | Senior MLOps Engineer
