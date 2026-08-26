@@ -1,6 +1,7 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/6150440004 | Snorkel AI | IT Platform and Automation Engineer
 - [ ] https://jobs.ashbyhq.com/handshake/669082a2-5e60-4c45-92cc-ecd6228e62ee | Handshake | Staff Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/Trunk%20Tools/627b9477-747e-44a0-a649-399e2f9b5ed9 | Trunk Tools | Sr. II ML Engineer
 - [ ] https://jobs.ashbyhq.com/everai/694c19b7-d94f-4f66-97a7-5c881b0811bf | EverAI | Senior AI Product Manager (Remote - Europe)
