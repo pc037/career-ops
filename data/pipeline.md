@@ -1013,3 +1013,23 @@
 - [ ] https://job-boards.greenhouse.io/exactera/jobs/7779805003 | Exactera | Principal Product Manager - Agentic Platform
 - [ ] https://job-boards.greenhouse.io/hightouch/jobs/5834919004 | Hightouch | Lead Product Manager, Agentic Personalization
 - [ ] https://jobs.ashbyhq.com/creatoriq/abd556d0-b2ff-4dd0-9d18-fe277d5cbe74 | CreatorIQ | Senior MLOps Engineer
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 | Anthropic | AI Engineer, GTM Claudification
+- [ ] https://jobs.ashbyhq.com/hippocratic%20ai/af528529-1c4b-4cc4-b073-4e4522fd2ab6 | Hippocratic AI | Forward Deployed Engineer (Mid/Senior)
+- [ ] https://jobs.ashbyhq.com/magical/55801f62-d42b-4c68-87ba-01c483ba4459 | Magical | AI Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/redpanda-data/4ca2b5b9-83a7-472d-9bcb-0a432a65542d | Redpanda Data | Forward Deployed Engineer - Canada
+- [ ] https://apply.workable.com/innovaccer-analytics/j/6B9F1CC4CD/ | Innovaccer Analytics | Forward Deployed Engineer
+- [ ] https://apply.workable.com/mod-careers/j/248F72E37C/ | MyOutDesk | Forward Deployed Engineer / AI Automation Specialist
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8638847002 | Databricks | AI Engineer, GTM Analytics
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8629999002 | Databricks | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8739465002 | Databricks | Sr. Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8657468002 | Databricks | Sr. Forward Deployed Engineer - Public Sector
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8647677002 | Databricks | Sr. Forward Deployed Engineer - Retail
+- [ ] https://jobs.ashbyhq.com/savvymoney/f1d6d55f-949d-43a4-9e78-8927a5afdaae | SavvyMoney | Lead ML/AI Platform Engineer (EU, EMEA Remote)
+- [ ] https://jobs.ashbyhq.com/outmarket/ab2be675-76ac-44b3-98ed-d59f5285b4f9 | Outmarket AI | Platform Engineer (AI)
+- [ ] https://jobs.ashbyhq.com/sciencelogic/f0c9b607-457a-4e2c-8bf1-ac991a57e81d | ScienceLogic | Sr. AI Platform Engineer
+- [ ] https://jobs.ashbyhq.com/Tabs/0fc53151-a52c-489b-a337-f8d74fcd9a3b | Tabs | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/maven-agi/accdcaf3-3c91-4de7-a918-c7c5a6a38487 | Maven AGI | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/claylabs/749a6373-0979-424a-abc9-9cfc511a5e44 | Clay Labs | Product Manager, Enrichment & AI
+- [ ] https://jobs.ashbyhq.com/rula/3d304068-e2b9-453e-829b-cca6a714d6e1 | Rula | Staff Product Manager - AI
+- [ ] https://jobs.ashbyhq.com/everai/67415245-9710-4d32-a544-735d779e1d44 | EverAI | Senior Product Manager (Full Remote - Europe)
