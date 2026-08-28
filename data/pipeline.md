@@ -1033,3 +1033,47 @@
 - [ ] https://jobs.ashbyhq.com/claylabs/749a6373-0979-424a-abc9-9cfc511a5e44 | Clay Labs | Product Manager, Enrichment & AI
 - [ ] https://jobs.ashbyhq.com/rula/3d304068-e2b9-453e-829b-cca6a714d6e1 | Rula | Staff Product Manager - AI
 - [ ] https://jobs.ashbyhq.com/everai/67415245-9710-4d32-a544-735d779e1d44 | EverAI | Senior Product Manager (Full Remote - Europe)
+- [ ] https://jobs.ashbyhq.com/space44/2c97ec85-aac5-4829-ade7-a0e908a09a37 | SPACE44 | AI Solutions Architect
+- [ ] https://jobs.ashbyhq.com/anomalo/a8ee748c-f579-4b83-8ecf-f02446d11288 | Anomalo | Data Solutions Architect
+- [ ] https://jobs.ashbyhq.com/andromeda/a365f059-8753-4d1c-ae48-2a2570a41e28 | Andromeda Cluster | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/applied/71635e1b-ee39-4eed-9b98-f0f758c001fd | Applied Intuition | Solutions Architect - Modeling & Simulation (Defense)
+- [ ] https://jobs.ashbyhq.com/docker/80307391-cd6e-4a1c-8cf7-8f53351e82e3 | Docker | Staff Solutions Architect (Australia)
+- [ ] https://jobs.ashbyhq.com/doppel/004ba25c-d5ff-4775-8fbc-692b77818d11 | Doppel | Solutions Architect, Detections
+- [ ] https://jobs.ashbyhq.com/sosafe/ddf136c9-0367-43a6-8682-72df0feb1691 | SoSafe | Staff Engineer IT Automation & AI transformation
+- [ ] https://jobs.ashbyhq.com/camunda/42b8007d-8299-4793-9581-2b3868ba0754 | Camunda | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.ashbyhq.com/camunda/08543cc4-7971-4ce4-8e7b-d42073faba89 | Camunda | AI Process Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/ahl-saafai/cf683b2f-f1db-4ca0-9bac-57eb64827c0a | AHL - Saaf AI | Forward-Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/techtorch/878eaa7b-6ec8-42f4-974e-fde68db3582d | Techtorch | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/surge-ai/fbb9a489-aa75-4c24-b8fd-dbaf3a17930f | Surge AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/lumaai/6133d955-1d26-4f3a-abf8-f9383ccbe19a | Luma AI | Forward Deployed Engineer - EU
+- [ ] https://jobs.ashbyhq.com/openrouter/407f71b5-4b1f-4666-91bd-394f3c26f19d | OpenRouter | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/livekit/529000fe-c437-41d3-94a3-8548e61c31b8 | LiveKit | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/misfitsandmachines/bfb05e2a-24ed-4a0b-997f-72c4453180f6 | Misfits & Machines | AI Architect (Applied AI Engineer)
+- [ ] https://jobs.ashbyhq.com/futureworks/d8c95179-6d78-4986-9fe6-278c0ac6da4e | Future Works | Lead AI/Agent Architect
+- [ ] https://jobs.ashbyhq.com/openhands/57564a95-13b6-47b1-b601-dd2353484e47 | OpenHands | Enterprise Agent Engineer
+- [ ] https://jobs.ashbyhq.com/apas/9fd6b53e-b4b6-411e-ad59-aac671afe578 | APAS.AI | Agentic AI Engineer
+- [ ] https://jobs.ashbyhq.com/shiftkey/2d49484b-f266-4250-a24c-013d8e274559 | ShiftKey | Staff AI Engineer - AI Infrastructure & Agentic Platform
+- [ ] https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725 | n8n | Senior Solutions Engineer (Remote Europe)
+- [ ] https://jobs.ashbyhq.com/n8n/5afbde12-defb-457d-a21e-584347141436 | n8n | IT Systems & Automation Engineer
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/aa9432df-90a6-4eb2-9408-b649aeb35799 | Hippocratic AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/reflectionai/8b97b583-3cc6-4834-ae2c-d5aecf22ed7d | Reflection AI | Forward Deployed Engineer - AI Engineer
+- [ ] https://jobs.ashbyhq.com/truelogic/c276da0d-3aa7-4f1f-a1a4-7894b1a2728a | Truelogic | Forward Deployed Engineer (AI & Creative Transformation)
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/8140456 | Smartsheet | Senior PM II Applied AI
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7774935003 | Remote.com | Senior Forward Deployed Engineer (Remote Build)
+- [ ] https://job-boards.greenhouse.io/cyware/jobs/4175262003 | Cyware | Solutions Architect (REMOTE)
+- [ ] https://job-boards.greenhouse.io/implicit/jobs/8039713 | Implicit | AI Engineer (US-Based / Part-Time)
+- [ ] https://job-boards.greenhouse.io/infuse/jobs/4717438005 | INFUSE | Engineering Team Lead - AI Innovation (Remote, Contract)
+- [ ] https://job-boards.greenhouse.io/fairmarkit/jobs/6111188004 | Fairmarkit | Agentic AI Engineer (Boston, Hybrid)
+- [ ] https://job-boards.greenhouse.io/dwelly/jobs/4954106101 | Dwelly | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/paynearmeinc/jobs/4286462009 | PayNearMe | Business Systems Engineer
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5187551007 | Encora | Senior Automation, AI & Enterprise Applications Engineer
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6122325004 | ClickHouse | GTM Engineer, AI & Automation
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4715911005 | AssemblyAI | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/clerk-ai/jobs/5000924008 | Clerk AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/greenlightconsulting/jobs/5302157008 | Greenlight Consulting | Forward Deployed Engineer (AI Practice)
+- [ ] https://job-boards.greenhouse.io/redapt/jobs/5396488008 | Redapt | Forward Deployed Engineer, Agentic AI
+- [ ] https://jobs.lever.co/jobgether/00bacba9-0dad-4b5b-9f63-c2926ed86611 | Jobgether | Forward Deployed Engineer – Agentic AI
+- [ ] https://apply.workable.com/d2b-1/j/3420DD26AE/ | D2B | Senior AI Solutions Architect
+- [ ] https://apply.workable.com/northramp/j/FEF3385A60 | Northramp LLC | AI Engineer (Mid)
+- [ ] https://apply.workable.com/tecsys/j/D5FAC0E712/ | Tecsys Inc. | Product Manager (Data Platform & AI Platform)
+- [ ] https://apply.workable.com/amartha/j/F9B0EA0D32 | Amartha | Senior AI PM - Customer Operations & Automation
