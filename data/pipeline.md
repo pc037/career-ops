@@ -1077,3 +1077,7 @@
 - [ ] https://apply.workable.com/northramp/j/FEF3385A60 | Northramp LLC | AI Engineer (Mid)
 - [ ] https://apply.workable.com/tecsys/j/D5FAC0E712/ | Tecsys Inc. | Product Manager (Data Platform & AI Platform)
 - [ ] https://apply.workable.com/amartha/j/F9B0EA0D32 | Amartha | Senior AI PM - Customer Operations & Automation
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8014748002 | SmartAsset | Senior Product Manager, Generative AI
+- [ ] https://job-boards.greenhouse.io/mitratech/jobs/8155220 | Mitratech | Principal AI Engineer
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4340374009 | LTS | Senior Agentic AI Software Engineer
+- [ ] https://jobs.ashbyhq.com/loopio/0cae524d-230b-4f1a-b9d0-5ddba05ffcd3 | Loopio | Senior MLOps Engineer (Agentic Systems)
