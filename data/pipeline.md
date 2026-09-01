@@ -1081,3 +1081,17 @@
 - [ ] https://job-boards.greenhouse.io/mitratech/jobs/8155220 | Mitratech | Principal AI Engineer
 - [ ] https://job-boards.greenhouse.io/lts/jobs/4340374009 | LTS | Senior Agentic AI Software Engineer
 - [ ] https://jobs.ashbyhq.com/loopio/0cae524d-230b-4f1a-b9d0-5ddba05ffcd3 | Loopio | Senior MLOps Engineer (Agentic Systems)
+- [ ] https://jobs.ashbyhq.com/neurons-lab.com/9d21a752-735f-414c-9bfa-44564a42a3cf | Neurons Lab | AI Architect (Voice AI)
+- [ ] https://jobs.ashbyhq.com/Clera/6cc07213-0732-498a-b6c1-5e2adb54175d | Clera | Applied AI Engineer - AI & Automation
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6117334004-77 | Grafana Labs | Staff AI Engineer - Germany Remote
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5302966008 | Anthropic | Forward Deployed Engineer
+- [ ] https://apply.workable.com/jobgether/j/0116FEFC32 | Jobgether | AI Solution Architect (Remote)
+- [ ] https://remotive.com/remote/jobs/software-development/forward-deployed-engineer-5276172 | hireVouch | Forward Deployed Engineer
+- [ ] https://remotive.com/remote/jobs/artificial-intelligence/ai-forward-deployed-engineer-5326216 | Camunda | AI Forward Deployed Engineer
+- [ ] https://remotive.com/remote/jobs/artificial-intelligence/forward-deployed-engineer-5346385 | NICE | Forward Deployed Engineer
+- [ ] https://weworkremotely.com/remote-jobs/databricks-ai-engineer-fde-forward-deployed-engineer | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://www.workingnomads.com/jobs/forward-deployed-engineer-solution-architect-edge-case-research-1774906 | Edge Case Research | Forward Deployed Engineer - Solution Architect
+- [ ] https://himalayas.app/companies/provectus/jobs/forward-deployed-ai-architect-genai-aws | Provectus | Forward Deployed AI Architect (GenAI, AWS)
+- [ ] https://himalayas.app/companies/nearform/jobs/forward-deployed-engineer-perm-uk-remote-travel | NearForm | Forward Deployed Engineer (UK Remote + Travel)
+- [ ] https://www.fwddeploy.com/jobs/forward-deployed-engineer-physical-ai-cloud-platform-7fb1b847 | Unknown | Forward Deployed Engineer - Physical AI Cloud Platform
+- [ ] https://www.fwddeploy.com/jobs/ai-forward-deployed-engineer-emea-22df2a9a | Unknown | AI Forward Deployed Engineer, EMEA
