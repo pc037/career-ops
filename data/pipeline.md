@@ -1095,3 +1095,7 @@
 - [ ] https://himalayas.app/companies/nearform/jobs/forward-deployed-engineer-perm-uk-remote-travel | NearForm | Forward Deployed Engineer (UK Remote + Travel)
 - [ ] https://www.fwddeploy.com/jobs/forward-deployed-engineer-physical-ai-cloud-platform-7fb1b847 | Unknown | Forward Deployed Engineer - Physical AI Cloud Platform
 - [ ] https://www.fwddeploy.com/jobs/ai-forward-deployed-engineer-emea-22df2a9a | Unknown | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.ashbyhq.com/forgd-ai/8bf4f921-64f6-435f-af94-581c31f62304 | forgd inc | Applied AI Architect
+- [ ] https://apply.workable.com/northramp/j/FEF3385A60/ | Northramp | AI Engineer
+- [ ] https://apply.workable.com/leadtech/j/A83B949324/ | Leadtech | AI Product Manager
+- [ ] https://apply.workable.com/amartha/j/F9B0EA0D32/ | Amartha | Senior AI Product Manager
