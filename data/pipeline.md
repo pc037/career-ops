@@ -1,6 +1,9 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations
+- [ ] https://job-boards.greenhouse.io/myshell/jobs/4031762008 | MyShell | AI Engineer
+- [ ] https://www.workatastartup.com/jobs/66885 | Medplum | Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/snorkelai/jobs/6150440004 | Snorkel AI | IT Platform and Automation Engineer
 - [ ] https://jobs.ashbyhq.com/handshake/669082a2-5e60-4c45-92cc-ecd6228e62ee | Handshake | Staff Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/Trunk%20Tools/627b9477-747e-44a0-a649-399e2f9b5ed9 | Trunk Tools | Sr. II ML Engineer
