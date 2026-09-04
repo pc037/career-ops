@@ -1102,3 +1102,13 @@
 - [ ] https://apply.workable.com/northramp/j/FEF3385A60/ | Northramp | AI Engineer
 - [ ] https://apply.workable.com/leadtech/j/A83B949324/ | Leadtech | AI Product Manager
 - [ ] https://apply.workable.com/amartha/j/F9B0EA0D32/ | Amartha | Senior AI Product Manager
+- [ ] https://jobs.ashbyhq.com/camunda/30094c52-f327-40e7-83a2-ae6a142a4278 | Camunda | Senior GTM Systems AI and Automation Engineer
+- [ ] https://boards.greenhouse.io/databricks/jobs/8656207002 | Databricks | Sr. Forward Deployed Engineer - Architect
+- [ ] https://boards.greenhouse.io/anthropic/jobs/4042295008 | Anthropic | Solutions Architect, Public Sector
+- [ ] https://boards.greenhouse.io/anthropic/jobs/4020084008 | Anthropic | Solutions Architect
+- [ ] https://boards.greenhouse.io/anthropic/jobs/4464711008 | Anthropic | Applied AI, Public Sector
+- [ ] https://job-boards.greenhouse.io/toast/jobs/8147449 | Toast | Staff Software Engineer - AI/Agent Engineer, Care Automation
+- [ ] https://job-boards.greenhouse.io/nice/jobs/4930718101 | NICE | Forward Deployment Engineer
+- [ ] https://job-boards.greenhouse.io/rithumliboard/jobs/8178079 | Rithum | IT Automation Engineer
+- [ ] https://jobs.lever.co/jobgether/2f3046bd-ba1e-472e-bf84-ee03936ad990 | Jobgether | MLOps Engineer
+- [ ] https://jobs.lever.co/jobgether/3f8739d8-ea0e-4d94-80bd-7a78d693cef3 | Jobgether | AI Platform Engineer
