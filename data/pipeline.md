@@ -1112,3 +1112,9 @@
 - [ ] https://job-boards.greenhouse.io/rithumliboard/jobs/8178079 | Rithum | IT Automation Engineer
 - [ ] https://jobs.lever.co/jobgether/2f3046bd-ba1e-472e-bf84-ee03936ad990 | Jobgether | MLOps Engineer
 - [ ] https://jobs.lever.co/jobgether/3f8739d8-ea0e-4d94-80bd-7a78d693cef3 | Jobgether | AI Platform Engineer
+- [ ] https://jobs.ashbyhq.com/planera/d68c8a09-a11d-409e-85ca-5d434caf3fc8 | Planera | Senior AI Agent Engineer
+- [ ] https://job-boards.greenhouse.io/lumimeds/jobs/4205631009 | Lumimeds | Senior Full-Stack Engineer (AI-Native)
+- [ ] https://apply.workable.com/goarc/j/5BA1F776E9/ | GOARC | Product Manager
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5397262008 | Cresta | Solutions Engineer, AI Agent
+- [ ] https://job-boards.greenhouse.io/simpplr/jobs/6161156004 | Simpplr | Lead Voice AI Engineer
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/aa9432df-90a6-4eb2-9408-b649aeb35799 | Hippocratic AI | Forward Deployed Engineer
