@@ -1,6 +1,9 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://jobs.lever.co/brevo/43c7cd04-30eb-4a0d-9fc2-666800069dbb | Brevo | Senior AI Engineer (Forward-Deployed)
+- [ ] https://jobs.lever.co/provectus/0958d55f-23ff-44f0-a48d-c1f05068cc43 | Provectus | Forward Deployed AI Architect (GenAI, AWS)
+- [ ] https://jobs.lever.co/provectus/73156c93-34ae-46ea-8b11-cbb81cb19094 | Provectus | FDE AI / Solutions Architect (AI, Python/Data)
 - [ ] https://jobs.ashbyhq.com/cohere/3fe03041-347a-479f-8361-6b1f5f81338e | Cohere | Applied AI Engineer, Agents & Automations
 - [ ] https://job-boards.greenhouse.io/myshell/jobs/4031762008 | MyShell | AI Engineer
 - [ ] https://www.workatastartup.com/jobs/66885 | Medplum | Forward Deployed Engineer
