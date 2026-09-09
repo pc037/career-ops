@@ -1,6 +1,20 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/rula/40915141-68c6-4a00-9581-95b158da6d91/application | Rula | Sr. Product Manager - AI (Remote)
+- [ ] https://jobs.ashbyhq.com/ninjatech.ai/f1199895-1edb-4a9e-b20b-9038aee28bcc | NinjaTech AI | AI Solutions Architect
+- [ ] https://jobs.ashbyhq.com/Hubs.is/1a63dcda-d399-4110-bbfb-c527531b01fd | Hubs.is | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/7988100003 | Remote.com | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/phizenix/jobs/5398766008 | Phizenix | LLM / Agentic Evaluation Rig Engineer
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/6161432004 | EvolutionIQ | Senior AI / ML Engineer (LLMs)
+- [ ] https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943 | Applied Intuition | Forward Deployed Engineer - New Grad (December 2026)
+- [ ] https://jobs.ashbyhq.com/netic/f2d170eb-c4c3-4715-9d2e-84dd4fe857c8 | Netic | Forward Deployed Engineer (FDE) - New Grad
+- [ ] https://jobs.ashbyhq.com/abridge/897709b2-e03d-4574-8611-5cfd669adde9 | Abridge | Software Engineer, GenAI
+- [ ] https://jobs.ashbyhq.com/riveron/411a5c6f-04c9-4e42-8514-fe37299bff0a | Riveron | Manager - Senior AI/ML Engineer
+- [ ] https://jobs.ashbyhq.com/mural/7a781912-3c72-4843-8810-8a9d0c550569 | Mural | Staff Backend Engineer, AI Systems
+- [ ] https://jobs.ashbyhq.com/openai/e827d138-22de-49f0-9de5-60f3e3ce07a0/application | OpenAI | Solutions Architect, Digital Natives
+- [ ] https://jobs.ashbyhq.com/regard/758035db-326c-42a6-9179-f83d793b1e7b | Regard | Generative AI Engineer
+- [ ] https://job-boards.greenhouse.io/nttdatausa/jobs/8583715002 | NTT DATA | GenAI Engineer
 - [ ] https://jobs.lever.co/brevo/43c7cd04-30eb-4a0d-9fc2-666800069dbb | Brevo | Senior AI Engineer (Forward-Deployed)
 - [ ] https://jobs.lever.co/provectus/0958d55f-23ff-44f0-a48d-c1f05068cc43 | Provectus | Forward Deployed AI Architect (GenAI, AWS)
 - [ ] https://jobs.lever.co/provectus/73156c93-34ae-46ea-8b11-cbb81cb19094 | Provectus | FDE AI / Solutions Architect (AI, Python/Data)
