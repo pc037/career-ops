@@ -1135,3 +1135,5 @@
 - [ ] https://job-boards.greenhouse.io/cresta/jobs/5397262008 | Cresta | Solutions Engineer, AI Agent
 - [ ] https://job-boards.greenhouse.io/simpplr/jobs/6161156004 | Simpplr | Lead Voice AI Engineer
 - [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/aa9432df-90a6-4eb2-9408-b649aeb35799 | Hippocratic AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/telnyx54/jobs/7638348003 | Telnyx | Forward Deployed Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/air/jobs/4397696009 | Air | Senior AI Engineer
