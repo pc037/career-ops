@@ -1137,3 +1137,11 @@
 - [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/aa9432df-90a6-4eb2-9408-b649aeb35799 | Hippocratic AI | Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/telnyx54/jobs/7638348003 | Telnyx | Forward Deployed Engineer (Remote)
 - [ ] https://job-boards.greenhouse.io/air/jobs/4397696009 | Air | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/digible/jobs/6143696004 | Digible | Senior Product Manager (AI)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8512432002 | GitLab | Staff Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/nerostechnologies/jobs/5189310007 | Neros Technologies | Automation Engineer
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7964775 | Omada Health | Senior Software Engineer, AI Transformation
+- [ ] https://job-boards.greenhouse.io/reltio/jobs/5913410004 | Reltio | Senior AI SDET
+- [ ] https://job-boards.greenhouse.io/rithumliboard/jobs/8178063 | Rithum | IT Automation Engineer - Business Technology
+- [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/6185008004 | Sourcegraph | ML & Agentic Systems Engineer
+- [ ] https://jobs.lever.co/provectus/893fc898-fb7e-4ba8-b95a-641b1aa10224 | Provectus | Senior Forward Deployed AI Architect (GenAI, AWS)
