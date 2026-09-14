@@ -1145,3 +1145,4 @@
 - [ ] https://job-boards.greenhouse.io/rithumliboard/jobs/8178063 | Rithum | IT Automation Engineer - Business Technology
 - [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/6185008004 | Sourcegraph | ML & Agentic Systems Engineer
 - [ ] https://jobs.lever.co/provectus/893fc898-fb7e-4ba8-b95a-641b1aa10224 | Provectus | Senior Forward Deployed AI Architect (GenAI, AWS)
+- [ ] https://apply.workable.com/revstar/j/335E61A36B | RevStar | Solutions Architect AWS AI/ML Data & Cloud Modernization
