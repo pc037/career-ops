@@ -1146,3 +1146,14 @@
 - [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/6185008004 | Sourcegraph | ML & Agentic Systems Engineer
 - [ ] https://jobs.lever.co/provectus/893fc898-fb7e-4ba8-b95a-641b1aa10224 | Provectus | Senior Forward Deployed AI Architect (GenAI, AWS)
 - [ ] https://apply.workable.com/revstar/j/335E61A36B | RevStar | Solutions Architect AWS AI/ML Data & Cloud Modernization
+- [ ] https://job-boards.greenhouse.io/conga/jobs/5182954007 | Conga | Senior Software Engineer, AI Platform
+- [ ] https://job-boards.greenhouse.io/encora10/jobs/5183285007 | Encora | Senior Python + GenAI Engineer
+- [ ] https://job-boards.greenhouse.io/intellishoredk/jobs/7972232003 | Intellishore | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4569678005 | Scale AI | Staff Software Engineer, Enterprise GenAI
+- [ ] https://job-boards.greenhouse.io/thenewyorktimes/jobs/4696589005 | New York Times | Senior Engineer, Developer Platforms and GenAI
+- [ ] https://jobs.lever.co/toptal/0bdbb273-e00d-4361-ab8b-a05134d8cb3a | Toptal | Senior Product Manager, AI
+- [ ] https://apply.workable.com/isupport-worldwide/j/F674DF0546/ | iSupport Worldwide | AI Solutions Architect
+- [ ] https://apply.workable.com/nacrecapital/j/BF041B39B4 | Nacre Capital | Senior AI Engineer, Agents
+- [ ] https://www.workatastartup.com/jobs/105581 | Truss | Forward-Deployed AI Engineer
+- [ ] https://www.workatastartup.com/jobs/100964 | Mercura | Senior AI/LLM Engineer
+- [ ] https://www.workatastartup.com/jobs/90298 | Pasito | AI/ML Engineer
