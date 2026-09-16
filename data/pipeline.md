@@ -1157,3 +1157,13 @@
 - [ ] https://www.workatastartup.com/jobs/105581 | Truss | Forward-Deployed AI Engineer
 - [ ] https://www.workatastartup.com/jobs/100964 | Mercura | Senior AI/LLM Engineer
 - [ ] https://www.workatastartup.com/jobs/90298 | Pasito | AI/ML Engineer
+- [ ] https://jobs.ashbyhq.com/cuesta-partners/cc157ec6-3d85-49e1-8807-8429abcde9cd | Cuesta Partners | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8100087 | Customer.io | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/storyblocks/jobs/8191737 | Storyblocks | Senior Product Manager, AI Products
+- [ ] https://job-boards.greenhouse.io/evocs-latam/jobs/4388547009 | Evolution Cloud Services | Solution Architect
+- [ ] https://job-boards.greenhouse.io/bpd/jobs/5386839008 | BPD | AI Engineer
+- [ ] https://jobs.lever.co/grailbio/666f1bb9-96a2-4d79-b4a3-9090ca201b34 | GRAIL | Forward Deployed Engineer - AI
+- [ ] https://jobs.lever.co/jobgether/2bb366d4-5511-4061-b9ba-76beead2f2b6 | Jobgether | Sr. AI Engineer (Generative AI & Pharmacovigilance)
+- [ ] https://jobs.lever.co/jobgether/5892275e-941a-497c-b8c4-55d34367ea68 | Jobgether | Senior AI Engineer (GenAI, Azure, Python)
+- [ ] https://jobs.lever.co/jobgether/6efeb75c-33b7-4b60-bb30-ee61948986a1 | Jobgether | Lead AI/ML Engineer
+- [ ] https://jobs.lever.co/jobgether/10933f05-c85b-477e-b4e6-d42b85601a1c | Jobgether | Principal AI Engineer (Aerospace & Defense)
