@@ -1167,3 +1167,22 @@
 - [ ] https://jobs.lever.co/jobgether/5892275e-941a-497c-b8c4-55d34367ea68 | Jobgether | Senior AI Engineer (GenAI, Azure, Python)
 - [ ] https://jobs.lever.co/jobgether/6efeb75c-33b7-4b60-bb30-ee61948986a1 | Jobgether | Lead AI/ML Engineer
 - [ ] https://jobs.lever.co/jobgether/10933f05-c85b-477e-b4e6-d42b85601a1c | Jobgether | Principal AI Engineer (Aerospace & Defense)
+- [ ] https://job-boards.greenhouse.io/iterativehealth/jobs/4689741006 | Iterative Health | Forward Deployed Product Manager – AI
+- [ ] https://job-boards.greenhouse.io/valtech/jobs/4906383101 | Valtech | Forward Deployed Product Manager
+- [ ] https://jobs.ashbyhq.com/Neuromorphic-Labs/78dd02e0-c0bf-4c4a-8d48-f5bab85c290c | Neuromorphic Labs | Founding Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/negotiate-ai/1269c100-f064-47cd-a551-8c9ec740b528 | Aron | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/openai/533c0fc9-b773-476d-9f96-a0528efbab0e/application | OpenAI | Forward Deployed Software Engineer - NYC
+- [ ] https://jobs.ashbyhq.com/rubie/8f270341-7053-4144-8c93-6c47602cf8b9 | Rubie | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/clarityinnovates/jobs/5057981007 | Clarity Innovations | AI Engineer, Senior Architect
+- [ ] https://job-boards.greenhouse.io/diligentcorporation/jobs/5813326004 | Diligent | AI Solution Architect
+- [ ] https://job-boards.greenhouse.io/endeavourinspiredinfrastructure/jobs/4238984009 | Endeavour | Systems & AI Cloud Architect
+- [ ] https://jobs.ashbyhq.com/clera/c6e53d3d-ce22-4ae4-ae1c-05b748405fce | Clera | Senior ML/AI Engineer
+- [ ] https://jobs.ashbyhq.com/lemlist/74dca8bf-6de1-4bb9-863b-46fd6b8d82ae | lemlist | Senior Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/mercura/90bb4d91-9311-4d6c-a30b-a2d6dc783a13/application | Mercura | (Senior) AI/LLM Engineer
+- [ ] https://jobs.ashbyhq.com/reactivemarkets/0154beea-fb04-4e09-81b3-897981f92f52 | Reactive Markets | AI & Data Engineer
+- [ ] https://jobs.ashbyhq.com/trm-labs/66f5c31f-6c3f-42b4-b02e-4a1e183254cd | TRM Labs | Senior or Staff ML Systems Engineer LLMs
+- [ ] https://job-boards.greenhouse.io/connectwise/jobs/4617515005 | ConnectWise | Senior Automation/AI Engineer
+- [ ] https://job-boards.greenhouse.io/ujet/jobs/4677625005 | UJET | Senior AI Software Engineer
+- [ ] https://jobs.ashbyhq.com/higgsfieldai/300fa007-df6a-48cf-b776-9e1f1de1e5c5 | Higgsfield AI | Product Manager
+- [ ] https://jobs.ashbyhq.com/junior/d4a14f28-a392-4dd2-9486-6f598f384fc0 | Junior AI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/neuralconcept/ca7f0a23-fd98-480c-9403-6d645eb916af | Neural Concept | Product Manager
