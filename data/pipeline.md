@@ -1186,3 +1186,6 @@
 - [ ] https://jobs.ashbyhq.com/higgsfieldai/300fa007-df6a-48cf-b776-9e1f1de1e5c5 | Higgsfield AI | Product Manager
 - [ ] https://jobs.ashbyhq.com/junior/d4a14f28-a392-4dd2-9486-6f598f384fc0 | Junior AI | Senior Product Manager
 - [ ] https://jobs.ashbyhq.com/neuralconcept/ca7f0a23-fd98-480c-9403-6d645eb916af | Neural Concept | Product Manager
+- [ ] https://jobs.ashbyhq.com/sela/b3d9af42-b884-495e-9e58-6bf8ea59830b | Sela AI | Product Manager
+- [ ] https://job-boards.greenhouse.io/torq/jobs/5916773004 | Torq | Solutions Architect - United States
+- [ ] https://apply.workable.com/humanintelligence/j/1C7D5152E5 | Human Intelligence | Technical Project Manager (Business Analysis & AI Delivery)
