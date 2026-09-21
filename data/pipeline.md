@@ -1189,3 +1189,40 @@
 - [ ] https://jobs.ashbyhq.com/sela/b3d9af42-b884-495e-9e58-6bf8ea59830b | Sela AI | Product Manager
 - [ ] https://job-boards.greenhouse.io/torq/jobs/5916773004 | Torq | Solutions Architect - United States
 - [ ] https://apply.workable.com/humanintelligence/j/1C7D5152E5 | Human Intelligence | Technical Project Manager (Business Analysis & AI Delivery)
+- [ ] https://jobs.ashbyhq.com/retell-ai/ce993d9b-5635-43ba-aef1-d9dfa2025ca2 | Retell AI | Senior Product Manager
+- [ ] https://jobs.ashbyhq.com/tremendous/5f077153-5512-4390-a6b9-b9857e63ee49 | Tremendous | Senior Product Manager - AI Enablement
+- [ ] https://jobs.ashbyhq.com/delinea/b565f518-fcd8-4742-9712-07ad2f118e08 | Delinea | Senior Product Manager - AI
+- [ ] https://jobs.ashbyhq.com/harmonic-security-inc/87fb4ade-26b7-4550-b331-9789df39d9b3 | Harmonic Security | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/space44/2c97ec85-aac5-4829-ade7-a0e908a09a37 | SPACE44 | AI Solutions Architect
+- [ ] https://jobs.ashbyhq.com/primeintellect/d523340c-9914-4b86-828a-147c9ada94d3 | Prime Intellect | Solutions Architect - AI Infrastructure
+- [ ] https://jobs.ashbyhq.com/anomalo/a8ee748c-f579-4b83-8ecf-f02446d11288 | Anomalo | Data Solutions Architect
+- [ ] https://jobs.ashbyhq.com/andromeda/a365f059-8753-4d1c-ae48-2a2570a41e28 | Andromeda Cluster | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/camunda/30094c52-f327-40e7-83a2-ae6a142a4278 | Camunda | Senior GTM Systems AI and Automation Engineer
+- [ ] https://jobs.ashbyhq.com/openrouter/407f71b5-4b1f-4666-91bd-394f3c26f19d | OpenRouter | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/camunda/42b8007d-8299-4793-9581-2b3868ba0754 | Camunda | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.ashbyhq.com/DehazeLabs/ea694dfe-53fa-4083-839e-950d6992c88b | DehazeLabs | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/hatch/ed801333-2dc9-4bba-9bff-0ec38a2b05b1 | Hatch | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/AHL-SaafAI/cf683b2f-f1db-4ca0-9bac-57eb64827c0a | AHL - Saaf AI | Forward-Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/doppel/bae7bcc9-afff-4f50-91e4-2c8d3580cd23 | Doppel | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/surge-ai/fbb9a489-aa75-4c24-b8fd-dbaf3a17930f | Surge AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/lumaai/6133d955-1d26-4f3a-abf8-f9383ccbe19a | Luma AI | Forward Deployed Engineer - EU
+- [ ] https://jobs.ashbyhq.com/vytalize%20health/6ecd6562-db2f-470b-b836-b69a4f6a30b2 | Vytalize Health | AI Engineer
+- [ ] https://jobs.ashbyhq.com/level-ai/5a2bb8d8-85d2-4c21-8586-982e55b59895 | Level AI | Senior Backend Engineer - AI Agents
+- [ ] https://jobs.ashbyhq.com/apas/9fd6b53e-b4b6-411e-ad59-aac671afe578 | APAS.AI | Agentic AI Engineer
+- [ ] https://jobs.ashbyhq.com/livekit/1757f49e-7e19-4c45-85f7-e4637dff66fb | LiveKit | Software Engineer, Agents
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/8100087 | Customer.io | Senior Product Manager
+- [ ] https://job-boards.greenhouse.io/storyblocks/jobs/8191737 | Storyblocks | Senior Product Manager, AI Products
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8084298 | Talkdesk | Forward Deployed AI Product Manager, HLS
+- [ ] https://job-boards.greenhouse.io/telnyx54/jobs/7638348003 | Telnyx | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5277521008 | Robots and Pencils | Solutions Architect - AI
+- [ ] https://job-boards.greenhouse.io/greenlightconsulting/jobs/5302157008 | Greenlight Consulting | Forward Deployed Engineer (AI Practice)
+- [ ] https://job-boards.greenhouse.io/redapt/jobs/5396488008 | Redapt | Forward Deployed Engineer, Agentic AI
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5373987008 | Honeycomb.io | Senior Software Engineer II - Agentic Intelligence
+- [ ] https://job-boards.greenhouse.io/air/jobs/4397696009 | Air | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/rackner/jobs/4717776005 | Rackner | AI/ML Engineer - Generative AI Mission Systems
+- [ ] https://job-boards.greenhouse.io/machinifyinc/jobs/4146862009 | Machinify | AI Engineer - Agentic Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 | Anthropic | Staff Software Engineer, GTM AI Engineering
+- [ ] https://jobs.lever.co/grailbio/666f1bb9-96a2-4d79-b4a3-9090ca201b34 | GRAIL | Forward Deployed Engineer - AI
+- [ ] https://jobs.lever.co/jobgether/538ae93e-7330-4a36-b9d9-07476bf27ccf | Jobgether | Forward Deployed Engineer (Remote)
+- [ ] https://jobs.lever.co/thinkahead/cb488cff-1a44-4946-8850-2b1abdf8047e | AHEAD | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/e5d84214-64d6-4f16-ae49-b62131dd1799 | Jobgether | Forward Deployed Engineer
