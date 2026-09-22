@@ -1226,3 +1226,15 @@
 - [ ] https://jobs.lever.co/jobgether/538ae93e-7330-4a36-b9d9-07476bf27ccf | Jobgether | Forward Deployed Engineer (Remote)
 - [ ] https://jobs.lever.co/thinkahead/cb488cff-1a44-4946-8850-2b1abdf8047e | AHEAD | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/jobgether/e5d84214-64d6-4f16-ae49-b62131dd1799 | Jobgether | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/babylist/jobs/5988511004 | Babylist | Staff Product Manager (AI Builder)
+- [ ] https://job-boards.greenhouse.io/answerrocket/jobs/5250794008 | AnswerRocket | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/predictiveindex/jobs/8599575002 | The Predictive Index | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/upwork/jobs/7800298003 | Upwork | Principal Technical Product Manager - AI Frontiers
+- [ ] https://jobs.lever.co/weekdayworks/aebfba0e-69ab-410c-85b8-0804e003a196 | Weekday | Senior Technical Lead - Agentic AI / Generative AI
+- [ ] https://jobs.lever.co/actian/baf6157a-184c-4aca-a228-44728995aedf | Actian | AI Enablement Lead
+- [ ] https://job-boards.greenhouse.io/archer56/jobs/7583336003 | Archer | Generative AI Engineer
+- [ ] https://job-boards.greenhouse.io/testlio/jobs/6628557 | Testlio | Sr Gen AI Engineer
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5527047004 | Turing | Staff Gen AI Engineer
+- [ ] https://job-boards.greenhouse.io/xometry/jobs/4871650007 | Xometry | Staff ML Engineer - Generative AI
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7788213003 | DoiT | Senior Cloud Architect, Delivery (GenAI)
+- [ ] https://job-boards.greenhouse.io/nttdatausa/jobs/8435423002 | NTT DATA | AI Specialist / GenAI Architect
