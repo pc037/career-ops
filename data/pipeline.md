@@ -1238,3 +1238,13 @@
 - [ ] https://job-boards.greenhouse.io/xometry/jobs/4871650007 | Xometry | Staff ML Engineer - Generative AI
 - [ ] https://job-boards.greenhouse.io/doitintl/jobs/7788213003 | DoiT | Senior Cloud Architect, Delivery (GenAI)
 - [ ] https://job-boards.greenhouse.io/nttdatausa/jobs/8435423002 | NTT DATA | AI Specialist / GenAI Architect
+- [ ] https://jobs.ashbyhq.com/cylake-inc/4a64ef33-28a3-460c-82e5-e113d9d9de18 | Cylake, Inc | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/openrouter/7d366fe6-d7e6-4bbf-8ac8-7a5fb49de5b3 | OpenRouter | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5373859008 | Robots and Pencils | Staff Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/mactores/07c51b46-27fc-4400-a5ac-69bb0d335ce0 | Mactores | Generative AI Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4710292006 | Accenture Federal Services | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/openai/eacbd123-83fb-42c6-a5d5-e914b8e135b8 | OpenAI | Applied AI Engineer, Startups
+- [ ] https://jobs.ashbyhq.com/paraform/ed192d51-74e9-4712-89a6-4503967c4184 | Paraform | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/taktile/11d61fee-388b-453a-a98e-e8aa75d8d214 | Taktile | Sr. Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/bare/b3afe3c2-f50f-40de-aca0-7c4c7878fce5 | bareinsights | ML/AI Engineer, Applied AI
+- [ ] https://jobs.ashbyhq.com/the-global-talent-co/e740e5bd-9b06-48de-8593-2bd43c5e2387 | The Global Talent Co. | AI Engineer
