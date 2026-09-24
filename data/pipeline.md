@@ -1248,3 +1248,10 @@
 - [ ] https://jobs.ashbyhq.com/taktile/11d61fee-388b-453a-a98e-e8aa75d8d214 | Taktile | Sr. Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/bare/b3afe3c2-f50f-40de-aca0-7c4c7878fce5 | bareinsights | ML/AI Engineer, Applied AI
 - [ ] https://jobs.ashbyhq.com/the-global-talent-co/e740e5bd-9b06-48de-8593-2bd43c5e2387 | The Global Talent Co. | AI Engineer
+- [ ] https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720 | Baseten | Forward Deployed Engineer (Training)
+- [ ] https://apply.workable.com/performyard/j/CE05AFB1F6/ | PerformYard | Product Manager
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8013249 | DoorDash | Software Engineer, ML Infrastructure - Generative AI
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5831080004 | Snorkel AI | Staff Applied AI Engineer - Pre-Sales
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7809724003 | DoiT | Senior Cloud Architect, Delivery (GenAI)
+- [ ] https://jobs.lever.co/jobgether/dc71c601-c335-4955-a03d-7f9c61e27846 | Jobgether | Senior Forward Deployed Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/tremendous/9be1cf09-1eb7-4aa7-8bc4-4848cc124fb8 | Tremendous | Senior Product Manager - Special Projects
