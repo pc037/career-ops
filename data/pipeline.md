@@ -1255,3 +1255,6 @@
 - [ ] https://job-boards.greenhouse.io/doitintl/jobs/7809724003 | DoiT | Senior Cloud Architect, Delivery (GenAI)
 - [ ] https://jobs.lever.co/jobgether/dc71c601-c335-4955-a03d-7f9c61e27846 | Jobgether | Senior Forward Deployed Engineer (Remote)
 - [ ] https://jobs.ashbyhq.com/tremendous/9be1cf09-1eb7-4aa7-8bc4-4848cc124fb8 | Tremendous | Senior Product Manager - Special Projects
+- [ ] https://jobs.ashbyhq.com/monaco/3e2ab0e7-db5f-4fa0-b467-a4fd0e0be508 | Monaco | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/829studios/a4f08b43-d3ef-429a-b155-3c37681efd3b | 829 Studios | AI Innovation Engineer
+- [ ] https://apply.workable.com/reworkssolutions/j/E0E0D69E7E | ReWorks Solutions | Senior Full Stack AI Developer
