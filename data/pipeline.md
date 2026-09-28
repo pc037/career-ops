@@ -1258,3 +1258,8 @@
 - [ ] https://jobs.ashbyhq.com/monaco/3e2ab0e7-db5f-4fa0-b467-a4fd0e0be508 | Monaco | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/829studios/a4f08b43-d3ef-429a-b155-3c37681efd3b | 829 Studios | AI Innovation Engineer
 - [ ] https://apply.workable.com/reworkssolutions/j/E0E0D69E7E | ReWorks Solutions | Senior Full Stack AI Developer
+
+- [ ] https://jobs.ashbyhq.com/The%20Zebra/9c7001c6-1831-40ae-8dff-5a8238f7635b | The Zebra | Senior Product Manager: Applied AI
+- [ ] https://jobs.ashbyhq.com/buildout/1050ea40-2553-4519-b06a-67d66f01050e | Buildout | Senior Product Manager, AI
+- [ ] https://jobs.ashbyhq.com/fragmentai/bfd5a899-80a7-48a5-9719-555f7d8422e4 | Fragment | Founding Solutions Architect
+- [ ] https://jobs.ashbyhq.com/forgd-ai/87814487-e6a5-4e15-b6fa-b8490e80cd55 | forgd | Applied AI Architect (UK)
