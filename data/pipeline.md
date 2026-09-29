@@ -1263,6 +1263,7 @@
 - [ ] https://jobs.ashbyhq.com/buildout/1050ea40-2553-4519-b06a-67d66f01050e | Buildout | Senior Product Manager, AI
 - [ ] https://jobs.ashbyhq.com/fragmentai/bfd5a899-80a7-48a5-9719-555f7d8422e4 | Fragment | Founding Solutions Architect
 - [ ] https://jobs.ashbyhq.com/forgd-ai/87814487-e6a5-4e15-b6fa-b8490e80cd55 | forgd | Applied AI Architect (UK)
+
 - [ ] https://jobs.lever.co/jobgether/09a0fd1e-0cc8-4669-a99f-554aa0af77dc | Jobgether | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/jobgether/5393ff96-53df-4c8b-92eb-41fbc63c2eb5 | Jobgether | AI Forward Deployed Engineer, EMEA
 - [ ] https://jobs.lever.co/jobgether/b3b30099-26cf-4b9e-a00d-761b8d10c0bc | Jobgether | AI Forward Deployed Engineer, EMEA
