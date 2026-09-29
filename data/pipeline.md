@@ -1248,3 +1248,32 @@
 - [ ] https://jobs.ashbyhq.com/taktile/11d61fee-388b-453a-a98e-e8aa75d8d214 | Taktile | Sr. Applied AI Engineer
 - [ ] https://jobs.ashbyhq.com/bare/b3afe3c2-f50f-40de-aca0-7c4c7878fce5 | bareinsights | ML/AI Engineer, Applied AI
 - [ ] https://jobs.ashbyhq.com/the-global-talent-co/e740e5bd-9b06-48de-8593-2bd43c5e2387 | The Global Talent Co. | AI Engineer
+- [ ] https://jobs.ashbyhq.com/baseten/11ab2593-6648-4943-ab4a-284fe7e89720 | Baseten | Forward Deployed Engineer (Training)
+- [ ] https://apply.workable.com/performyard/j/CE05AFB1F6/ | PerformYard | Product Manager
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8013249 | DoorDash | Software Engineer, ML Infrastructure - Generative AI
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5831080004 | Snorkel AI | Staff Applied AI Engineer - Pre-Sales
+- [ ] https://job-boards.greenhouse.io/doitintl/jobs/7809724003 | DoiT | Senior Cloud Architect, Delivery (GenAI)
+- [ ] https://jobs.lever.co/jobgether/dc71c601-c335-4955-a03d-7f9c61e27846 | Jobgether | Senior Forward Deployed Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/tremendous/9be1cf09-1eb7-4aa7-8bc4-4848cc124fb8 | Tremendous | Senior Product Manager - Special Projects
+- [ ] https://jobs.ashbyhq.com/monaco/3e2ab0e7-db5f-4fa0-b467-a4fd0e0be508 | Monaco | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/829studios/a4f08b43-d3ef-429a-b155-3c37681efd3b | 829 Studios | AI Innovation Engineer
+- [ ] https://apply.workable.com/reworkssolutions/j/E0E0D69E7E | ReWorks Solutions | Senior Full Stack AI Developer
+
+- [ ] https://jobs.ashbyhq.com/The%20Zebra/9c7001c6-1831-40ae-8dff-5a8238f7635b | The Zebra | Senior Product Manager: Applied AI
+- [ ] https://jobs.ashbyhq.com/buildout/1050ea40-2553-4519-b06a-67d66f01050e | Buildout | Senior Product Manager, AI
+- [ ] https://jobs.ashbyhq.com/fragmentai/bfd5a899-80a7-48a5-9719-555f7d8422e4 | Fragment | Founding Solutions Architect
+- [ ] https://jobs.ashbyhq.com/forgd-ai/87814487-e6a5-4e15-b6fa-b8490e80cd55 | forgd | Applied AI Architect (UK)
+- [ ] https://jobs.lever.co/jobgether/09a0fd1e-0cc8-4669-a99f-554aa0af77dc | Jobgether | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/5393ff96-53df-4c8b-92eb-41fbc63c2eb5 | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/jobgether/b3b30099-26cf-4b9e-a00d-761b8d10c0bc | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/jobgether/bc37ebef-e62b-4432-8a1b-e1d862f156f5 | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/provectus/6d0a3e52-ac9a-4d5d-a886-5831639fc764 | Provectus | Solutions Architect (GenAI, Python/Data, AWS)
+- [ ] https://jobs.lever.co/provectus/cd168e4b-04a0-4be6-ba2e-80df4bcee772 | Provectus | Solutions Architect (AI, Python/Data)
+- [ ] https://jobs.lever.co/provectus/38b6ca40-09b9-4c16-879e-67b92154d26c | Provectus | Solutions Architect (GenAI, Python/Data, AWS)
+- [ ] https://jobs.lever.co/jobgether/c990e3f3-435e-4a14-832c-a79ff3cfd606 | Jobgether | AI/ML Specialist Solutions Architect
+- [ ] https://jobs.lever.co/jobgether/3a89071d-6fdc-4483-af12-80eeb23cb6bb | Jobgether | AI/ML Specialist Solutions Architect
+- [ ] https://jobs.lever.co/jobgether/a7fcb2fc-dab1-4fdc-930d-27195e71f253 | Jobgether | AI/ML Specialist Solutions Architect
+- [ ] https://jobs.lever.co/jobgether/603060ab-df48-4dee-9cc4-07e930dd5fae | Jobgether | AI/ML Specialist Solutions Architect
+- [ ] https://jobs.lever.co/jobgether/f75cd273-b49f-4945-a4ec-b6dcc0246463 | Jobgether | AI/ML Specialist Solutions Architect
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/5563837004 | 66degrees | Solution Architect, AI/ML
+- [ ] https://job-boards.greenhouse.io/trumid/jobs/6297161003 | Trumid | Generative AI Specialist (Applied AI/LLMs)
