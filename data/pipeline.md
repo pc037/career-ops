@@ -1278,3 +1278,28 @@
 - [ ] https://jobs.lever.co/jobgether/f75cd273-b49f-4945-a4ec-b6dcc0246463 | Jobgether | AI/ML Specialist Solutions Architect
 - [ ] https://job-boards.greenhouse.io/66degrees/jobs/5563837004 | 66degrees | Solution Architect, AI/ML
 - [ ] https://job-boards.greenhouse.io/trumid/jobs/6297161003 | Trumid | Generative AI Specialist (Applied AI/LLMs)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4475616008 | Cresta | Forward Deployed Engineer AI Agent
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4256311008 | Cresta | Forward Deployed Engineer AI Agent
+- [ ] https://job-boards.greenhouse.io/relyance/jobs/5819515004 | Relyance AI | Forward Deployed Engineer West
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4646466008 | Cresta | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/lumos/jobs/6676923003 | Lumos | AI Platform Engineer
+- [ ] https://job-boards.greenhouse.io/sciencelogic/jobs/6807020 | ScienceLogic | AI Product Manager
+- [ ] https://job-boards.greenhouse.io/relyance/jobs/5782630004 | Relyance AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5609732004 | Turing | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4632922005 | AssemblyAI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4714838005 | AssemblyAI | Customer Engineer Voice AI
+- [ ] https://job-boards.greenhouse.io/smartlyio/jobs/5656411004 | Smartly | Senior Product Manager AI Platform
+- [ ] https://job-boards.greenhouse.io/sixthstreet/jobs/7349132003 | Sixth Street | Senior Product Manager Generative AI Solutions
+- [ ] https://job-boards.greenhouse.io/amdaris/jobs/4706786101 | Amdaris | AI Transformation Consultant
+- [ ] https://boards.greenhouse.io/pulley/jobs/4474358008 | Pulley | Principal Product Manager AI
+- [ ] https://boards.greenhouse.io/federato/jobs/4572387008 | Federato | Principal Product Manager AI Platform
+- [ ] https://boards.greenhouse.io/federato/jobs/4550608008 | Federato | Principal Product Manager AI Products
+- [ ] https://boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer Agents
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployed Engineer SF
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4678620101 | Speechmatics | Forward Deployed Engineer Cambridge
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4563096101 | PolyAI | Forward Deployed AI Engineer NYC
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4664711101 | PolyAI | Senior Forward Deployed AI Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4563061101 | PolyAI | Forward Deployed AI Engineer UK
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4674583101 | PolyAI | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/AIFund/c5de2fed-fbe4-4ff2-97dc-3c4d79f471cc | AI Fund | Forward Deployed Engineer
