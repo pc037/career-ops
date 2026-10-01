@@ -1303,3 +1303,11 @@
 - [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4563061101 | PolyAI | Forward Deployed AI Engineer UK
 - [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4674583101 | PolyAI | Forward Deployed AI Engineer
 - [ ] https://jobs.lever.co/AIFund/c5de2fed-fbe4-4ff2-97dc-3c4d79f471cc | AI Fund | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4110659009 | CodeRoad | AI Engineer
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4061774008 | Cresta | ML Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/remotepeople/jobs/4721961101 | Remote People | Senior AI Engineer (Remote Europe)
+- [ ] https://job-boards.greenhouse.io/lumos/jobs/7547966003 | Lumos | AI Agent Engineer
+- [ ] https://job-boards.greenhouse.io/lumos/jobs/6084056003 | Lumos | AI Engineer
+- [ ] https://jobs.lever.co/jobgether/6a35d203-77dc-43e9-9c2a-8d31caf53b7a | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/jobgether/c0b55d54-8dce-4bd4-b091-003a60c6a12c | Jobgether | Agentic AI Architect
+- [ ] https://jobs.lever.co/resilientco/62feca6a-8049-453d-b796-5ffbfbe8cccc | ResilientCo | Agentic AI Engineer
