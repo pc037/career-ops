@@ -1323,3 +1323,36 @@
 - [ ] https://job-boards.eu.greenhouse.io/roboyo/jobs/4815427101 | Roboyo | AI Automation Engineer
 - [ ] https://job-boards.eu.greenhouse.io/roboyo/jobs/4637460101 | Roboyo | Automation Architect
 - [ ] https://job-boards.eu.greenhouse.io/amdaris/jobs/4706786101 | Amdaris | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/youcom/jobs/4803891008 | You.com | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/5563837004 | 66degrees | Solution Architect, AI/ML
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4946442007 | Together AI | Solutions Architect (London)
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5821840004 | DevRev | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/labelbox/jobs/4640927007 | Labelbox | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5609732004 | Turing | Staff Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/4659903007 | Prophecy | AI/ML Agentic-Workflows Engineer
+- [ ] https://job-boards.greenhouse.io/youcom/jobs/4823134008 | You.com | AI Engineer
+- [ ] https://job-boards.greenhouse.io/censys/jobs/7956760002 | Censys | Senior Software Engineer, AI/LLM
+- [ ] https://job-boards.greenhouse.io/lumos/jobs/6676923003 | Lumos | AI Agent Engineer
+- [ ] https://job-boards.greenhouse.io/abodo/jobs/7705155 | Abodo | Product Manager, Agentic AI
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8014748002 | SmartAsset | Associate Product Manager, Generative AI
+- [ ] https://job-boards.greenhouse.io/upwork/jobs/6685218003 | Upwork | Sr. Product Manager - AI & Agentic Solutions
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808590004 | Vercel | Product Manager, Agent Platform
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4568067005 | Scale AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/simpplr/jobs/5619767004 | Simpplr | AI Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5806328004 | Grafana Labs | Staff GTM Engineer (AI & Automation)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5689218004 | Grafana Labs | Staff AI Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5689219004 | Grafana Labs | Staff AI Engineer (Canada)
+- [ ] https://jobs.lever.co/jobgether/09a0fd1e-0cc8-4669-a99f-554aa0af77dc | Jobgether | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/9512e428-c7b4-4505-a2b8-873a8e187c74 | Jobgether | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/1738cfff-71d7-4b42-8c2d-dcd088dfd070 | Jobgether | Forward Deployed Engineer (AI Capability Center)
+- [ ] https://jobs.lever.co/jobgether/5393ff96-53df-4c8b-92eb-41fbc63c2eb5 | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/jobgether/b3b30099-26cf-4b9e-a00d-761b8d10c0bc | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/jobgether/bc37ebef-e62b-4432-8a1b-e1d862f156f5 | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/jobgether/6a35d203-77dc-43e9-9c2a-8d31caf53b7a | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/SymmetrySystems/253539a8-5a68-45f8-b3f6-d3beb7adbe46 | Symmetry Systems | Staff Forward Deployed Engineer (L6)
+- [ ] https://jobs.lever.co/provectus/cd168e4b-04a0-4be6-ba2e-80df4bcee772 | Provectus | Solutions Architect (AI, Python/Data)
+- [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer (London)
+- [ ] https://jobs.lever.co/mistral/97096378-2802-482c-ac47-445ad9c78d2b | Mistral AI | Applied AI, Forward Deployed ML Engineer - Palo Alto/NYC
+- [ ] https://jobs.lever.co/mistral/ceb43b59-b44b-4f39-9ff3-d533e5d77935 | Mistral AI | Senior/Staff Applied AI Engineer, Fullstack
+- [ ] https://jobs.lever.co/grailbio/666f1bb9-96a2-4d79-b4a3-9090ca201b34 | Grail Bio | Forward Deployed Engineer (AI)
+- [ ] https://jobs.lever.co/AIFund/c5de2fed-fbe4-4ff2-97dc-3c4d79f471cc | AI Fund | Forward Deployed Engineer
