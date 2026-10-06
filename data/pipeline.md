@@ -1356,3 +1356,20 @@
 - [ ] https://jobs.lever.co/mistral/ceb43b59-b44b-4f39-9ff3-d533e5d77935 | Mistral AI | Senior/Staff Applied AI Engineer, Fullstack
 - [ ] https://jobs.lever.co/grailbio/666f1bb9-96a2-4d79-b4a3-9090ca201b34 | Grail Bio | Forward Deployed Engineer (AI)
 - [ ] https://jobs.lever.co/AIFund/c5de2fed-fbe4-4ff2-97dc-3c4d79f471cc | AI Fund | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Promise/a66cd82a-b724-4cc1-ae30-f9071cb50552 | Promise | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Cape/8ea483bd-4753-45e3-933f-075412844a02 | Cape | Forward Deployed Engineer, Federal
+- [ ] https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India)
+- [ ] https://jobs.ashbyhq.com/generalrobotics/42ae26cc-4e6e-4c33-be7e-8ade29690ac6 | General Robotics | Forward Deployed Engineer (Robotics)
+- [ ] https://jobs.ashbyhq.com/normalcomputing/a1829ea4-36fc-42a9-af1d-5382f121ccf7 | Normal Computing | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/cinder/05fd8361-9af3-4732-94a7-4ad8dc14573d | Cinder | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/assetwatch/jobs/4662993005 | AssetWatch | Sr. Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390754008 | Anthropic | Applied AI Engineer, Enterprise (France)
+- [ ] https://job-boards.greenhouse.io/gradial/jobs/4338065009 | Gradial | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/supermetricsoy/jobs/4961496101 | Supermetrics | Agentic AI Engineer
+- [ ] https://job-boards.greenhouse.io/toggleai/jobs/5018731007 | Reflexivity | Machine Learning and AI Engineer
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8659469002 | Komodo Health | Senior Forward Deployed Engineer, AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985566008 | Anthropic | Head of Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5134372008 | Robots and Pencils | Solutions Architect - AI
+- [ ] https://jobs.lever.co/provectus/e8ec6bcc-1884-4d81-967e-e118c67d4245 | Provectus | Senior Forward Deployed AI Engineer / Solutions Architect
+- [ ] https://jobs.lever.co/nitra/62f40513-b601-4c49-9909-8fb75ac9dfb2 | Nitra | Forward Deployed Engineer, AI Solutions
