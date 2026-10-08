@@ -1259,6 +1259,8 @@
 - [ ] https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798 | Palantir | Forward Deployed AI Engineer (London)
 - [ ] https://jobs.lever.co/mistral/97096378-2802-482c-ac47-445ad9c78d2b | Mistral AI | Applied AI, Forward Deployed ML Engineer - Palo Alto/NYC
 - [ ] https://jobs.lever.co/mistral/ceb43b59-b44b-4f39-9ff3-d533e5d77935 | Mistral AI | Senior/Staff Applied AI Engineer, Fullstack
+- [ ] https://jobs.lever.co/grailbio/666f1bb9-96a2-4d79-b4a3-9090ca201b34 | Grail Bio | Forward Deployed Engineer (AI)
+- [ ] https://jobs.lever.co/AIFund/c5de2fed-fbe4-4ff2-97dc-3c4d79f471cc | AI Fund | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/Promise/a66cd82a-b724-4cc1-ae30-f9071cb50552 | Promise | Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/Cape/8ea483bd-4753-45e3-933f-075412844a02 | Cape | Forward Deployed Engineer, Federal
 - [ ] https://jobs.ashbyhq.com/cartesia/6d860f5a-b9d9-4df2-b5e5-b12ac80632a4 | Cartesia | Founding Forward Deployed Engineer (India)
@@ -1279,3 +1281,16 @@
 - [ ] https://job-boards.greenhouse.io/cresta/jobs/4063410008 | Cresta | Forward Deployed Engineer (AI Agent)
 - [ ] https://jobs.lever.co/cognite/b4987204-ff0e-435c-947a-236b304a06ad | Cognite | Product Manager – LLM & Generative AI
 - [ ] https://jobs.lever.co/jobgether/1c6a87ae-1549-49ba-b69e-bbbb95a30627 | Jobgether | Forward Deployed Engineer (Canada, remote)
+- [ ] https://jobs.ashbyhq.com/quadrivia/de5c384e-f49e-4710-bc60-f525cb46aa6f | Quadrivia | Agent Product Manager (Remote - US East Coast)
+- [ ] https://jobs.ashbyhq.com/checkly/8a10b860-5b29-414e-ac25-97a6a86b866f | Checkly | Product Manager (DevTools & AI Reliability, remote)
+- [ ] https://jobs.ashbyhq.com/freehand/1f616b29-e36f-45be-ab6b-bc7a25bc8b6d | Freehand | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/cohere/d1ab4fbd-3271-4057-8b20-dfaad4270fa8 | Cohere | Solutions Architect (Southern Europe)
+- [ ] https://jobs.ashbyhq.com/pylon-labs/d85e0773-3b3d-4d19-a45b-5d01a453179a | Pylon | Forward Deployed Architect
+- [ ] https://jobs.ashbyhq.com/notion/77861b77-9493-4869-bbaf-eaa11477a251 | Notion | Forward Deployed Architect
+- [ ] https://jobs.ashbyhq.com/tenex/5d23977b-66de-4ae1-9631-042a1b76465b | TENEX.AI | Forward Deployed Security Architect
+- [ ] https://jobs.ashbyhq.com/ema/aefe11bd-3e23-401b-a08b-b75729a3c3e4 | Ema | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/futureworks/b1377cae-68fc-4a3c-8878-bc6e08ca49d5 | Future Works | Solution Architect
+- [ ] https://jobs.ashbyhq.com/cohere/4f191f3a-d5fc-4e1b-9988-cdac68ce3134 | Cohere | Solutions Architect - DACH
+- [ ] https://jobs.ashbyhq.com/sequen-ai/cd7b81f3-9166-42e3-b3c6-9518677f3cb4 | Sequen AI | Staff MLOps Engineer
+- [ ] https://job-boards.greenhouse.io/mitratech/jobs/8038251 | Mitratech | Senior Software Engineer - AI/ML
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/7990328003 | Oddball | Applied AI/ML Engineer
