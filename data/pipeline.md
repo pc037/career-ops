@@ -1294,3 +1294,12 @@
 - [ ] https://jobs.ashbyhq.com/sequen-ai/cd7b81f3-9166-42e3-b3c6-9518677f3cb4 | Sequen AI | Staff MLOps Engineer
 - [ ] https://job-boards.greenhouse.io/mitratech/jobs/8038251 | Mitratech | Senior Software Engineer - AI/ML
 - [ ] https://job-boards.greenhouse.io/oddball/jobs/7990328003 | Oddball | Applied AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/tebra/jobs/4666555005 | Tebra | Staff Software Engineer, AI Engineering
+- [ ] https://jobs.ashbyhq.com/arcadeai/2bdc3f0b-b768-4444-be03-ac59e21a4fdc | Arcade | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/eliza/222d68fb-b331-4211-9bfa-7111ec8fb1b2 | Eliza | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/Transformworks/7bac1c65-fc60-4865-a928-ca85247fbeb1 | Transformworks | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/sandboxaq/b8dd7a95-c30d-4ed7-b26a-3229ae87b3d8 | SandboxAQ | Staff Forward Deployed Engineer, AI Sim
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694863005 | Scale AI | Senior Frontier Agents Engineer (Forward Deployed Engineering)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5423029008 | Anthropic | Forward Deployed Engineer (London)
+- [ ] https://job-boards.greenhouse.io/accordion/jobs/8103529 | Accordion | Senior Consultant CPM (Forward Deployed Engineer)
+- [ ] https://boards.greenhouse.io/cresta/jobs/4595480008 | Cresta | Forward Deployed Engineer (AI Agent)
