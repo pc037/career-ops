@@ -1312,3 +1312,4 @@
 - [ ] https://jobs.lever.co/jobgether/dd1c56f5-bb98-46fb-9fdd-60e083254f40 | Jobgether | Applied AI Engineer (LLMOps / AI Infrastructure)
 - [ ] https://jobs.lever.co/jobgether/5d623fd1-d1b8-4a48-8cf6-14cdc82f9bd3 | Jobgether | AI Engineer (LLM / RAG)
 - [ ] https://job-boards.greenhouse.io/nttdatausa/jobs/8435456002 | NTT Data | GenAI Engineer (LATAM Remote)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4601664008 | Cresta | Forward Deployed Engineer (AI Agent)
