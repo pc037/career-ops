@@ -1313,3 +1313,21 @@
 - [ ] https://jobs.lever.co/jobgether/5d623fd1-d1b8-4a48-8cf6-14cdc82f9bd3 | Jobgether | AI Engineer (LLM / RAG)
 - [ ] https://job-boards.greenhouse.io/nttdatausa/jobs/8435456002 | NTT Data | GenAI Engineer (LATAM Remote)
 - [ ] https://job-boards.greenhouse.io/cresta/jobs/4601664008 | Cresta | Forward Deployed Engineer (AI Agent)
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5399585004 | Turing | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/provectus/26ec1760-acb2-47a9-bb24-5f8eba7f7474 | Provectus | Senior ML Engineer (GenAI)
+- [ ] https://jobs.lever.co/jobgether/bde6f802-8638-4b9a-ac08-714d9ecd705e | Jobgether | Senior AI/ML Engineer
+- [ ] https://jobs.lever.co/weekdayworks/bb69c828-d736-42c2-8e5c-cb9e31b40a97 | Weekdayworks | Senior GenAI Engineer
+- [ ] https://jobs.lever.co/lingarogroup/b07b30e8-81f8-4e09-91cb-e59291ab33bb | Lingaro | AI DevOps Engineer
+- [ ] https://job-boards.greenhouse.io/cleartech/jobs/4008531009 | ClearTech | AI Full Stack Engineer & MLOps
+- [ ] https://jobs.ashbyhq.com/doss/fe97ce1b-5745-4b14-bf04-d3f7b309aaa7 | DOSS | Forward Deployed Product Manager (NYC)
+- [ ] https://jobs.ashbyhq.com/concoursetech/d26b9592-5fc0-4502-b3df-dd13ec14bffb | Concourse | Forward Deployed Product Manager
+- [ ] https://jobs.ashbyhq.com/euphoric/0606f354-4da2-46ee-9070-0419fb37877b | Euphoric Global | Forward-Deployed AI Product Manager
+- [ ] https://jobs.ashbyhq.com/aim4hire/8e955fa6-9164-483d-a190-33520c9b9250 | Aim4Hire | AI Engineer
+- [ ] https://jobs.ashbyhq.com/credo.ai/73f15a77-9b84-46de-bd9e-bf76f70b6d84 | Credo.AI | Senior AI Engineer (India)
+- [ ] https://jobs.ashbyhq.com/betterup/544ff316-842a-40a5-beb9-c0dc82e56270 | BetterUp | Senior AI Automation Engineer
+- [ ] https://jobs.ashbyhq.com/bjakcareer/bcc63639-6bc1-41b0-8006-eda204be76eb | Bjak | MLOps Engineer (Japan)
+- [ ] https://jobs.ashbyhq.com/updoc/93b67215-107a-437c-9df8-ea4462b44320 | UpDoc | Senior Software Engineer, AI
+- [ ] https://job-boards.greenhouse.io/natera/jobs/5987842004 | Natera | Senior Agentic Systems Engineer
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7266483 | Samsara | Senior Software Engineer - Safety - GenAI
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5436783008 | Robots and Pencils | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/5993920004 | Alpaca | Senior AI Platform Engineer
