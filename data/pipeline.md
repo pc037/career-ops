@@ -1331,3 +1331,13 @@
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/7266483 | Samsara | Senior Software Engineer - Safety - GenAI
 - [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/5436783008 | Robots and Pencils | Senior AI Engineer
 - [ ] https://job-boards.greenhouse.io/alpaca/jobs/5993920004 | Alpaca | Senior AI Platform Engineer
+- [ ] https://jobs.ashbyhq.com/hippocratic%20ai/873d8ad7-9f41-48af-82a9-93ea6ed9139d | Hippocratic AI | Forward Deployed Engineer (Mid/Senior) - Remote with Travel
+- [ ] https://jobs.lever.co/tryjeeves/528e983c-b485-4c7a-b576-cbafcf7e0b2a | Jeeves | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/metamorphic/0f979759-fca7-4605-b474-c26b5cc8e0d7 | Metamorphic | ML Research Engineer (Agentic Systems)
+- [ ] https://job-boards.greenhouse.io/apiphani/jobs/4893893007 | apiphani | Senior Software Engineer (AI / LLMs)
+- [ ] https://job-boards.greenhouse.io/lts/jobs/4340457009 | LTS | Agentic AI Security Engineer
+- [ ] https://job-boards.greenhouse.io/spotter/jobs/4597110005 | Spotter | Senior AI Engineer (Agentic Chat)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4103573008 | Cresta | Forward Deployed Engineer (AI Agent)
+- [ ] https://jobs.ashbyhq.com/triomics/1f3e01da-3f06-44db-b736-df3ce40aec86 | Triomics | MLOps & Data Engineer
+- [ ] https://job-boards.greenhouse.io/fal/jobs/4129387009 | fal | Staff Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/invisibletech/jobs/4708716101 | Invisible | Staff Software Engineer, Forward Deployed
