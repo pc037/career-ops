@@ -1341,3 +1341,19 @@
 - [ ] https://jobs.ashbyhq.com/triomics/1f3e01da-3f06-44db-b736-df3ce40aec86 | Triomics | MLOps & Data Engineer
 - [ ] https://job-boards.greenhouse.io/fal/jobs/4129387009 | fal | Staff Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/invisibletech/jobs/4708716101 | Invisible | Staff Software Engineer, Forward Deployed
+- [ ] https://job-boards.greenhouse.io/bluefishai/jobs/5013853008 | Bluefish AI | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/ciq/jobs/5209714008 | CIQ | Senior/Principal AI Performance Engineer
+- [ ] https://job-boards.greenhouse.io/yipitdata/jobs/7875686 | YipitData | AI Engineer
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8760168002 | Databricks | Sr. AI Engineer - Forward Deployed (US Federal)
+- [ ] https://job-boards.greenhouse.io/oddball/jobs/7861208003 | Oddball | Applied AI/ML Engineer
+- [ ] https://job-boards.greenhouse.io/kasisto/jobs/8406827002 | Kasisto | Solution Architect, Agentic AI Delivery
+- [ ] https://job-boards.greenhouse.io/productboard/jobs/7966594002 | Productboard | Senior Solutions Architect
+- [ ] https://boards.greenhouse.io/hightouch/jobs/4981337004 | Hightouch | AI Strategy Consultant
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/aa9432df-90a6-4eb2-9408-b649aeb35799 | Hippocratic AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/fal-ai/f8208e5c-d6ea-4fec-b270-71c0bf0fd3ba | fal | Senior/Staff Software Engineer, Forward Deployed
+- [ ] https://jobs.ashbyhq.com/gamechanger/b9bcb0e4-c76f-4900-acf1-a86ca0af8e45 | GameChanger | Senior AI Engineer, AI Enablement
+- [ ] https://jobs.ashbyhq.com/chariot/c0c2ea1d-2113-4543-acb9-5030a8fda7c7 | Chariot | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/blooming-health/a6d265bd-7e70-4225-9a8c-d49d552bf710 | Blooming Health | Senior AI Engineer, Conversational AI & Agentic Systems
+- [ ] https://jobs.ashbyhq.com/webai/78857124-6c27-4517-b8cc-61b5bd143ed6 | webAI | Senior Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/traba/075e537d-29d5-4f38-ab73-527576182497 | Traba | Senior Product Manager, AI Agents
+- [ ] https://jobs.ashbyhq.com/infinity-constellation/30fac65e-bcd7-4ecc-9477-fc7c8c8a9f52 | Infinity | Full Stack AI Engineer
