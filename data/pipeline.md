@@ -1357,3 +1357,12 @@
 - [ ] https://jobs.ashbyhq.com/webai/78857124-6c27-4517-b8cc-61b5bd143ed6 | webAI | Senior Forward Deployed AI Engineer
 - [ ] https://jobs.ashbyhq.com/traba/075e537d-29d5-4f38-ab73-527576182497 | Traba | Senior Product Manager, AI Agents
 - [ ] https://jobs.ashbyhq.com/infinity-constellation/30fac65e-bcd7-4ecc-9477-fc7c8c8a9f52 | Infinity | Full Stack AI Engineer
+- [ ] https://jobs.lever.co/SymmetrySystems/9eb07a70-d121-4bb2-8e26-cab25ff977d7 | Symmetry Systems | Lead Forward Deployed Engineer (FDE)
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8402727002 | Postscript | GTM Automation Engineer
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4674836005 | dbt Labs | GTM Automation Engineer
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5095441004 | Snorkel AI | Applied AI Engineer - Federal
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5387864004 | Snorkel AI | Senior Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5744025004 | Snorkel AI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5426189004 | Snorkel AI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5571163004 | Snorkel AI | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/e8d6f260-162c-45b8-96d3-701d4bf1b5cc | Jobgether | Senior Solutions Architect (AI)
