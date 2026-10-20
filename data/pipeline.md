@@ -1,6 +1,9 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://job-boards.greenhouse.io/anomalojobs/jobs/4543868005 | Anomalo | Senior Machine Learning Engineer - Gen AI and Product Applications
+- [ ] https://job-boards.greenhouse.io/censys/jobs/7887855002 | Censys | Senior Machine Learning Engineer
+- [ ] https://jobs.lever.co/provectus/dee7cfe8-2a4e-4465-b556-c5e762f66e62 | Provectus | Senior Product Owner / Forward Deployed Executive - AI Delivery
 - [ ] https://jobs.ashbyhq.com/rula/40915141-68c6-4a00-9581-95b158da6d91/application | Rula | Sr. Product Manager - AI (Remote)
 - [ ] https://jobs.ashbyhq.com/ninjatech.ai/f1199895-1edb-4a9e-b20b-9038aee28bcc | NinjaTech AI | AI Solutions Architect
 - [ ] https://jobs.ashbyhq.com/Hubs.is/1a63dcda-d399-4110-bbfb-c527531b01fd | Hubs.is | AI Solutions Architect
