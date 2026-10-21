@@ -1369,3 +1369,28 @@
 - [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5426189004 | Snorkel AI | Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5571163004 | Snorkel AI | Forward Deployed Engineer
 - [ ] https://jobs.lever.co/jobgether/e8d6f260-162c-45b8-96d3-701d4bf1b5cc | Jobgether | Senior Solutions Architect (AI)
+- [ ] https://job-boards.greenhouse.io/youcom/jobs/4803891008 | You.com | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/66degrees/jobs/5563837004 | 66degrees | Solutions Architect AI/ML
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4946442007 | Together AI | Solutions Architect (London Remote)
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5034699007 | Pallet | Solutions Architect (Remote)
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/4666028007 | Pallet | Forward Deployed Software Engineer (AI Agents)
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5821840004 | DevRev | Forward Deployed Engineer (Customer)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer, Agents
+- [ ] https://job-boards.greenhouse.io/prophecysimpledatalabs/jobs/4659903007 | Prophecy | AI/ML Agentic-Workflows Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4568067005 | Scale AI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5609732004 | Turing | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/jobgether/09a0fd1e-0cc8-4669-a99f-554aa0af77dc | Jobgether | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/AIFund/c5de2fed-fbe4-4ff2-97dc-3c4d79f471cc | AI Fund | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/9512e428-c7b4-4505-a2b8-873a8e187c74 | Jobgether | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/mostest/68e436d6-b632-434e-93ab-9314a642dce5 | Mostest | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/misfitsandmachines/bfb05e2a-24ed-4a0b-997f-72c4453180f6 | Misfits & Machines | AI Architect (Applied AI)
+- [ ] https://jobs.ashbyhq.com/starbridge/80ee1fbc-2de4-4c9a-b62a-be5ae89b0c37 | Starbridge | AI Engineer
+- [ ] https://jobs.ashbyhq.com/bunch/9b5e752a-ddca-4c44-9ab7-7f0c71f37514 | bunch | Senior Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/aim4hire/8e955fa6-9164-483d-a190-33520c9b9250 | Aim4Hire | AI Engineer
+- [ ] https://job-boards.greenhouse.io/rackner/jobs/4717776005 | Rackner | AI/ML Engineer - Generative AI
+- [ ] https://job-boards.greenhouse.io/sayari/jobs/4147128009 | Sayari | Staff Software Engineer Applied AI
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6174215004 | Hightouch | Software Engineer Applied AI Research
+- [ ] https://job-boards.greenhouse.io/yipitdata/jobs/7875686 | YipitData | AI Engineer
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 | Arize AI | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/assetwatch/jobs/4662993005 | AssetWatch | Sr. Applied AI Engineer
