@@ -1394,3 +1394,11 @@
 - [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5709067004 | Snorkel AI | Applied AI Engineer - AI Solutions
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 | Arize AI | Applied AI Engineer
 - [ ] https://job-boards.greenhouse.io/assetwatch/jobs/4662993005 | AssetWatch | Sr. Applied AI Engineer
+- [ ] https://jobs.lever.co/aircall/ced85f57-e8da-4788-b839-a7fcba9ec7f1 | Aircall | Forward Deployed Engineer - AI Solutions Engineering
+- [ ] https://jobs.lever.co/jobgether/f25ecfe5-5d94-4bfc-a5ed-2568d6762c9c | Jobgether | Senior Forward Deployed Engineer (Remote Build)
+- [ ] https://jobs.lever.co/jobgether/acbaec18-61b6-4293-8000-dbfb6d9cfbd4 | Jobgether | Senior Forward Deployed Engineer (Remote Build - South Africa)
+- [ ] https://job-boards.greenhouse.io/robotsandpencils/jobs/4958019008 | Robots & Pencils | Senior Forward Deployed Engineer, Agentic AI
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5527046004 | Turing | GenAI/LLM Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5480607004 | Turing | GenAI/LLM Solutions Architect (Remote)
+- [ ] https://job-boards.greenhouse.io/cultureamp/jobs/6784867 | Culture Amp | Senior AI Engineer - Applied AI
+- [ ] https://job-boards.greenhouse.io/orioninnovationnaukri/jobs/4659351006 | Orion Innovation | Gen AI Lead
