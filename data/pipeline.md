@@ -1402,3 +1402,16 @@
 - [ ] https://job-boards.greenhouse.io/turing/jobs/5480607004 | Turing | GenAI/LLM Solutions Architect (Remote)
 - [ ] https://job-boards.greenhouse.io/cultureamp/jobs/6784867 | Culture Amp | Senior AI Engineer - Applied AI
 - [ ] https://job-boards.greenhouse.io/orioninnovationnaukri/jobs/4659351006 | Orion Innovation | Gen AI Lead
+- [ ] https://jobs.ashbyhq.com/kota/891b3b57-ec1a-44e3-8b7a-bcd559935158 | Kota | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/newfront/03cb6d44-29d1-4f8f-b3b5-a330b97ffcdd | Newfront | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/futurefitai/dd73b48c-c680-4949-996d-8027890ca4c6 | FutureFit AI | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/rearc/57c90fab-0ad8-4ca9-89c9-caac0a86527c | Rearc | Senior AI Engineer
+- [ ] https://jobs.ashbyhq.com/artian/4e9e35fe-65de-49a2-96b2-eac41c12bc5e | Artian AI | Senior Software Engineer - AI/ML
+- [ ] https://jobs.ashbyhq.com/nectir/88b24e2a-c1ae-4063-94b6-5de68d1ea8f9 | Nectir | Senior AI Engineer
+- [ ] https://job-boards.greenhouse.io/nimblegravity/jobs/4671634005 | NimbleGravity | AI Engineer
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7580489 | Headspace | Principal Product Manager, LLM Innovation
+- [ ] https://job-boards.greenhouse.io/glossgenius/jobs/7590576003 | GlossGenius | Senior Product Manager, Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/6207542004 | Hightouch | Forward Deployed Architect
+- [ ] https://job-boards.greenhouse.io/natera/jobs/6115020004 | Natera | Staff Forward Deployed AI Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7728896 | Webflow | Senior Forward Deployed Engineer
