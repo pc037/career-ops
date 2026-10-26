@@ -1415,3 +1415,8 @@
 - [ ] https://job-boards.greenhouse.io/natera/jobs/6115020004 | Natera | Staff Forward Deployed AI Solutions Engineer
 - [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5132886007 | Defense Unicorns | Forward Deployed AI Engineer
 - [ ] https://job-boards.greenhouse.io/webflow/jobs/7728896 | Webflow | Senior Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/edgerunner-ai/3b2b46af-23e6-44bf-ac0a-f068423d8550 | EdgeRunner AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/latentlabs/bbb7dcf7-2311-4103-bebf-96901ca18775 | Latent Labs | Forward Deployed AI Engineer
+- [ ] https://jobs.ashbyhq.com/handshake/5fd7dcf2-d2a2-4d82-bc8a-82d701768b43 | Handshake | Senior AI Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45 | Navigate AI | AI Product Manager
+- [ ] https://jobs.ashbyhq.com/lark/4ccf1e87-0317-4dca-949d-f7cb4f76fad7 | Lark Health | Senior Product Manager AI Coaching
