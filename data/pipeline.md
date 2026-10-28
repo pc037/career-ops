@@ -1438,3 +1438,6 @@
 - [ ] https://boards.greenhouse.io/pulley/jobs/4474358008 | Pulley | Principal Product Manager, AI
 - [ ] https://boards.greenhouse.io/federato/jobs/4572387008 | Federato | Principal Product Manager, AI Platform
 - [ ] https://job-boards.greenhouse.io/cabify/jobs/7685281002 | Cabify | Senior Software Engineer, Business Automation
+- [ ] https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531 | Phantom | AI Engineer
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7992538003 | Engine | Senior Product Manager, Applied AI
+- [ ] https://job-boards.greenhouse.io/supplyhouse/jobs/6116582004 | SupplyHouse.com | Technical Product Manager - AI
