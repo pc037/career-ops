@@ -1420,3 +1420,26 @@
 - [ ] https://jobs.ashbyhq.com/handshake/5fd7dcf2-d2a2-4d82-bc8a-82d701768b43 | Handshake | Senior AI Forward Deployed Engineer
 - [ ] https://jobs.ashbyhq.com/navigate-ai/889f3a95-5945-45e2-9fad-61e12faf5c45 | Navigate AI | AI Product Manager
 - [ ] https://jobs.ashbyhq.com/lark/4ccf1e87-0317-4dca-949d-f7cb4f76fad7 | Lark Health | Senior Product Manager AI Coaching
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployment Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4678620101 | Speechmatics | Forward Deployment Engineer (Senior)
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4715911005 | AssemblyAI | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4632922005 | AssemblyAI | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/assemblyai/jobs/4714838005 | AssemblyAI | Forward Deployed Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4664711101 | PolyAI | Forward Deployed AI Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4563096101 | PolyAI | Forward Deployed AI Engineer
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4674583101 | PolyAI | Forward Deployed AI Engineer
+- [ ] https://job-boards.greenhouse.io/youcom/jobs/4803891008 | You.com | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4475616008 | Cresta | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/relyance/jobs/5819515004 | Relyance AI | Forward Deployed Engineer (West)
+- [ ] https://job-boards.greenhouse.io/pallet/jobs/5034699007 | Pallet | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4061774008 | Cresta | ML Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/smartasset/jobs/8014748002 | SmartAsset | Senior LLM Engineer
+- [ ] https://boards.greenhouse.io/pulley/jobs/4474358008 | Pulley | Principal Product Manager, AI
+- [ ] https://boards.greenhouse.io/federato/jobs/4572387008 | Federato | Principal Product Manager, AI Platform
+- [ ] https://job-boards.greenhouse.io/cabify/jobs/7685281002 | Cabify | Senior Software Engineer, Business Automation
+- [ ] https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531 | Phantom | AI Engineer
+- [ ] https://job-boards.greenhouse.io/engine/jobs/7992538003 | Engine | Senior Product Manager, Applied AI
+- [ ] https://job-boards.greenhouse.io/supplyhouse/jobs/6116582004 | SupplyHouse.com | Technical Product Manager - AI
+- [ ] https://job-boards.greenhouse.io/pulley/jobs/4474358008 | Pulley | Principal Product Manager, AI
+- [ ] https://jobs.lever.co/jobgether/f89f3c81-9e6b-4625-8ce1-a5c8e2369e2e | Jobgether | AI Forward Deployed Engineer, EMEA
