@@ -1,6 +1,9 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4095975008 | Cresta | Forward Deployed Engineer (AI Agent) [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/phizenix/jobs/4962306008 | Phizenix | Solutions Engineer - AWS Customer Experience & AI [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/rollstack/jobs/4916743008 | Rollstack | GTM / Revenue Automation Engineer [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/anomalojobs/jobs/4543868005 | Anomalo | Senior Machine Learning Engineer - Gen AI and Product Applications
 - [ ] https://job-boards.greenhouse.io/censys/jobs/7887855002 | Censys | Senior Machine Learning Engineer
 - [ ] https://jobs.lever.co/provectus/dee7cfe8-2a4e-4465-b556-c5e762f66e62 | Provectus | Senior Product Owner / Forward Deployed Executive - AI Delivery
