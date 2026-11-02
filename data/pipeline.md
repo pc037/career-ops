@@ -1446,3 +1446,6 @@
 - [ ] https://job-boards.greenhouse.io/supplyhouse/jobs/6116582004 | SupplyHouse.com | Technical Product Manager - AI
 - [ ] https://job-boards.greenhouse.io/pulley/jobs/4474358008 | Pulley | Principal Product Manager, AI
 - [ ] https://jobs.lever.co/jobgether/f89f3c81-9e6b-4625-8ce1-a5c8e2369e2e | Jobgether | AI Forward Deployed Engineer, EMEA
+- [ ] https://jobs.lever.co/provectus/f76f6c65-1649-4924-970d-a5982db6d684 | Provectus | ML Solutions Architect
+- [ ] https://jobs.lever.co/provectus/e92413ae-d12d-4aca-b403-c9f84b42cd33 | Provectus | AI/ML Solutions Architect
+- [ ] https://apply.workable.com/mlabs/j/0E0810D613 | MLabs | Forward Deployed Engineer
