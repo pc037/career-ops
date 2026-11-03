@@ -1449,3 +1449,7 @@
 - [ ] https://jobs.lever.co/provectus/f76f6c65-1649-4924-970d-a5982db6d684 | Provectus | ML Solutions Architect
 - [ ] https://jobs.lever.co/provectus/e92413ae-d12d-4aca-b403-c9f84b42cd33 | Provectus | AI/ML Solutions Architect
 - [ ] https://apply.workable.com/mlabs/j/0E0810D613 | MLabs | Forward Deployed Engineer
+- [ ] https://jobs.lever.co/jobgether/4b558143-e3aa-4f4e-abad-c661f3c56d16 | Jobgether | Senior Forward Deployed Engineer (Remote Build) [unconfirmed]
+- [ ] https://jobs.lever.co/jobgether/c5c7e15f-ede2-4cd8-abad-4681d0f7e46e | Jobgether | Senior Forward Deployed Engineer (Remote Build) [unconfirmed]
+- [ ] https://www.workatastartup.com/jobs/87274 | Nixo (YC S25) | Forward Deployed Engineer [unconfirmed]
+- [ ] https://jobs.lever.co/muttdata/7ffda368-5a18-4c14-bb2b-f109d00d8938 | Muttdata | Agentic AI DevOps Senior [unconfirmed]
