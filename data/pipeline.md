@@ -1453,3 +1453,5 @@
 - [ ] https://jobs.lever.co/jobgether/c5c7e15f-ede2-4cd8-abad-4681d0f7e46e | Jobgether | Senior Forward Deployed Engineer (Remote Build) [unconfirmed]
 - [ ] https://www.workatastartup.com/jobs/87274 | Nixo (YC S25) | Forward Deployed Engineer [unconfirmed]
 - [ ] https://jobs.lever.co/muttdata/7ffda368-5a18-4c14-bb2b-f109d00d8938 | Muttdata | Agentic AI DevOps Senior [unconfirmed]
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/4636107007 | Together AI | MLOps Engineer [unconfirmed batch mode]
+- [ ] https://apply.workable.com/raydar/j/6198E62EFE | Raydar | Founding Forward Deployed Engineer [unconfirmed batch mode]
