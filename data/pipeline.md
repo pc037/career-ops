@@ -1,6 +1,16 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://jobs.ashbyhq.com/modal/053ff040-7701-40fb-b349-2f8ea5f870d6 | Modal | Forward Deployed Engineer - ML (London) [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6225940004 | NeuraFlash | Forward Deployed Engineer, AI & Agentforce [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/point72/jobs/8649431002 | Point72 | AI Solutions Architect [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/celigo/jobs/8083932 | Celigo | Forward Deployed AI Engineer [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/llrpartnersjobs/jobs/4399904009 | LLR Partners | Forward Deployed Engineer [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/impiricus/jobs/5432801008 | Impiricus | AI Solutions Architect [unconfirmed batch mode]
+- [ ] https://jobs.ashbyhq.com/sardine/4ff32b5d-13c6-4024-826c-04ed2881d688 | Sardine | Forward Deployed AI Engineer [unconfirmed batch mode]
+- [ ] https://jobs.ashbyhq.com/Hippocratic%20AI/91baeb31-d293-4b92-b65d-66618f1ac449 | Hippocratic AI | Solutions Architect, Inbound AI Deployments [unconfirmed batch mode]
+- [ ] https://jobs.ashbyhq.com/Speakeasy/def210b2-b6aa-421b-84c4-dcd278f95db9 | Speakeasy | Forward Deployed Engineer [unconfirmed batch mode]
+- [ ] https://jobs.ashbyhq.com/true-talent-solutions-partners/cd948398-fe9a-4395-abf4-4f73609e7dea | True Talent Solutions Partners | Forward Deployed Engineer [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/cresta/jobs/4095975008 | Cresta | Forward Deployed Engineer (AI Agent) [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/phizenix/jobs/4962306008 | Phizenix | Solutions Engineer - AWS Customer Experience & AI [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/rollstack/jobs/4916743008 | Rollstack | GTM / Revenue Automation Engineer [unconfirmed batch mode]
