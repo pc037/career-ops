@@ -1509,3 +1509,41 @@
 - [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101 | PolyAI | Forward Deployed AI Engineer [unconfirmed - network restriction]
 - [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer [unconfirmed - network restriction]
 - [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4678620101 | Speechmatics | Forward Deployed Engineer [unconfirmed - network restriction]
+- [ ] https://job-boards.greenhouse.io/typeface/jobs/4989851007 | Typeface | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/humansignal/jobs/4990586004 | HumanSignal | Solutions Architect - Post Sales
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8430112002 | Airtable | Lead Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7615560003 | LaunchDarkly | Staff Solutions Architect AI
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4663045005 | Glean | Partner Solutions Architect Innovation Lab
+- [ ] https://job-boards.greenhouse.io/forethought/jobs/5483492004 | Forethought | AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5806749004 | Vercel | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/coderoad/jobs/4112522009 | CodeRoad | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/devrev/jobs/5668875004 | DevRev | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/nexla/jobs/4667709005 | Nexla | Forward Deployed Engineer AI
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/manifoldai/jobs/6608240003 | Manifold AI | Senior Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/signifyd95/jobs/7551433 | Signifyd | Senior AI Product Manager
+- [ ] https://job-boards.greenhouse.io/yipitdatajobs/jobs/7722317 | YipitData | Product Manager AI
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5147759008 | Honeycomb | Staff Product Manager AI Team
+- [ ] https://job-boards.greenhouse.io/bobsledinc/jobs/4609294005 | Bobsled | AI Engineer
+- [ ] https://job-boards.greenhouse.io/rollstack/jobs/4563775008 | Rollstack | AI Software Engineer LLM
+- [ ] https://boards.greenhouse.io/spotai/jobs/5849617003 | Spot AI | Staff Software Engineer AI
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4825141101 | Parloa | Forward Deployed Engineer VoIP
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/interfaceai/jobs/4579161006 | Interface AI | AI Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/dialpad/jobs/8417682002 | Dialpad | Sr AI Solutions Architect
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/7008796 | Talkdesk | AI Deployment Strategist Solutions Engineer
+- [ ] https://www.ycombinator.com/companies/kilvin/jobs/5WEK19z-forward-deployed-engineer | Kilvin | Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/arist/jobs/YvFJJNd-forward-deployed-engineer-senior | Arist | Senior Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/cair-health/jobs/Ye8X3VN-founding-forward-deployed-engineer | Cair Health | Founding Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/acrely/jobs/3hQTILl-forward-deployed-engineer | Acrely | Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/flair-labs/jobs/fyXhYIj-forward-deployed-engineer-flair-labs | Flair Labs | Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/zep-ai/jobs/mVon3qA-head-of-forward-deployed-engineering | Zep AI | Head of Forward Deployed Engineering
+- [ ] https://www.ycombinator.com/companies/airweave/jobs/OH2VNh6-founding-forward-deployed-engineer | Airweave | Founding Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/rebolt/jobs/G4aLyQv-founding-forward-deployed-engineer | Rebolt | Founding Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/firecrawl/jobs/qvF9eu1-forward-deployed-engineer-integrations | Firecrawl | Forward Deployed Engineer Integrations
+- [ ] https://www.ycombinator.com/companies/zep-ai/jobs/3rQuV1s-lead-forward-deployed-engineer | Zep AI | Lead Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/dot/jobs/iEYebw2-forward-deployed-ai-engineer-remote | Dot | Forward Deployed AI Engineer
+- [ ] https://www.ycombinator.com/companies/cedana/jobs/d1vYocG-forward-deployed-engineer-ai-hpc | Cedana | Forward Deployed Engineer AI HPC
+- [ ] https://www.ycombinator.com/companies/artisan/jobs/aQCpHXH-forward-deployed-engineer | Artisan | Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/brainbase-labs/jobs/RpzQDaa-founding-forward-deployed-engineer | Brainbase Labs | Founding Forward Deployed Engineer
+- [ ] https://www.ycombinator.com/companies/firecrawl/jobs/DqpIB81-forward-deployed-engineer | Firecrawl | Forward Deployed Engineer
