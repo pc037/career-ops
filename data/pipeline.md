@@ -1547,3 +1547,11 @@
 - [ ] https://www.ycombinator.com/companies/artisan/jobs/aQCpHXH-forward-deployed-engineer | Artisan | Forward Deployed Engineer
 - [ ] https://www.ycombinator.com/companies/brainbase-labs/jobs/RpzQDaa-founding-forward-deployed-engineer | Brainbase Labs | Founding Forward Deployed Engineer
 - [ ] https://www.ycombinator.com/companies/firecrawl/jobs/DqpIB81-forward-deployed-engineer | Firecrawl | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/bobsledinc/jobs/4631634005 | Bobsled | AI Engineer (LLM/Text-to-SQL, Remote US/Europe) [unconfirmed network restricted]
+- [ ] https://job-boards.greenhouse.io/bobsledinc/jobs/4631725005 | Bobsled | Forward Deployed AI Engineer [unconfirmed network restricted]
+- [ ] https://job-boards.greenhouse.io/commerceiq/jobs/7646951003 | CommerceIQ | Forward Deployed Engineer, London [unconfirmed network restricted]
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7921664 | Webflow | Senior Business Systems Analyst, Enterprise AI Operations [unconfirmed network restricted]
+- [ ] https://job-boards.greenhouse.io/processstreet/jobs/8093334002 | Process Street | Solutions Engineer [unconfirmed network restricted]
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8041434002 | Airtable | AI/Automation Engineer [unconfirmed network restricted]
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8117292002 | Airtable | AI/Automation Role [unconfirmed network restricted]
+- [ ] https://job-boards.greenhouse.io/colabsoftware/jobs/5125472008 | CoLab | Business Systems Engineer [unconfirmed network restricted]
