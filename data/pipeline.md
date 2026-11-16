@@ -1569,3 +1569,6 @@
 - [ ] https://jobs.lever.co/jobgether/da95bc6f-d311-413e-800a-de266469460a | Jobgether | Solutions Architect [unconfirmed batch mode]
 - [ ] https://jobs.lever.co/insiderone/c5d7b7af-52d0-41c0-8c2b-5272d3064e59 | InsiderOne | Solutions Architect [unconfirmed batch mode]
 - [ ] https://jobs.lever.co/jobgether/f5af6cae-7ae6-4998-a704-e17a6ddb5098 | Jobgether | Solutions Architect [unconfirmed batch mode]
+- [ ] https://jobs.lever.co/jobgether/1738cfff-71d7-4b42-8c2d-dcd088dfd070 | Jobgether | Forward Deployed Engineer (AI Capability Center) [unconfirmed batch mode]
+- [ ] https://jobs.lever.co/AIFund/c5de2fed-fbe4-4ff2-97dc-3c4d79f471cc | AI Fund | Forward Deployed Engineer [unconfirmed batch mode]
+- [ ] https://www.ycombinator.com/companies/karumi/jobs/mzQuJ9K-founding-forward-deployed-engineer-fde | Karumi | Founding Forward Deployed Engineer (FDE) [unconfirmed batch mode]
