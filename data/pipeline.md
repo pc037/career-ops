@@ -1,6 +1,9 @@
 # Pipeline — Pending Evaluations
 
 ## Pendientes
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7066969 | Webflow | Senior Business Systems Analyst (AI/Automation) [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7376923 | Webflow | Senior Business Systems Analyst (GTM/Automation) [unconfirmed batch mode]
+- [ ] https://jobs.lever.co/hive/55154d4d-bd3e-4f83-9ec3-982da1e8da42 | Hive | Forward Deployed Software Engineer [unconfirmed batch mode]
 - [ ] https://jobs.ashbyhq.com/modal/053ff040-7701-40fb-b349-2f8ea5f870d6 | Modal | Forward Deployed Engineer - ML (London) [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/neuraflash/jobs/6225940004 | NeuraFlash | Forward Deployed Engineer, AI & Agentforce [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/point72/jobs/8649431002 | Point72 | AI Solutions Architect [unconfirmed batch mode]
