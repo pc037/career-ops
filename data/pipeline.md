@@ -1581,3 +1581,6 @@
 - [ ] https://www.workatastartup.com/jobs/74753 | Mercura | AI Engineer [websearch_unverified]
 - [ ] https://www.welcometothejungle.com/en/companies/mistral-ai/jobs/ai-deployment-strategist_madrid | Mistral AI | AI Deployment Strategist - Madrid [websearch_unverified]
 - [ ] https://job-boards.eu.greenhouse.io/tensorops/jobs/5022827101 | TensorOps | AI Developer Advocate [websearch_unverified]
+- [ ] https://job-boards.greenhouse.io/dialpad/jobs/8203047002 | Dialpad | Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4062471008 | Cresta | Forward Deployed Engineer (AI Agent)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/4623638008 | Cresta | Principal Solutions Engineer
