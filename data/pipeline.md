@@ -1584,3 +1584,7 @@
 - [ ] https://job-boards.greenhouse.io/dialpad/jobs/8203047002 | Dialpad | Forward Deployed Engineer
 - [ ] https://job-boards.greenhouse.io/cresta/jobs/4062471008 | Cresta | Forward Deployed Engineer (AI Agent)
 - [ ] https://job-boards.greenhouse.io/cresta/jobs/4623638008 | Cresta | Principal Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5491095004 | Turing | AI Engineer [unconfirmed batch mode]
+- [ ] https://boards.greenhouse.io/turing/jobs/5068741004 | Turing | LLM Engineer [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/turing/jobs/5453454004 | Turing | Senior AI Engineer [unconfirmed batch mode]
+- [ ] https://boards.greenhouse.io/censys/jobs/7104042002 | Censys | Senior Software Engineer, AI/LLM [unconfirmed batch mode]
