@@ -1588,3 +1588,6 @@
 - [ ] https://boards.greenhouse.io/turing/jobs/5068741004 | Turing | LLM Engineer [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/turing/jobs/5453454004 | Turing | Senior AI Engineer [unconfirmed batch mode]
 - [ ] https://boards.greenhouse.io/censys/jobs/7104042002 | Censys | Senior Software Engineer, AI/LLM [unconfirmed batch mode]
+- [ ] https://jobs.lever.co/jobgether/1aec8947-bb76-4d60-be21-02c913354c87 | Jobgether | Senior AI Field Engineer (Enterprise) [unconfirmed scan mode]
+- [ ] https://jobs.lever.co/jobgether/60e2fcfa-1d70-4951-8a98-9be0d0cc346e | Jobgether | AI Engineer - AI Agents [unconfirmed scan mode]
+- [ ] https://jobs.lever.co/ro/0b6ded09-e358-4e39-a428-a2cbf6b15cda | Ro | AI Engineer [unconfirmed scan mode]
