@@ -1613,3 +1613,6 @@
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 | Anthropic | Applied AI Engineer, Public Sector [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/togetherai/jobs/5302781007 | Together AI | Forward Deployed Engineer, Applied AI [unconfirmed batch mode]
 - [ ] https://job-boards.greenhouse.io/savantbio/jobs/8162822 | Savant Bio | AI Engineer - Applied AI [unconfirmed batch mode]
+- [ ] https://jobs.ashbyhq.com/docker/447c79ca-e8f7-4c87-af9d-74205d4ac2dd | Docker | Principal Solutions Architect, Professional Services [unconfirmed batch mode]
+- [ ] https://jobs.ashbyhq.com/sardine/b03b9dc7-9655-4eda-b918-7acd3da2ffb0 | Sardine | Solutions Architect, Integrations - Public Sector (US) [unconfirmed batch mode]
+- [ ] https://jobs.ashbyhq.com/temporal/251c4fdd-8bcc-4950-a814-4eff377592a8 | Temporal | Senior Solutions Architect, Scale [unconfirmed batch mode]
