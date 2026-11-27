@@ -1627,3 +1627,7 @@
 - [ ] https://jobs.lever.co/jobgether/0a00ae92-e87d-4402-9e99-6eac09f68ceb | Jobgether | Senior ML Ops Engineer [unconfirmed batch mode]
 - [ ] https://jobs.lever.co/jobgether/a8ce67f3-bdab-4976-a664-9f7fbb279cde | Jobgether | AI Operations Engineer [unconfirmed batch mode]
 - [ ] https://jobs.lever.co/jobgether/10aa79a4-c6c6-4d65-9be0-e5378873fd83 | Jobgether | Technical Architect - MLE [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7689724 | Greenhouse | Principal Product Manager [unconfirmed batch mode]
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4822441101 | PolyAI | Forward Deployed AI Engineer [unconfirmed batch mode]
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8162852 | Talkdesk | Forward Deployed AI Engineer [unconfirmed batch mode]
+- [ ] https://www.workatastartup.com/jobs/86119 | Airweave | Founding Forward Deployed Engineer [unconfirmed batch mode]
